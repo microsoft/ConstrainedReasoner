@@ -1,0 +1,20 @@
+Forty years ago Friday the most popular video game of all time was released.
+Forty years ago Friday the most popular video game of all time was released.
+Pac-Man was designed by a nine-person team at the Japanese company Namco.
+Today, the game has been born again, this time the result of an artificial intelligence model undertaken by Nvidia Research. And it was accomplished without an underlying game engine, the standard procedure for designing such games, but rather by training a neural network by having it "watch" 50,000 hours of the original game.
+GameGAN is considered the first neural network model employing generative adversarial networks. In this type of system, one network learns to recognize patterns within images and create its own distinctive images in a fashion similar to the origjnals. An adversarial computer is tasked with distinguishing between real mages and the manufactured ones.
+In this instance, Nvidia researchers did no game programming, but rather relied on GameGAN to examine Pac-Man libraries and then construct its own scenarios of the game. In other words, with artificial intelligence, a realistic copy of the game was created even though there is no code mapping the game's fundamental rules.
+"This is the first research to emulate a game engine using GAN-based neural networks," according to Seung-Wook Kim, the lead Nvidia researcher on the project. "We wanted to see whether the AI could learn the rules of an environment just by looking at the screenplay of an agent moving through the game. And it did."
+Researchers are pleased with the results of the regenerated Pac-Man, but see applications beyond gaming in the future. The system can be applied to robotics where machines will work side by side with humans in cooperative manufacturing ventures, for instance. Self-driving cars are another field ripe for research.
+"We could eventually have an AI that can learn to mimic the rules of driving, the laws of physics, just by watching videos and seeing agents take actions in an environment," said Sanja Fidler, director of the Nvidia research lab in Toronto. "GameGAN is the first step toward that."
+For Rev Lebaredian, vice president of simulation technology at Nvidia, it all comes down to simple observation.
+"It learns all of these things just by watching… similar to how a human programmer can watch many episodes of Pac-Man on YouTube and infer what the rules of the games are and reconstruct them."
+Nvidia says it will make the game available on its online AI Playground later this year.
+Six fun facts about Pac-Man:
+— Pac-Man is often cited as the most popular video game of all time. According to the Davie Brown Index, is has the highest brand awareness in its class of all video game characters.
+— According to Money magazine, the Pac-Man franchise has sold an estimated 44 million games since May 22, 1980. And as of 2016, it generated more than $14 billion in revenue.
+— The first person credited with having won a perfect score of 3,333,360—earning the maximum possible score in the first 255 levels by eating all dots, energizers, fruits and enemies, without losing a life, and using extra lives to score the maximum on level 256—was Billy Mitchell in 1999. As of 2019, seven other players have attained that level.
+— Pac-Man is part of the Smithsonian Institution's collection and is in the New York Museum of Modern Art display.
+— Guinness World Records lists Pac-Man for eight records, including "Most Successful Coin-Operated Game."
+— The game, created in Japan, was originally named Puck Man, but that was changed to Pac-Man for release in the English-speaking world because developers feared mischievous teenagers would alter the nameplates to spell out a distasteful word.
+© 2020 Science X Network

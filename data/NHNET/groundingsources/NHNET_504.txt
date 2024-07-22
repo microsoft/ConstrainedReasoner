@@ -1,0 +1,11 @@
+CD Projekt Red is rolling out its version 1.1 update for Cyberpunk 2077 as promised. The update is available for download across all platforms, including PC, PlayStation 4, Xbox One, and Stadia.
+Patch 1.1 is out on PC, consoles and Stadia!
+In this update, which lays the groundwork for the upcoming patches, we focused on various stability improvements and bugfixes.
+List of changes: https://t.co/NlSEKjsax7 pic.twitter.com/WjLcD0SaZk — Cyberpunk 2077 (@CyberpunkGame) January 22, 2021
+v1.1 focuses only on fixing some of the major game-breaking bugs and also improves performance in some instances. I won't get into the full list of bug fixes here, and you can check them out in the source link below, but most of them pertain to missions that had glitches that prevented progressing further into the game.
+The information on the performance improvements is less specific but CDPR does mention that it has improved memory usage across all platforms. I didn't see a particularly big improvement in memory allocation in some areas of the game that I'm familiar with that max out my VRAM but your mileage may vary.
+On the consoles, the PS4 Pro (and subsequently the PS5 that uses the same build) get performance optimizations of crowds and also some crash fixes. On the Xbox One, you get improved memory optimization in various areas. Meanwhile, the Stadia version has a couple of fixes and improvement to the default deadzone on the controller.
+CDPR also notes that it has fixed various crashes in the game, particularly on the PC. Oddly enough, I never experienced any crashes prior to installing this patch but got one in the first few minutes of playing after patching.
+If you were expecting changes to the AI or other fundamental aspects of the game, then you won't find them here. v1.1 still plays the same as before, just has fewer bugs. CDPR says this update lays the groundwork for the upcoming patches and that the focus was on stability improvements and bug fixes.
+Hopefully, future updates would bring some more gameplay and content related changes while continuing to fix the bugs.
+Source

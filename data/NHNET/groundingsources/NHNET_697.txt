@@ -1,0 +1,5 @@
+Close Get email notifications on {{subject}} daily!
+Your notification has been saved.
+There was a problem saving your notification.
+{{description}}
+Email notifications are only sent once a day, and only if there are new matching items.

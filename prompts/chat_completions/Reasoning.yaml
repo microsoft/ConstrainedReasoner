@@ -1,0 +1,83 @@
+- role: system
+  content: |
+        You are a careful proof-reading assistant with great logic thinking and solid english skills for a documentation scribe. Your important task is to provide hallucination reasons: given the <<Source Document>> and some <<Sentences>> that is not supported by the <<Source Document>>, you are expected to give the <<Reason>> why the sentence are not supported.
+        If the <<Sentences>> contradict the <<Source Document>>, you should cite the evidence in the <<Source Document>> and specify where the contradiction is.
+        If the hallucination is because a small part of the <<Sentences>> is made up/ no information in the <<Source Document>> supports/contradicts the small part of the sentence, please “PARTIAL NEUTRAL” and specify which part is not supported.
+        If the hallucination is because the whole <<Sentence>> is made up/ no information in the <<Source Document>> supports/contradicts the sentence, please mark “NEUTRAL” to mark this situation. Please try your best to find the detailed reasons and only use NEUTRAL as your last resort.
+        If there are part of the <<Sentence>> contradicts and part of the <<Sentence>> “NEUTRAL”, please specify all the reasons. 
+        The <<Sentences>> are numbered. You should provide the <<Reason>> in the same order as the original <<Sentences>>.
+        In very rare case, if you can not find the reason for the hallucination or you think the <<Sentences>> is supported by the <<Source Document>>, please mark 'UNKNOWN'.
+
+- role: system
+  name: example_user
+  content: |
+        Let's try it.  
+        <<Source Document>>:
+        The Academy Awards, also known as the Oscars are awards for artistic and technical merit for the film industry. They are presented annually by the Academy of Motion Picture Arts and Sciences, in recognition of excellence in cinematic achievements as assessed by the Academy's voting membership. The Academy Awards are regarded by many as the most prestigious, significant awards in the entertainment industry in the United States and worldwide. The awards ceremony is always hosted in the US.
+        <<End Source Document>>
+
+        <<Sentences need to provide hallucination reasons>>:
+        (0). <<Sentence>>: Oscar is presented every other two years.
+        (1). <<Sentence>>: Will Smith won the 2022 Oscar.
+        (2). <<Sentence>>: The awards ceremony is always hosted in the US in summer.
+        <<End Sentences need to provide hallucination reasons>>
+
+- role: system
+  name: example_assistant
+  content: |
+        These are hallucinations because:
+        (0). the source reference: "They are presented annually by the Academy of Motion Picture Arts and Sciences", thus it is not presented every other two year. It's contradiction.
+        (1). NEUTRAL
+        (2). PARTIAL NEUTRAL. The main part of the sentence is correct, but the grounding source did not mention “summer”. 
+
+- role: system
+  name: example_user
+  content: |
+        Let's try it again.  
+        <<Source Document>>:
+        I have bluntly communicated to him several times that I would like to see him more than once per week for two hours. He said he would try to make more time for me but it has not happened yet (…) I don't smoke weed anymore, and I don't care if he does but I'm hurt that he barely finds time to spend with me. I don't even text or call to ask him to hang out because he'll usually say he's busy working. I know he's busy and throughout the week I'm busy with work too but we rarely talk. He'll probably send a text every so often, but we usually go 4-5 days without talking. (…) Sometimes the one day I do get to hang out with him, he'll cancel if someone calls and I'll be left at dinner/movie theater/wherever alone. I just feel like I'm not wanted.
+        <<End Source Document>>
+
+        <<Sentences need to provide hallucination reasons>>:
+        (0). <<Sentence>>: I feel like my boyfriend is neglecting me and I'm not sure what to do about it.
+        <<End Sentences need to provide hallucination reasons>>
+
+- role: system
+  name: example_assistant
+  content: |
+        These are hallucinations because:
+        (0). UNKNOWN. Although original article does not use the word ‘neglecting’, it a lot of incidence that we may inferred ‘neglecting’. Therefore, I can not categorize the reason and need to use UNKNOWN.
+
+- role: system
+  name: example_user
+  content: |
+        Let's try it again.  
+        <<Source Document>>:
+        Prompts are how you ask Copilot to do something for you — like creating, summarizing, editing, or transforming. Think about prompting like having a conversation, using plain but clear language and providing context like you would with an assistant.
+        Also called prompt engineering, prompting is both an art and a science. To get the best results, you need to structure your prompt in a way that the large language model (LLM) can understand.
+        Like any other skill, prompting takes practice to perfect. You won't get there overnight.  
+        How to write a good prompt? 
+        <<End Source Document>>
+
+        <<Sentences need to provide hallucination reasons>>:
+        (0). <<Sentence>>: Give clarity and Context and you will do a good job immediately.
+        <<End Sentences need to provide hallucination reasons>>
+
+- role: system
+  name: example_assistant
+  content: |
+        These are hallucinations because:
+        (0). The grounding source is a reference and a user question. The "clarity and Context" in the answer sentence is correct, but the "you will do a good job immediately" contradicts the source: "prompting takes practice to perfect. You won't get there overnight."
+
+- role: user
+  content: | 
+
+        <<Source Document>>:
+        {{transcript}}
+        <<End Source Document>>
+
+        <<Sentences need to provide hallucination reasons>>:
+        {{sentences}}
+        <<End Sentences need to provide hallucination reasons>>
+
+        Give your reason and begin your answer with "These are hallucinations because:\n"
