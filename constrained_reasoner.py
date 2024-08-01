@@ -331,75 +331,25 @@ class HDreasoning():
         return  top_votes[0]
     
     @staticmethod
-    def load_tsv_hd_results( file_name: str, label_colname = "IsHallucination") -> Dict[str, List[HdResult]]:
-        ''' load tsv, normally they are the groundtruth files, and we take them as the hd_results to isolate the rewrite performance.
-            load the hallucinated sentences and the explanation if it has.
-        '''
-
+    def convert_df( df) -> Dict[str, List[HdResult]]:
         hd_results = {}
-        df = pd.read_csv(file_name, sep='\t')
-        # Check if we have explanation column
-        if "Explanation" in df.columns:
-            has_exp = True
-            for index, row in df.iterrows():
-                encounter_id = row['EncounterID']
-                IsHallucination = row[label_colname]
-                if IsHallucination==1:
-                    if encounter_id not in hd_results:
-                        hd_results[encounter_id] = []
-                    hd_results[encounter_id].append(HdResult(
-                        sentence_id = row['SentenceID'],
-                        hallucinated_sentence = row['Sentence'],
-                        reason = row["Explanation"],
-                        instruction = row["Explanation"],
-                        detection_type = "sentence-level"
-                    ))
-        else:
-            has_exp = False
-            reason = "This claim is not grounded to the source given" 
-            for index, row in df.iterrows():
-                encounter_id = row['EncounterID']
-                IsHallucination = row[label_colname]
-                if IsHallucination==1:
-                    if encounter_id not in hd_results:
-                        hd_results[encounter_id] = []
-                    hd_results[encounter_id].append(HdResult(
-                        sentence_id = row['SentenceID'],
-                        hallucinated_sentence = row['Sentence'],
-                        reason = reason,
-                        instruction = reason,
-                        detection_type = "sentence-level"
-                    ))
+        for index, row in df.iterrows():
+            encounter_id = row['EncounterID']
+            if encounter_id not in hd_results:
+                hd_results[encounter_id] = []
+            hd_results[encounter_id].append(HdResult(
+                sentence_id = row['SentenceID'],
+                hallucinated_sentence = row['Sentence']
+            ))
 
         return hd_results
-    @staticmethod
-    def load_sentencelevel_file( hypothesisfile, onlygt_label = 1 ) -> dict:
-        ''' onlygt_label can be 1 or 0'''
-        hypdf = pd.read_csv(hypothesisfile, sep='\t', header=0)
-        hypdf = hypdf[hypdf['IsHallucination']==onlygt_label]
-        hypsens = {}
-        important_columns = hypdf[["EncounterID", "SentenceID", "Sentence"]]
-        important_columns = important_columns.drop_duplicates()
-        for index, row in important_columns.iterrows():
-            # because the loaded result IDs are int, but transcripts IDs are
-            # string
-            En_Id = str(row["EncounterID"])
-            if not hypsens.__contains__(En_Id):
-                hypsens[En_Id] = []
-            sen_dict = {
-                'sentence_id': row["SentenceID"],
-                'text': row["Sentence"]
-            }
-            hypsens[En_Id].append(sen_dict)
-        return hypsens
-                 
-    def reason(self, hd_results_file: str, inputhypothesis: str, transcript_path: str, dataset_name : str, exp_name : str, testmode=0, onlygt_label = 1 ):
+              
+    def reason(self, hd_results_file: str, transcript_path: str, dataset_name : str, exp_name : str, onlygt_label = 1  ):
         '''
         hd_results_file: tsv file. we load the hallucinated sentences and the explanation if it has in this file
-        inputhypothesis: tsv file
-        Due to the prompt need the whole hypothesis, so here if it is a tsv, each encounter should only have a row with all the hypothesis
-
-        onlygt_label: if we only load the part of the gt in the hypothesis. If 1, we only load the hallucinated hypothesis. 
+        transcript_path： where the grounding sources are.
+        onlygt_label: if we only load the part of the gt in the hypothesis. 
+        If 1, we only load the hallucinated hypothesis. 
         if 0, we load correct hypothesis.
         if 2, we load all hypothesis
         exp_name: the experiment name, used to save the result
@@ -408,18 +358,18 @@ class HDreasoning():
         os.makedirs(results_folder, exist_ok=True)
         
         # load hd result
-        hd_results = HDreasoning.load_tsv_hd_results(hd_results_file)
+        df = pd.read_csv(hd_results_file, sep='\t')
+        if onlygt_label == 1:
+            df = df[df['IsHallucination'] == 1]
+        elif onlygt_label == 0:
+            df = df[df['IsHallucination'] == 0]
+        hd_results = HDreasoning.convert_df(df)#load to payloads
         # load encounter transcripts and sentences need to be judged.
-        encounterloader = EncounterLoader(
-        hypothesis= inputhypothesis,
-        transcriptfolder=transcript_path)
-        if onlygt_label == 1 or onlygt_label==0:
-            encounterloader._hypothesis = HDreasoning.load_sentencelevel_file(inputhypothesis, onlygt_label)
-            print("only the hypthesis of label:" + str(onlygt_label)+ " are loaded")
-        import pdb; pdb.set_trace()  
+        encounterloader = EncounterLoader( transcriptfolder=transcript_path)
+
         start_time = time.time()
         results = self.find_reasons(
-        encounter_ids = list(hd_results.keys())[0: testmode] if  testmode >0 else list(hd_results.keys()),
+        encounter_ids = list(hd_results.keys()),
         transcripts = encounterloader._transcripts,
         hd_results = hd_results, 
         )
@@ -439,58 +389,11 @@ class HDreasoning():
                     res["GPTUnknown"] = HDreasoning.parse_unknown(hr_res.reason)
                     enc_res.append(res)
             df_res = pd.DataFrame(enc_res)
+            # merge df_res back to df
+            df = pd.merge(df, df_res, on=["EncounterID", "SentenceID"], how="left")
             file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_result.tsv")
-            df_res.to_csv(file, sep='\t', index=False)
-            len1 = len(df_res)
-            # merge with gt
-            if "tsv" in  inputhypothesis:
-                df_gt = pd.read_csv(inputhypothesis, sep='\t', header=0)
-                df_res = pd.merge(df_res, df_gt, on=["EncounterID","SentenceID"], how = "inner")
-                len2 = len(df_res)
-                if len2<len1:
-                    print('size different')
-                    import pdb; pdb.set_trace()
-                # check NEUTRAL accuracy
-                if "IsNeutral" in df_gt.columns:
-                    target_names = [
-                        'ReasonNotNEUTRAL',
-                        'ReasonNEUTRAL']
-                    
-                    cr = classification_report(
-                        df_res["IsNeutral"],
-                        df_res["GPTNeutral"],
-                        target_names=target_names,
-                        labels=np.arange(0, len(target_names)),
-                        digits=2, output_dict=True)
-                    result = dict()
-                    # get num of unknown
-                    result["GPTUnknown"] = df_res["GPTUnknown"].sum()
-                    for i in range(len(target_names)):
-                        result[target_names[i]+'_precision'] = cr[target_names[i]]['precision'] 
-                        result[target_names[i]+'_recall'] = cr[target_names[i]]['recall'] 
-                        result[target_names[i]+'_f1-score'] = cr[target_names[i]]['f1-score']
-                # for the ones that prediction is not 'NETURAL', and the gt is 'NEUTRAL', we need to check the reason quality
-                try: 
-                    df_res = df_res[~((df_res["IsNeutral"]==1) & (df_res["GPTNeutral"]==1))]
-                    result["Predict or GT not NETURAL"] = len(df_res)
-                except Exception as e:
-                    import pdb; pdb.set_trace()
-                if "Explanations" in df_res: #if we have human written reason references
-                    result1 = self._evaluator.evaluate(df_res["GPTreason"].tolist(), df_res["Explanations"].tolist())
-                    # just save the result
-                    result.update(result1)
-                    print(result)
-                    return result
-                elif "Explanation" in df_res:
-                    # if we dont have multiple references, just use the single reference
-                    result1 = self._evaluator.evaluate(df_res["GPTreason"].tolist(), df_res["Explanation"].tolist())
-                    # just save the result
-                    result.update(result1)
-                    print(result)
-                    return result
-                else:
-                    print("no explanation column")
-                    return None
+            df.to_csv(file, sep='\t', index=False)
+ 
         else:
             for result in results: # the result is a list [ {encounter_id: xx, sen_reasons: [{sentence_id:yy, reason:zz }] ...}  ...]
                 for hr_res in result.sen_reasons:
@@ -503,64 +406,24 @@ class HDreasoning():
                     res["GPTReasonCategoryAll"] = allcat
                     enc_res.append(res)
             df_res = pd.DataFrame(enc_res)
+            df = pd.merge(df, df_res, on=["EncounterID", "SentenceID"], how="left")
             file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_Categoryresult.tsv")
-            df_res.to_csv(file, sep='\t', index=False)
-            len1 = len(df_res)
-            # merge with gt
-            # HallucinationCategory is the GT for the hallucination category. it is a list of numbers no prefix (in string I think)
-            if "tsv" in  inputhypothesis:
-                df_gt = pd.read_csv(inputhypothesis, sep='\t', header=0)
-                df_res = pd.merge(df_res, df_gt, on=["EncounterID","SentenceID"], how = "inner")
-                len2 = len(df_res)
-                if len2<len1:
-                    print('size different')
-                    import pdb; pdb.set_trace()
-                # check NEUTRAL accuracy
-                if "HallucinationCategory" in df_gt.columns:
-                    # get the majority vote category in GT "HallucinationCategory"
-                    def convert_string_to_list(string):
-                        try:
-                            # Safely evaluate the string to a list
-                            return ast.literal_eval(string)
-                        except ValueError:
-                            # Return the original string if it's not a list format
-                            return string
-                    df_res['HallucinationCategory'] = df_res['HallucinationCategory'].apply(convert_string_to_list)
-                    df_res['HallucinationCategoryMajorityVote'] = df_res['HallucinationCategory'].apply(lambda x: HDreasoning.get_first_majority_vote(x))
-                  
-                    cr = classification_report(
-                        df_res["HallucinationCategoryMajorityVote"].tolist(),
-                        df_res["GPTReasonCategoryLast"].tolist(),
-                        digits=2, output_dict=True, labels=  list(self._category_mapping.values()))
-                    results = dict()
-                    for i in cr.keys():
-                        results[str(i)+'_precision'] = cr[ i ]['precision'] 
-                        results[str(i)+'_recall'] = cr[ i ]['recall'] 
-                        results[str(i)+'_f1-score'] = cr[ i ]['f1-score']
-                    print(results)
-                    # get the overlap between the GT and the prediction
-                    results['percentage of agreeing with at least one annotator'] =  HDreasoning.match_categories( df_res['HallucinationCategory'].tolist(), df_res["GPTReasonCategoryAll"].tolist())
-                    return results
+            df.to_csv(file, sep='\t', index=False)
 
 if __name__ == "__main__":
-    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = True)
+    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = False)
     result_df = []
     for data in ["NHNETtest"]: 
         print(f"processing {data}")
         gs, tsv_wgt, withexp, withGoldres = find_path(data)
         result = {"Data":data}
         try:
-            result1 = Hreasonor.reason(tsv_wgt, tsv_wgt, gs, data,"_reason_category", testmode=0, onlygt_label = 1)
+            result1 = Hreasonor.reason(tsv_wgt, gs, data,"_reason_nocategory", onlygt_label = 2)
             result.update(result1)
             result_df.append(result )
         except Exception as e:
             import pdb; pdb.set_trace()
-    #save result
-    try:
-        resultfinal = pd.DataFrame(result_df)
-        resultfinal.to_csv(final_score_file, sep='\t', index=False)
-    except Exception as e:
-        import pdb; pdb.set_trace()
+
   
 
 

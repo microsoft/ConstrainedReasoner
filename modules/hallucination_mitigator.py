@@ -14,6 +14,3 @@ import modules.gpt_output_utils
 class HdResult:
     sentence_id: str # sentence id in the transcript
     hallucinated_sentence: str # original sentence found in summary
-    reason: List[str] # why the sentence is hallucination or not
-    instruction: str # instruction for rewriting the sentence
-    detection_type: str # the detector type that found the hallucination (sentence-level, entity-level)
