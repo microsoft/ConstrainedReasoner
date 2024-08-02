@@ -64,17 +64,6 @@ class HRResult:
     encounter_id: str
     sen_reasons: List[ReasonResult] 
 
-def find_path(dataset):
-    dataset_root = "data"
-    if dataset == "NHNETtest":
-        gs =   os.path.join(dataset_root, "NHNET/groundingsources/")
-        tsv_wgt = os.path.join(dataset_root, "NHNET/test_HwExplanation.tsv")
-        withexp = True # if it has explanation
-        withGoldres = True # if it has golden response
-    else:
-        raise ValueError(f'{dataset} not supported yet')
-    return gs, tsv_wgt, withexp, withGoldres
-
 class HDreasoning():
     def __init__(self, config_setting='gpt-4-turbo', category = False):
         ''' category: whether we need to use the category to constrain the reason of hallucination. the parsing and evaluation will be different.'''
@@ -177,10 +166,21 @@ class HDreasoning():
             ) -> List[HRResult]:
         max_parallelism = self._openai_args.max_parallelism
         items, results = [], []
+        first_key = next(iter(transcripts))
+        if isinstance(first_key, int):
+            if isinstance(encounter_ids[0], str):
+                # we need to convert the encid from hyp to int
+                change = 1
+        elif isinstance(first_key, str): # trans key is string
+            if isinstance(encounter_ids[0], int):
+                change = 2 # we need to convert the encid from hyp to str  
+            elif isinstance(encounter_ids[0], str):
+                change = 0 # no action needed
+    
         for encounter_id in encounter_ids:
             try:
-                transcript = transcripts[encounter_id]
                 hd_result = hd_results[encounter_id]
+                transcript = transcripts[encounter_id]               
             except KeyError:
                 import pdb; pdb.set_trace()
 
@@ -344,7 +344,7 @@ class HDreasoning():
 
         return hd_results
               
-    def reason(self, hd_results_file: str, transcript_path: str, dataset_name : str, exp_name : str, onlygt_label = 1  ):
+    def reason(self, hd_results_file: str, transcript_path: str, dataset_name : str, exp_name : str, onlygt_label = 1, testmode=0  ):
         '''
         hd_results_file: tsv file. we load the hallucinated sentences and the explanation if it has in this file
         transcript_path： where the grounding sources are.
@@ -363,6 +363,9 @@ class HDreasoning():
             df = df[df['IsHallucination'] == 1]
         elif onlygt_label == 0:
             df = df[df['IsHallucination'] == 0]
+        if testmode >0 :
+            df = df.head(testmode)
+        df['EncounterID'] = df['EncounterID'].astype(str)# in case the encounter id is int when it is all numbers, this will mismatch the str type in the encounter
         hd_results = HDreasoning.convert_df(df)#load to payloads
         # load encounter transcripts and sentences need to be judged.
         encounterloader = EncounterLoader( transcriptfolder=transcript_path)
@@ -378,6 +381,7 @@ class HDreasoning():
         print("time used for reasoning:" + str(end_time) + "s")
 
         enc_res = []
+        
         if not self._category: # the reason are pure NL.
             for result in results: # the result is a list [ {encounter_id: xx, sen_reasons: [{sentence_id:yy, reason:zz }] ...}  ...]
                 for hr_res in result.sen_reasons:
@@ -393,7 +397,6 @@ class HDreasoning():
             df = pd.merge(df, df_res, on=["EncounterID", "SentenceID"], how="left")
             file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_result.tsv")
             df.to_csv(file, sep='\t', index=False)
- 
         else:
             for result in results: # the result is a list [ {encounter_id: xx, sen_reasons: [{sentence_id:yy, reason:zz }] ...}  ...]
                 for hr_res in result.sen_reasons:
@@ -410,19 +413,32 @@ class HDreasoning():
             file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_Categoryresult.tsv")
             df.to_csv(file, sep='\t', index=False)
 
+def str2bool(v):
+    if isinstance(v, bool):
+        return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 if __name__ == "__main__":
-    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = False)
+    parser = argparse.ArgumentParser(description='downstream reason')
+    parser.add_argument('--groundingsource',  type=str, help='the folder where the grounding sources are')
+    parser.add_argument('--hyp' ,  type=str, help='the tsv file contains "EncounterID", "SentenceID", "Sentence","IsHallucination"')  
+    parser.add_argument('--dataname' ,  type=str,  help='data name for this run')
+    parser.add_argument('--category' ,  type=str2bool, default=False, help='For the two reason prompt, whether we need to use the one with detailed categories')
+    parser.add_argument('--testmode' ,  type=int, default=0, help='If 0, we load all the data. If >0, we only load the first testmode number of data')
+    args = parser.parse_args()
+    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = args.category)
     result_df = []
-    for data in ["NHNETtest"]: 
-        print(f"processing {data}")
-        gs, tsv_wgt, withexp, withGoldres = find_path(data)
-        result = {"Data":data}
-        try:
-            result1 = Hreasonor.reason(tsv_wgt, gs, data,"_reason_nocategory", onlygt_label = 2)
-            result.update(result1)
-            result_df.append(result )
-        except Exception as e:
-            import pdb; pdb.set_trace()
+    if args.category:
+        name = ""
+    else:
+        name ="no"
+    Hreasonor.reason(args.hyp, args.groundingsource, args.dataname ,"_reason_" + name+ "category", onlygt_label = 2, testmode=args.testmode)
+
 
   
 
