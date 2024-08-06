@@ -1,0 +1,7 @@
+azure-identity
+matplotlib
+openai==0.28
+azure-keyvault-secrets
+nltk
+evaluate
+bert_score

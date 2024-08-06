@@ -84,7 +84,7 @@ class hallucination_reasoning_prompt :
     
     def load_file_content(self, file_path : str) -> str:
         file_path = self.resolve_file_path(file_path)
-        return open(file_path, 'r').read()
+        return open(file_path, 'r', encoding="utf8").read()
 
     def _loadPrompt(self, filename : str, useChatCompletions : bool = False) :
         yamlfile = self.resolve_file_path(f'prompts/chat_completions/{filename}.yaml')
