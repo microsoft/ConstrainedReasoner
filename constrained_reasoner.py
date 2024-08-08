@@ -65,7 +65,7 @@ class HRResult:
     sen_reasons: List[ReasonResult] 
 
 class HDreasoning():
-    def __init__(self, config_setting='gpt-4-turbo', category = False):
+    def __init__(self, config_setting='gpt-4-turbo', category = False, simple = False):
         ''' category: whether we need to use the category to constrain the reason of hallucination. the parsing and evaluation will be different.'''
         config_file="configs/aoai_config.json"
         openai_args = create_openai_arguments( config_setting, 1, config_file= config_file)
@@ -76,12 +76,13 @@ class HDreasoning():
             config_file=config_file,
             )
         self._mitigation_args =  MitigationArguments()
-        self._prompt_util = hallucination_reasoning_prompt(use_chat_completions = openai_args.use_chat_completions,  category= category)
+        self._prompt_util = hallucination_reasoning_prompt(use_chat_completions = openai_args.use_chat_completions,  category= category, simple = simple)
         self._evaluator = evaluate_nlg()
         self._category = category 
         if self._category:
             # mapping: a dict of category label as key and the category label from human label. We desinged this is to avoid mixed together with other normal text during parsing
             self._category_mapping = {"Hallu_" + str(i+1):  str(i+1) for i in range(12)}
+        self._simple = simple
     @staticmethod
     def clean_span(x):
         return " ".join(re.sub("[\\<].*?[\\>]", "", x).split())
@@ -395,7 +396,10 @@ class HDreasoning():
             df_res = pd.DataFrame(enc_res)
             # merge df_res back to df
             df = pd.merge(df, df_res, on=["EncounterID", "SentenceID"], how="left")
-            file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_result.tsv")
+            if self._simple:
+                file = os.path.join(results_folder, "simple_reason_" + dataset_name + exp_name+"_result.tsv")
+            else:
+                file = os.path.join(results_folder, "reason_" + dataset_name + exp_name+"_result.tsv")
             df.to_csv(file, sep='\t', index=False)
         else:
             for result in results: # the result is a list [ {encounter_id: xx, sen_reasons: [{sentence_id:yy, reason:zz }] ...}  ...]
@@ -430,8 +434,10 @@ if __name__ == "__main__":
     parser.add_argument('--dataname' ,  type=str,  help='data name for this run')
     parser.add_argument('--category' ,  type=str2bool, default=False, help='For the two reason prompt, whether we need to use the one with detailed categories')
     parser.add_argument('--testmode' ,  type=int, default=0, help='If 0, we load all the data. If >0, we only load the first testmode number of data')
+    parser.add_argument('--simple' ,  type=str2bool, default=False, help='we have an extra simple basic prompt. We will use the simple prompt if category False and simple as True')
+
     args = parser.parse_args()
-    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = args.category)
+    Hreasonor = HDreasoning(config_setting='gpt-4-turbo', category = args.category, simple = args.simple)
     result_df = []
     if args.category:
         name = ""
