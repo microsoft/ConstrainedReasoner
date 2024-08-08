@@ -410,7 +410,7 @@ class HDreasoning():
                     res["GPTreason"] = hr_res.reason
                     cat, allcat = HDreasoning.parse_HC(hr_res.reason, self._category_mapping)
                     if not cat or not allcat:
-                        print(f"Encounter empty reason. Eid={res["EncounterID"]}, Sid={res["SentenceID"]}, GPTReason={res["GPTreason"]}")
+                        print(f"Encounter empty reason. Eid={res['EncounterID']}, Sid={res['SentenceID']}, GPTReason={res['GPTreason']}")
                     res["GPTReasonCategoryLast"] = cat
                     res["GPTReasonCategoryAll"] = allcat
                     enc_res.append(res)
