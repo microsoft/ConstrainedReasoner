@@ -58,7 +58,7 @@ class MitigationArguments:
         default=0.6, metadata={"help": "An alternative to sampling with temperature, called nucleus sampling, where the model considers the results of the tokens with top_p probability mass. So 0.1 means only the tokens comprising the top 10% probability mass are considered."}
     )
     max_tokens: Optional[int] = field(
-        default=1024, metadata={"help": "The maximum number of tokens to generate in the completion."}
+        default=4096, metadata={"help": "The maximum number of tokens to generate in the completion."}
     )
     freq_penalty: Optional[float] = field(
         default=0, metadata={"help": "Number between -2.0 and 2.0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim."}
