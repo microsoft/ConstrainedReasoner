@@ -1,0 +1,1 @@
+ He was the lead architect of the AMD K8 microarchitecture (including the original Athlon 64) and was involved in designing the Athlon (K7) and Apple A4/A5 processors.The Apple A4 is a 32-bit package on package (PoP) system-on-a-chip (SoC) designed by Apple Inc. and manufactured by Samsung.
