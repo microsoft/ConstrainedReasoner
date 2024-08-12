@@ -189,16 +189,19 @@ class HDreasoning():
                 results.append(HRResult(encounter_id, []))
                 continue
             
-            sentences, index2senid, n_item = HDreasoning.get_indexed_sens(hd_result)
-            # sending one request per encounter
-            request = {
-                'encounter_id': encounter_id,
-                'transcript': transcript,
-                'sentences': sentences,
-                'index2senid': index2senid,
-                'n_item': n_item
-                }
-            items.append(request)
+            b_size = self._mitigation_args.batch_size
+            hd_result_batchs = [hd_result[i:i + b_size] for i in range(0, len(hd_result), b_size)]  
+            for  hd_result_batch in hd_result_batchs:
+                sentences, index2senid, n_item = HDreasoning.get_indexed_sens(hd_result_batch)
+                # sending one request per encounter
+                request = {
+                    'encounter_id': encounter_id,
+                    'transcript': transcript,
+                    'sentences': sentences,
+                    'index2senid': index2senid,
+                    'n_item': n_item
+                    }
+                items.append(request)
             
         gpt_request_payloads = [
             self.create_payload(
@@ -302,9 +305,10 @@ class HDreasoning():
         # Find all matches in the text
         all_categories = re.findall(pattern, reason)
         allcat = [    categories[category]   for category in categories.keys() if category in all_categories]
-        cat = allcat[0]
         if len(allcat) == 0:
-            import pdb; pdb.set_trace()
+            return None, None
+            #import pdb; pdb.set_trace()
+        cat = allcat[0]
         return cat, allcat
     @staticmethod
     def match_categories( GTs, Preds):
@@ -409,6 +413,8 @@ class HDreasoning():
                     res["SentenceID"]=hr_res.sentence_id
                     res["GPTreason"] = hr_res.reason
                     cat, allcat = HDreasoning.parse_HC(hr_res.reason, self._category_mapping)
+                    if not cat or not allcat:
+                        print(f"Encounter empty reason. Eid={res['EncounterID']}, Sid={res['SentenceID']}, GPTReason={res['GPTreason']}")
                     res["GPTReasonCategoryLast"] = cat
                     res["GPTReasonCategoryAll"] = allcat
                     enc_res.append(res)
