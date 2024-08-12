@@ -1,0 +1,1 @@
+EZ-Frame is a test automation framework package developed by Tech Mahindra to provide End-to-end test automation support, simulate real time live action scenarios and crashes happen in live telecom network. Anand Mahindra is the Chairman of Tech Mahindra, which is headquartered at Pune and has its registered office in Mumbai.

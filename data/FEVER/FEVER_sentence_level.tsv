@@ -1,0 +1,3001 @@
+EncounterID	SentenceID	Sentence	IsHallucination
+FEVER000000	0	Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.	0
+FEVER000001	0	Roman Atwood is a content creator.	0
+FEVER000002	0	History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.	0
+FEVER000003	0	Adrienne Bailon is an accountant.	1
+FEVER000005	0	Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.	0
+FEVER000008	0	The Boston Celtics play their home games at TD Garden.	0
+FEVER000009	0	The Ten Commandments is an epic film.	0
+FEVER000010	0	Tetris has sold millions of physical copies.	0
+FEVER000011	0	Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.	0
+FEVER000012	0	There is a movie called The Hunger Games.	0
+FEVER000013	0	Ryan Gosling has been to a country in Africa.	0
+FEVER000014	0	Stranger Things is set in Bloomington, Indiana.	1
+FEVER000015	0	Ryan Seacrest is a person.	0
+FEVER000016	0	Puerto Rico is not an unincorporated territory of the United States.	1
+FEVER000017	0	Michael Giacchino composed the score for Doctor Strange.	0
+FEVER000018	0	Stranger than Fiction is a film.	0
+FEVER000019	0	Chris Hemsworth appeared in A Perfect Getaway.	0
+FEVER000020	0	Selena recorded music.	0
+FEVER000022	0	Robert J. O'Neill was born April 10, 1976.	0
+FEVER000025	0	The Silence of the Lambs was a film starring Scott Glenn.	0
+FEVER000026	0	Peggy Sue Got Married is a Egyptian film released in 1986.	1
+FEVER000027	0	Andy Roddick lost 5 Master Series between 2002 and 2010.	1
+FEVER000028	0	As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.	1
+FEVER000029	0	Tupac Shakur was born Lesane Parish Crooks.	0
+FEVER000031	0	The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.	0
+FEVER000034	0	Slovenia uses the euro.	0
+FEVER000035	0	Iowa is a part of the Midwestern United States.	0
+FEVER000038	0	Saratoga is an American film from 1937.	0
+FEVER000039	0	J. Howard Marshall was a baby.	0
+FEVER000040	0	Grace Jones is a dancer.	1
+FEVER000041	0	Lisbon has a population larger than 1.	0
+FEVER000042	0	Willie Nelson dropped out of college after three years.	1
+FEVER000043	0	Malcolm Young was the co-founder of Australian hard rock band AC/DC.	0
+FEVER000045	0	Newfoundland and Labrador is the most linguistically homogeneous of Canada.	0
+FEVER000046	0	Furia is adapted from a short story by Anna Politkovskaya.	1
+FEVER000047	0	One state of the United States has Russia to its west.	0
+FEVER000048	0	Sophie Turner was born in the 1990s.	0
+FEVER000049	0	Mother Teresa was made a saint by the church.	0
+FEVER000050	0	The Smurfs (film) was released.	0
+FEVER000051	0	C. S. Forester's first name was Carl.	1
+FEVER000052	0	Kong: Skull Island is a book.	1
+FEVER000053	0	The Challenge was a scripted show.	1
+FEVER000054	0	Berlin is the capital of Germany.	0
+FEVER000055	0	South Korea has a highly educated workforce.	0
+FEVER000058	0	Hacksaw Ridge came out in America on November 4, 2016.	0
+FEVER000061	0	Michael Fassbender is an actor.	0
+FEVER000062	0	Red Headed Stranger is a movie.	1
+FEVER000064	0	Paul Bettany has played Vision in at least two works.	0
+FEVER000065	0	Scotland's Hebrides is widespread and diverse with many islands.	0
+FEVER000067	0	Uzbekistan is a part of the Commonwealth of Independent States (CIS).	0
+FEVER000069	0	Charles, Prince of Wales is patron of numerous other organizations.	0
+FEVER000070	0	Chester Bennington is not a singer.	1
+FEVER000071	0	Vincent Cassel played Jacques Mesrine in at least two films.	0
+FEVER000072	0	Pope John Paul II co-stars many actors besides Christopher Lee.	0
+FEVER000073	0	David Beckham has zero middle names.	1
+FEVER000074	0	Indiana Jones has only been portrayed by Harrison Ford.	1
+FEVER000075	0	Brian Wilson was part of the Beach Boys.	0
+FEVER000077	0	The Great Gatsby centers on a youthful person with over a million dollars.	0
+FEVER000078	0	Shane Black and Chris Miller wrote Iron Man 3.	1
+FEVER000079	0	La La Anthony was conceived on June 25th, 1979.	1
+FEVER000080	0	Led Zeppelin is a band.	0
+FEVER000081	0	Richard Harris was born on October 25, 2002.	0
+FEVER000082	0	The Fosters is a television series.	0
+FEVER000083	0	Blair is Jonathan Hensleigh's middle name.	0
+FEVER000084	0	Filmfare is about cheese.	1
+FEVER000085	0	Buckingham Palace lacks brightly colored scagliola.	1
+FEVER000086	0	Sarah Paulson makes an appearance in What Women Want.	0
+FEVER000087	0	David Harbour is an American.	0
+FEVER000089	0	The terrain of Kazakhstan includes taiga.	0
+FEVER000092	0	Liverpool F.C. was valued at $1.55 billion at one point.	0
+FEVER000093	0	Land Rover makes cars.	0
+FEVER000094	0	Sully is a form of media.	0
+FEVER000095	0	Stanley Tucci performed in an television series.	0
+FEVER000097	0	Brock Lesnar married Randy Couture.	1
+FEVER000100	0	The Khmer Empire was not weak.	0
+FEVER000101	0	On the Road (film) premiered at a film festival.	0
+FEVER000103	0	Paramore's co-founders left the band in March 2010.	0
+FEVER000104	0	Peter Davison has been in a BBC show.	0
+FEVER000105	0	21 Jump Street was released June 16, 2012.	1
+FEVER000106	0	The collections of the Philadelphia Museum of Art contain over 240,000 objects.	0
+FEVER000107	0	Dustin Hoffman is an award-winning actor.	0
+FEVER000108	0	T. J. Miller was featured in Deadpool 2.	0
+FEVER000111	0	Stephon Marbury plays basketball in America.	1
+FEVER000114	0	CP affects people.	0
+FEVER000115	0	Alfred Hitchcock is a person.	0
+FEVER000116	0	Julius Caesar is only a book.	1
+FEVER000117	0	Pulp Fiction is directed by a male.	0
+FEVER000118	0	Absolute Beginners was directed by Hitchcock.	1
+FEVER000119	0	No Reservations got a mixed reception from critics.	0
+FEVER000120	0	Claire Danes is wedded to an actor from England.	0
+FEVER000121	0	Dangerous Liaisons is based on Christopher Hampton's novel.	1
+FEVER000122	0	The Academy Awards are an annual event.	0
+FEVER000125	0	Hubert Humphrey became the DFL candidate for mayor of a city.	0
+FEVER000128	0	Alex Rodriguez has 666 home runs.	0
+FEVER000129	0	Friendship has been studied in academic fields.	0
+FEVER000130	0	Judd Apatow is a person who writes.	0
+FEVER000131	0	Massachusetts is far away from Rhode Island.	1
+FEVER000132	0	Giancarlo Stanton was in the 2017 MLB draft.	1
+FEVER000133	0	Chris Pine appeared in Wonder Woman (2017 film).	0
+FEVER000134	0	Trevor Noah hosts a news satire show.	0
+FEVER000135	0	Lucas starred an actor that died on March 10.	0
+FEVER000136	0	Ryan Phillippe refused to perform in the soap opera One Life to Live.	1
+FEVER000137	0	Sean Connery never won an Academy Award.	1
+FEVER000138	0	Venom has since become less of an antihero.	1
+FEVER000139	0	Overwatch is a video game in which players gain cosmetic awards and it assigns players into two teams of six, each player with a style of play known as Offense, Defense, Tank, and Support.	0
+FEVER000140	0	Lily James has been on TV.	0
+FEVER000142	0	Jing Tian date of birth is in July.	0
+FEVER000143	0	Jennifer Aniston's parents are Fred and Wilma Flintstone.	1
+FEVER000144	0	The Peloponnesian War was won by Sparta.	0
+FEVER000145	0	Isis had a temple at Behbeit El Hagar.	0
+FEVER000146	0	International Relations only includes the entertainment industry.	1
+FEVER000151	0	John McCain works in politics.	0
+FEVER000152	0	Farrah Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 film The Burning Bed.	0
+FEVER000153	0	"The Who's first single was ""My Generation""."	0
+FEVER000154	0	Planet of the Apes (1968 film) had a script that underwent rewrites.	0
+FEVER000155	0	Star vs. the Forces of Evil is a series.	0
+FEVER000156	0	Galaxy Quest is a movie that is American.	0
+FEVER000157	0	Friends with Benefits features actors.	0
+FEVER000158	0	Glenn Close won the Tony Award for Best Actress in a Play in 1984.	1
+FEVER000160	0	Zooey Deschanel performed.	0
+FEVER000161	0	Seven Days in May stars an American.	0
+FEVER000162	0	Winnipeg is home to several sports teams.	0
+FEVER000163	0	Mark Zuckerberg co-founded a website.	0
+FEVER000164	0	Rick and Morty was renewed for a fourth season in 2014.	1
+FEVER000166	0	Paul Walker acted in movies.	0
+FEVER000169	0	Clint Eastwood was nominated for an award.	0
+FEVER000170	0	Shonen Jump is published in a continent.	0
+FEVER000171	0	Gilmore Girls is a Canadian show.	1
+FEVER000172	0	Honest sold 53,000 units in a week.	0
+FEVER000174	0	Since July 2012, Pranab Mukherjee has been in office.	0
+FEVER000175	0	Anonymous represents 4chan users simultaneously existing as an anarchic, digitized global brain.	0
+FEVER000176	0	San Francisco is in California.	0
+FEVER000179	0	Laadla is exclusively an American film.	1
+FEVER000182	0	Lily Collins wrote for a U.S magazine that targets teen girls.	0
+FEVER000183	0	Bangladesh has been affected by poverty.	0
+FEVER000184	0	Lisa Lopes was a founding member of TLC.	0
+FEVER000185	0	The Formula (1980 film) was directed by an American.	0
+FEVER000186	0	Janet Jackson's third album was released in February 1986.	0
+FEVER000187	0	Transformers: The Last Knight's cast includes Tyrese Gibson.	0
+FEVER000188	0	There are two television series Morena Baccarin was part of.	0
+FEVER000189	0	Naturi Naughton was born in the year of 1984.	0
+FEVER000191	0	Paul Pogba has won four nonconsecutive Serie A titles.	1
+FEVER000192	0	Mel Gibson's name is Mel Colmcille Gerard Gibson.	0
+FEVER000193	0	WALL-E is a Golden Globe Award winner.	0
+FEVER000194	0	Generation X has no precise date for its cohort.	0
+FEVER000195	0	Islam is incapable of being a religion.	1
+FEVER000196	0	Jackie Chan has released an album.	0
+FEVER000197	0	Estimates of the number of species on Earth today vary widely, and most of those species have not been described.	0
+FEVER000198	0	Larry Junstrom is an American citizen.	0
+FEVER000199	0	Canada possesses a constitution.	0
+FEVER000200	0	Sophie Turner acted in The Thirteenth Tale.	0
+FEVER000201	0	The Renaissance is known for its cultural developments.	0
+FEVER000202	0	Pluto is not relatively small.	1
+FEVER000203	0	Steve Buscemi has appeared in many films by the Coen Brothers, such as Fargo.	0
+FEVER000204	0	Tyler Joseph is an ex-member of Twenty One Pilots.	1
+FEVER000205	0	Selena Gomez has more followers than anyone else in the world.	0
+FEVER000206	0	Big Boi is only a member of Norwegian metal bands.	1
+FEVER000207	0	Priyanka Chopra was born in the 1900's.	0
+FEVER000210	0	On March 27, 1963, Quentin Tarantino was born.	0
+FEVER000211	0	Tate Ellington appeared in Quantico.	0
+FEVER000214	0	Mr. Sunshine is from the Northern Hemisphere.	0
+FEVER000215	0	Dolly Parton isn't an actress.	1
+FEVER000216	0	The Amanda Show was the first female-created show on Nickelodeon.	1
+FEVER000217	0	The 19th G7 summit only included Russia.	1
+FEVER000219	0	Ethiopia has bodies of water can be described as rivers.	0
+FEVER000222	0	Ted Kaczynski grew up in Texas.	1
+FEVER000223	0	Keith Urban has put out no fewer than nine studio records.	0
+FEVER000224	0	Eminem has an album.	0
+FEVER000225	0	The Connaught Tunnel was lined only with mud and sand.	1
+FEVER000226	0	Jennifer Aniston is not a businesswoman.	1
+FEVER000227	0	Ilkhanate only contained Haiti.	1
+FEVER000229	0	Homeland is based on the classic BBC series Til Death Do Us Part.	1
+FEVER000230	0	True Blood is a science-fiction television series.	1
+FEVER000231	0	Jordan Knight is the lead singer of a band.	0
+FEVER000232	0	Adam Driver has had supporting roles.	0
+FEVER000234	0	Thor: The Dark World is a movie.	0
+FEVER000235	0	Loki is the male sibling of Helblindi and Byleistr.	0
+FEVER000237	0	Vincent van Gogh is from Amsterdam.	0
+FEVER000238	0	Chester Bennington is a person.	0
+FEVER000239	0	Inspectah Deck is stateless.	1
+FEVER000240	0	Tender Mercies is a drama from America.	0
+FEVER000241	0	Cristiano Ronaldo was a professional athlete.	0
+FEVER000242	0	Paul Simon is a person.	0
+FEVER000243	0	Baby Driver starred Eiza González.	0
+FEVER000244	0	David Dhawan is a film director.	0
+FEVER000246	0	The Challenge was a reality game show.	0
+FEVER000247	0	Rumi's influence transcends ethnic divisions.	0
+FEVER000248	0	Swedish Empire was ruled by Gustavus Adolphus from 1611 to 1632.	0
+FEVER000249	0	Her was given a wide release on January 10, 2014.	0
+FEVER000250	0	Las Vegas's population has grown.	0
+FEVER000253	0	One type of spread is Vegemite.	0
+FEVER000254	0	The Divergent film series was worked on by Octavia Spencer.	0
+FEVER000255	0	Ramayanam was produced by M. S. Reddy and directed by Gunasekhar.	0
+FEVER000256	0	Man of Steel features the DC Comics character Superman.	0
+FEVER000257	0	Leukemia has to do with a lack of normal blood cells.	0
+FEVER000258	0	Judy Garland did not appear in a courtroom drama film.	1
+FEVER000260	0	Until Dawn is a game.	0
+FEVER000262	0	Timothy Olyphant was born.	0
+FEVER000263	0	Telangana contains the city Warangal.	0
+FEVER000264	0	Bonnie Hunt narrated Cheaper by the Dozen.	0
+FEVER000265	0	The Levant was ruled by the House of Lusignan.	0
+FEVER000266	0	The Ten Commandments influence multiple religions.	0
+FEVER000267	0	The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.	0
+FEVER000270	0	Ariana Grande's second album debuted at number one in the United States when it was released in 2014.	0
+FEVER000271	0	Ted Bundy committed assaults in the seventies.	0
+FEVER000275	0	Chinese people only can be associated with Spain through nationality.	1
+FEVER000276	0	Schindler's List was released in 1993.	0
+FEVER000279	0	Zeus is an angel.	1
+FEVER000280	0	Escape from Planet Earth is an American film.	0
+FEVER000281	0	Venus Williams has won multiple Wimbledons.	0
+FEVER000282	0	Quentin Tarantino directed a creative work.	0
+FEVER000284	0	The Beatles had Stuart Sutcliffe initially serve as their agent.	1
+FEVER000285	0	50 First Dates has no comedic elements.	1
+FEVER000287	0	A Nightmare on Elm Street was directed by Craven.	0
+FEVER000288	0	Charlize Theron acted in The Burning Plain.	0
+FEVER000290	0	International Relations includes communication.	0
+FEVER000293	0	Jemaine Clement refuses to have anything to do with comedy.	0
+FEVER000295	0	Usain Bolt has competed in a sprint race in track and field in world competitions.	0
+FEVER000296	0	The main successor to the internet was the ARPANET.	1
+FEVER000297	0	Sarrainodu is an action movie.	0
+FEVER000299	0	Jawbreaker (film) stars an Italian-born American actress, film producer, director and singer.	0
+FEVER000301	0	Kurt Sutter is the creator of Sons of Anarchy.	0
+FEVER000302	0	La La Anthony has a middle name.	0
+FEVER000303	0	Lisa Marie Presley is an American singer.	0
+FEVER000304	0	Kingdom Hearts III is owned by Boyz II Men.	1
+FEVER000305	0	Keanu Reeves is a film actor.	0
+FEVER000306	0	Dwayne Johnson won the WWF Intercontinental Championship twice.	0
+FEVER000307	0	Heartland is a canadian TV series.	0
+FEVER000308	0	By the metrics of the RIAA, The Beatles have sold more than any recording artist in America.	0
+FEVER000309	0	The national tree of Bangladesh is the mango.	0
+FEVER000310	0	There are two major contemporary political parties, and William Jennings Bryan belongs to one of them.	0
+FEVER000311	0	Iris Murdoch was a writer.	0
+FEVER000312	0	David Koepp is a director.	0
+FEVER000313	0	"A block is also called a ""swat."""	0
+FEVER000316	0	Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.	0
+FEVER000317	0	Leroy Jethro Gibbs is a character on the NFL series NCIS.	1
+FEVER000318	0	Leslie Howard was an actor.	0
+FEVER000319	0	Catching Fire is written.	0
+FEVER000320	0	Avatar: The Last Airbender aired on Nickelodeon.	0
+FEVER000321	0	Harry Hopman's widow has attended Hopman Cup.	0
+FEVER000324	0	Frank Zappa's debut was Freak Out!	0
+FEVER000325	0	Ruth Negga only acts in Irish cinema.	1
+FEVER000326	0	George VI was succeeded by Mary I.	1
+FEVER000330	0	Psychological findings link to research and perspectives from an academic discipline.	0
+FEVER000334	0	The Beach Boys was an American rock band.	0
+FEVER000335	0	Billy Bob Thornton directed a movie.	0
+FEVER000336	0	The Ren & Stimpy Show premiered on August 11, 1991.	0
+FEVER000337	0	Courteney Cox has always refused to play Gale Weathers.	1
+FEVER000339	0	Ronin is a film.	0
+FEVER000340	0	Abraham Lincoln had at least one rival.	0
+FEVER000342	0	There is a producer named Fred Savage.	0
+FEVER000343	0	Al Capone had neurosyphilis.	0
+FEVER000344	0	Boston is located in the state of Massachusetts on the Shawmut Peninsula.	0
+FEVER000345	0	Interstellar is a narrative in a visual medium.	0
+FEVER000348	0	Britney Spears titled her fourth studio album Britney.	1
+FEVER000349	0	Mike Tyson boxed.	0
+FEVER000351	0	The Hermetic Order of the Golden Dawn was uninterested in the study of the occult.	1
+FEVER000352	0	Ellen Burstyn has yet to be nominated for the Emmy Awards.	1
+FEVER000353	0	Princess Agents is a series on television.	0
+FEVER000354	0	Gwen Stefani works as a singer.	0
+FEVER000355	0	James Marsden worked with a director.	0
+FEVER000356	0	Carrie Fisher died of cardiac arrest.	0
+FEVER000357	0	Ice hockey has competitions.	0
+FEVER000358	0	The Fifth Element was the lowest-grossing French film in the international box office until 2011.	1
+FEVER000359	0	The Hunger Games is the first in Lord of the Rings series.	1
+FEVER000360	0	"Audi used to have the pet ""Truth in Engineering."""	1
+FEVER000361	0	Java contains more than half of the population of Indonesia.	0
+FEVER000364	0	Urilla Sutherland Earp was the first spouse of Wyatt Earp.	0
+FEVER000365	0	Brave is a 2010s film.	0
+FEVER000366	0	Winter Passing had mixed reviews in 2005.	0
+FEVER000368	0	Audrey Horne was introduced in anything except a series that premiered on Sunday.	1
+FEVER000369	0	Line of Duty is a TV series.	0
+FEVER000370	0	The Dayton Agreement was signed in April.	1
+FEVER000371	0	The National Security Agency is tasked with the processing of data for counterintelligence purposes.	0
+FEVER000372	0	Gold is resistant to all acids except aqua regia.	0
+FEVER000373	0	There is a geologic period that spans 43 million years called Paleogene.	0
+FEVER000375	0	Cher has sold more than 100 million music records worldwide.	0
+FEVER000376	0	Bernard Madoff got the sentence.	0
+FEVER000377	0	Donkey is a fast-talking donkey.	0
+FEVER000378	0	O. J. Simpson received a criminal charge for armed robbery.	0
+FEVER000379	0	Ketogenic diet has protein.	0
+FEVER000380	0	Dennis Quaid refused to ever be an actor.	1
+FEVER000381	0	The United States was the first country to develop nuclear weapons.	0
+FEVER000382	0	Thandie Newton is incapable of appearing in British films.	1
+FEVER000383	0	Reese Witherspoon's breakthrough role was in a film.	0
+FEVER000384	0	Jenni Rivera was only nominated for an award presented annually by American network Univision.	1
+FEVER000385	0	Curly Top was released.	0
+FEVER000386	0	Edgar Allan Poe was a horse.	1
+FEVER000387	0	Danny DeVito received an Academy Award nomination.	0
+FEVER000388	0	PageRank was named after someone.	0
+FEVER000389	0	Morena Baccarin received a nomination.	0
+FEVER000391	0	Jeffrey Dahmer committed murders in Wisconsin.	0
+FEVER000392	0	Naomi Scott played Darth Maul in Lemonade Mouth.	1
+FEVER000394	0	The Minnesota Vikings is a National Football League team.	0
+FEVER000395	0	L.A. Law is a television series that categorizes as a legal drama.	0
+FEVER000396	0	Paradise was released in 2012.	0
+FEVER000398	0	Dirt was produced by ABC studios and Coquette Productions.	0
+FEVER000399	0	Arsenic and Old Lace had its release delayed by 3 months.	1
+FEVER000400	0	The Belko Experiment is an American horror film released in 2016.	0
+FEVER000401	0	Psychology has been disqualified from being a social science.	1
+FEVER000402	0	Apple was founded in 1979.	1
+FEVER000403	0	Moscow is a city in Russia.	0
+FEVER000404	0	The term cult film was first used in the 1970s.	0
+FEVER000405	0	The September 11 attacks caused at least $10 billion in property damage.	0
+FEVER000406	0	The second longest of Shakespeare's plays after Hamlet is Richard III.	0
+FEVER000407	0	Kathy Bates was born on June 28, 1948.	0
+FEVER000409	0	Joseph Barbera was an American director.	0
+FEVER000410	0	Penny Dreadful started in 2017.	1
+FEVER000412	0	There is a video game called Overwatch (video game).	0
+FEVER000413	0	The Lion King was released before 2000.	0
+FEVER000414	0	Before We Go was previously titled Fury.	1
+FEVER000415	0	Stevie Nicks released an album that reached platinum status.	0
+FEVER000416	0	Overwatch's playable characters are categorized into four groups.	0
+FEVER000417	0	Andrew Wood died in 1977.	1
+FEVER000418	0	James McAvoy starred in Children of Dune.	0
+FEVER000420	0	John Constantine is a real person.	1
+FEVER000422	0	The Portuguese Empire was one of world history's largest empires.	0
+FEVER000423	0	Eddie Vedder is a performer.	0
+FEVER000425	0	Kenny Rogers released the album, Kenny in 2005.	1
+FEVER000426	0	Larry Buttrose wrote Cafe Royale.	0
+FEVER000428	0	Elementary stars Lucy Liu.	0
+FEVER000430	0	Farrah Fawcett acted in the romantic comedy Love is a Funny Thing.	0
+FEVER000431	0	X-Men: Days of Future Past is based on the DC Batman comics.	1
+FEVER000432	0	San Junipero is from Britain.	0
+FEVER000434	0	Alex Rodriguez never hit a home run.	1
+FEVER000435	0	John F. Kennedy ran against Andrew Jackson in the 1960 presidential election.	1
+FEVER000436	0	Gift of the Night Fury only stars the voices of actors and actresses born in October.	1
+FEVER000437	0	Schindler's List was not awarded The Academy Award for Best Picture.	1
+FEVER000438	0	Juana la virgen is a telenovela written by Perla Farias.	0
+FEVER000439	0	The Champ stars an American.	0
+FEVER000441	0	Monarch of the Glen is a drama from Britain.	0
+FEVER000442	0	Robert Redford is a film director.	0
+FEVER000443	0	Best Director was a nomination Beasts of the Southern Wild received.	0
+FEVER000445	0	The Los Angeles Lakers hold the NBA record for longest winning streak.	0
+FEVER000447	0	The Philippines is industrial.	0
+FEVER000448	0	Joe Manganiello has appeared in a movie.	0
+FEVER000449	0	Veronika Decides to Die is authored by Roberta Hanley.	0
+FEVER000450	0	Sully is a Tom Hanks movie.	0
+FEVER000451	0	Walter Matthau is incapable of winning anything.	1
+FEVER000452	0	Lisa Kudrow appeared on Showtime.	0
+FEVER000453	0	Myles Kennedy has released albums.	0
+FEVER000457	0	Jane Fonda worked with Lily Tomlin in a show.	0
+FEVER000458	0	"Imagine Dragons was named the ""Breakthrough Band of 2014."""	1
+FEVER000462	0	Mike Love co-founded a band.	0
+FEVER000464	0	Apple was incorporated as Apple Computer, Inc. in January 1977.	0
+FEVER000467	0	Star Search was relaunched in 2003-04.	0
+FEVER000468	0	Canada was never the location of a French colony.	1
+FEVER000470	0	System of a Down has only sold albums in Greenland.	1
+FEVER000471	0	Led Zeppelin was first named the New Yardbirds.	0
+FEVER000472	0	Payton Manning signed with the Ontario Broncos.	1
+FEVER000473	0	Anthropology is a division of Davis Entertainment.	1
+FEVER000474	0	Kafka stars an actor.	0
+FEVER000475	0	Alex Rodriguez played for the Mariners.	0
+FEVER000476	0	Charles Marie de La Condamine was born in 1701.	0
+FEVER000478	0	Pulp Fiction is written by a man.	0
+FEVER000480	0	Giada De Laurentiis has been a contributor to a morning TV program.	0
+FEVER000482	0	The Grammy Hall of Fame inducted Bohemian Rhapsody.	0
+FEVER000485	0	Hugh Jackman has a public feud with Christopher Nolan, preventing any collaboration between the two.	1
+FEVER000488	0	Cate Blanchett was nominated for an Academy Award.	0
+FEVER000489	0	Slash was born in 1965.	0
+FEVER000490	0	Drake is only German.	1
+FEVER000491	0	R. Madhavan was a cast member of 3 Idiots.	0
+FEVER000492	0	James and the Giant Peach includes Richard Dreyfuss.	0
+FEVER000494	0	Ayn Rand condemned force.	0
+FEVER000495	0	Anne Hathaway had a part in Ella Enchanted.	0
+FEVER000497	0	Oh Yeon-seo was born.	0
+FEVER000499	0	Ben Stiller was involved in the film industry in the 1990s.	0
+FEVER000500	0	"The Los Angeles Lakers were nicknamed ""Showtime"" in the 1980s."	0
+FEVER000503	0	Slovenia is bordered by the Adriatic Sea.	0
+FEVER000504	0	Italy is officially called the big meatball.	1
+FEVER000505	0	Ron Cobb was only born in the year 1954.	1
+FEVER000506	0	Just Dance was a song.	0
+FEVER000508	0	Journey is a band.	0
+FEVER000510	0	Life Is Peachy was released by Epic Records.	0
+FEVER000512	0	Sarah Silverman never wrote for a sketch comedy show.	1
+FEVER000513	0	A mole is a structure.	0
+FEVER000514	0	Shahid Kapoor supports charities.	0
+FEVER000515	0	Doctor Who was written by the Ancient Greeks.	1
+FEVER000516	0	L.A. Law ended on May 19, 1994.	0
+FEVER000517	0	Jerry Seinfeld specialized in observational comedy.	0
+FEVER000519	0	Marie Curie was naturalized-German.	1
+FEVER000521	0	Honey to the B was the first album of a singer and actress from England.	0
+FEVER000522	0	Will Ferrell is considered to be part of the Frat Pack.	0
+FEVER000527	0	Donnie Wahlberg acts with Tom Selleck.	0
+FEVER000529	0	Rogue appears in Canadian comic books.	1
+FEVER000530	0	The German Shepherd is the second-most registered breed by the American Kennel Club and The Kennel Club UK.	1
+FEVER000531	0	Diego Costa was born in October.	0
+FEVER000532	0	Ocean's Eight is a sequel to the Ocean's Trilogy.	0
+FEVER000533	0	The United Kingdom includes Scotland.	0
+FEVER000534	0	John Wick: Chapter 2 is a film.	0
+FEVER000536	0	Europe is the location of Andorra.	0
+FEVER000537	0	Axl Rose has been named one of the greatest singers.	0
+FEVER000538	0	Steffi Graf won 5 consecutive majors.	0
+FEVER000542	0	Jennifer Garner had a starring role in the film Catch Me if You Can.	1
+FEVER000543	0	Boromir is mentioned in the third and last volume of The Lord of the Rings.	0
+FEVER000544	0	Paul Simon is an actor.	0
+FEVER000545	0	Game of Thrones (season 3) is a drama set in a fantasy world.	0
+FEVER000546	0	Taiwan's high-tech industry plays a key role in the local economy.	1
+FEVER000547	0	London has an elected official.	0
+FEVER000548	0	Bill Gates was the largest individual shareholder of Microsoft.	0
+FEVER000549	0	The phalanx may be deployed for killing.	0
+FEVER000550	0	Robbie Collin edited The Saint.	0
+FEVER000552	0	Christianity failed to spread to Australasia.	1
+FEVER000554	0	Feels So Good was written for the album Hot.	0
+FEVER000555	0	Deadpool is not part of a film series.	0
+FEVER000556	0	Evolution was by someone born in May.	0
+FEVER000557	0	Kmart has stores in operation in an unincorporated and organized territory of the United States.	0
+FEVER000558	0	Ancient Algeria has known many empires and dynasties, including ancient Carthaginians.	0
+FEVER000561	0	Clint Eastwood has been in films.	0
+FEVER000562	0	Gorgeous Ladies of Wrestling is a wrestling promotion for women.	0
+FEVER000563	0	Gustave Eiffel made significant contributions to aerodynamics.	0
+FEVER000564	0	Idris Elba has been nominated four times for a Golden Globe Award in acting.	0
+FEVER000565	0	Paul Rudd passed up the role he was offered in Role Models.	1
+FEVER000566	0	The Twelfth Doctor is capable of superhuman abilities.	0
+FEVER000567	0	Happy Endings had Lisa Kudrow in it.	0
+FEVER000568	0	Grace VanderWaal won the NBC TV competition show America's Got Talent.	0
+FEVER000570	0	Jennifer Hudson has won a Grammy.	0
+FEVER000571	0	Marie Antoinette died in 1793.	0
+FEVER000572	0	The Uruguay national football team won two FIFA World Cups.	0
+FEVER000573	0	Overwatch is a board game.	1
+FEVER000574	0	The Sopranos is a televised show.	0
+FEVER000575	0	Babe Ruth was active in Major League Baseball from 1914-1935.	0
+FEVER000576	0	Roger Federer plays a racket sport.	0
+FEVER000577	0	La La Anthony was in November Rule and Destined.	0
+FEVER000578	0	The United States Naval Academy is in Maryland.	0
+FEVER000580	0	Tom Welling was born November 26, 1977.	1
+FEVER000581	0	In the Heart of the Sea was released in cinemas.	0
+FEVER000582	0	Blues and rock music has been played by the band AC/DC.	0
+FEVER000584	0	Naruto is incapable of being a ninja.	1
+FEVER000585	0	Marilyn Monroe is an actress.	0
+FEVER000587	0	Wyatt Earp was a constable and he was American.	0
+FEVER000588	0	Israel hosts a population of asylum seekers including illegal migrants from Sudan.	0
+FEVER000589	0	The American Broadcasting Company has a nickname.	0
+FEVER000591	0	Cindy McCain is married to a 2008 rugby champion.	1
+FEVER000593	0	Leonardo DiCaprio is a fish.	1
+FEVER000595	0	T-Pain is the founder of a record label imprint established in 2005.	0
+FEVER000599	0	Alan Ladd failed to become television producer.	1
+FEVER000600	0	VHS was released in late 1976 in Japan.	0
+FEVER000603	0	Pixar was funded by an Indian industrial designer.	1
+FEVER000605	0	The Chernobyl disaster ultimately involved more than 500,000 workers.	0
+FEVER000607	0	The Beatles were formed in London.	0
+FEVER000608	0	Kumail Nanjiani has declined to act in any movies.	1
+FEVER000609	0	Hacksaw Ridge made money.	0
+FEVER000611	0	In 2010, Kick-Ass was released.	0
+FEVER000612	0	Harry Potter confronts someone in Harry Potter and the Deathly Hallows.	0
+FEVER000613	0	Sophie Turner appeared in movies in 2013.	0
+FEVER000616	0	Farrah Fawcett was the subject of an NBC documentary.	0
+FEVER000617	0	Tiger Woods has not competed in a golf tournament.	1
+FEVER000618	0	Brian Eno was born in England.	0
+FEVER000620	0	Portugal does not share a border with Spain.	1
+FEVER000621	0	Steven Knight was born in 1959.	0
+FEVER000622	0	Suits is a show about lawyers.	0
+FEVER000623	0	Tom Hanks has been granted at least three awards.	0
+FEVER000624	0	Dwyane Wade was rejected for the All-Rookie team.	1
+FEVER000626	0	The Homesman features American actor John Lithgow.	1
+FEVER000627	0	Star Wars' soundtrack was recorded in England.	0
+FEVER000628	0	The cast of The Playboy Club includes Leah Renee.	0
+FEVER000629	0	The Portuguese Empire was an empire in world history.	0
+FEVER000630	0	Chris Froome's parents are people.	0
+FEVER000631	0	Shueisha is a publisher headquartered in Maine.	1
+FEVER000632	0	Friendship has been studied in academic disciplines like anthropology.	0
+FEVER000633	0	Belgium is comprised of three regions.	0
+FEVER000635	0	Apple Inc.'s consumer software lacks the iOS operating system.	1
+FEVER000638	0	Kris Wu starred in a Chinese film called Journey to the West.	0
+FEVER000639	0	Super Metroid is a movie sequel.	1
+FEVER000640	0	One America News Network is abbreviated as OANN.	0
+FEVER000641	0	Jennifer Garner is a board member of Save the Children.	0
+FEVER000643	0	The Portuguese Empire existed during the Renaissance.	0
+FEVER000644	0	One actor is Scott Eastwood.	0
+FEVER000645	0	Tall Story is a romantic comedy club.	1
+FEVER000646	0	X-Men: Days of Future Past is a novel based on X-Men characters in comics.	1
+FEVER000647	0	Richard Eyre is a television director.	0
+FEVER000650	0	Furious 7 began principal photography in the summer of 2013.	1
+FEVER000651	0	Prakash Jha is an actor.	0
+FEVER000652	0	Splatoon 2 is the only game in its franchise.	1
+FEVER000653	0	Nepal was ruled by the Shah dynasty until 2008.	0
+FEVER000654	0	The interior of Uranus is only composed of gas.	1
+FEVER000655	0	Sriti Jha plays the lead role in a TV show.	0
+FEVER000657	0	There is a film called Absolute Beginners.	0
+FEVER000658	0	Qatar borders London.	1
+FEVER000659	0	The Amanda Show aired from 1999 to 2002.	0
+FEVER000661	0	Brock Lesnar is signed to a Japanese mixed martial arts promotion.	1
+FEVER000662	0	The Hangover Part III includes Justin Bartha.	0
+FEVER000663	0	Lee Harvey Oswald assassinated the 35th President of the United States.	0
+FEVER000664	0	In & Out is directed by James Cameron.	1
+FEVER000666	0	Tom Felton is a person.	0
+FEVER000668	0	Louis Tomlinson appeared in a TV drama.	0
+FEVER000669	0	Kalpana Raghavendar is an artist.	0
+FEVER000670	0	Luke Evans had his Hollywood breakthrough role starring in a play.	1
+FEVER000671	0	"Emily Ratajkowski was visible in the ""Blurred Lines"" music video."	0
+FEVER000672	0	10 Cloverfield Lane stars the actor John Gallagher, Jr.	0
+FEVER000673	0	Chris Froome rides under a British license.	0
+FEVER000674	0	Olivia Munn failed to be credited as Lisa Munn.	1
+FEVER000677	0	Batman is yet to be released.	1
+FEVER000678	0	Marlon Brando is an actor who was in Mutiny on the Bounty.	0
+FEVER000679	0	None of lung cancer's symptoms is chest pains.	0
+FEVER000681	0	Iran has 21 UNESCO World Heritage Sites.	0
+FEVER000682	0	The Taj Mahal attracts significantly less than 7-8 million visitors a year.	1
+FEVER000684	0	Lisbon is in Portugal.	0
+FEVER000685	0	Arya Stark is the daughter of Lady Catelyn Stark.	0
+FEVER000687	0	Selene serves as the central character in a film written by Danny McBride in 2001.	0
+FEVER000688	0	Pulp Fiction is an American black comedy neo-noir film released in 1994.	0
+FEVER000690	0	Dan Aykroyd has received zero Academy Award nominations.	0
+FEVER000691	0	Dhool was directed by Dharani.	0
+FEVER000692	0	Watchmen was number 91 on The Comics Journals list of the top 100 comics of the 20th century that was published in 2001.	1
+FEVER000693	0	Android has had prosperity.	0
+FEVER000694	0	Saddam Hussein died in 1937.	1
+FEVER000695	0	Tim Rice has collaborated with someone.	0
+FEVER000696	0	Hugo Weaving is in zero movies.	1
+FEVER000698	0	Time Lords have time machines.	0
+FEVER000699	0	Arsenic and Old Lace was released in 1964.	1
+FEVER000700	0	The Catalyst is a rock song.	0
+FEVER000701	0	Indiana Jones has been portrayed by Corey Carrier.	0
+FEVER000702	0	Umbrella is a single.	0
+FEVER000706	0	Sandra Bullock stars in The Proposal.	0
+FEVER000707	0	Martin Luther King Jr. worked on segregated housing in earnest.	0
+FEVER000708	0	FC Barcelona was awarded five trophies.	0
+FEVER000709	0	The Great Buck Howard was directed by Ingmar Bergman.	1
+FEVER000710	0	John McEnroe is famous for his aggressive behavior on the court.	0
+FEVER000714	0	John Mayer's first EP was released while he was signed to Columbia Records.	0
+FEVER000715	0	Dirty Diana is by Michael Jackson.	0
+FEVER000717	0	American Gods' adaptation began airing.	0
+FEVER000718	0	Adrienne Bailon is an American actress.	0
+FEVER000719	0	Marlon Brando was in any movie but Julius Caesar.	1
+FEVER000720	0	Up All Night was released by Syco Records in 2011.	0
+FEVER000721	0	Little Miss Sunshine was filmed over 30 days beginning on June 6, 2005.	0
+FEVER000722	0	IO Theater is a place where people train.	0
+FEVER000723	0	Coke Boys Records was founded by an American Rapper.	0
+FEVER000725	0	John McCain was a presidential nominee in 2008.	0
+FEVER000726	0	Gia is a work.	0
+FEVER000727	0	21 Jump Street was released by Columbia Pictures in 2002.	1
+FEVER000729	0	Kuala Lumpur has the Petronas Twin Towers.	0
+FEVER000730	0	The television series Fargo has an anthology format, setting each season in a different era with a different story and cast.	0
+FEVER000731	0	An annual training camp is hosted by the Carolina Panthers.	0
+FEVER000732	0	Ronaldo Maczinski is Irish.	1
+FEVER000733	0	Born This Way is a piece of music.	0
+FEVER000734	0	By 1997, Andre Agassi was number 141 in the world.	0
+FEVER000735	0	Charles, Prince of Wales was a grandchild of a king.	0
+FEVER000737	0	Man of Steel is a superhero movie from 2013.	0
+FEVER000738	0	Kate Beckinsale was directed by James Ivory.	0
+FEVER000739	0	Shakira is a performer.	0
+FEVER000740	0	Michael Schumacher is a professional writer	1
+FEVER000741	0	Bridget Moynahan was cut from Lord of War.	1
+FEVER000742	0	There is a mosque in the Taj Mahal.	0
+FEVER000744	0	Cry Freedom wasn't shot in Kenya.	1
+FEVER000745	0	In the United States presidential election of 1972, Richard Nixon was a candidate.	0
+FEVER000746	0	There is a cultural attraction called the Museum of Science and Industry.	0
+FEVER000747	0	Carrie Fisher wrote a book.	0
+FEVER000748	0	Anil Kapoor has never been a producer.	1
+FEVER000749	0	Adolf Hitler encouraged settler colonialism.	0
+FEVER000750	0	Before Night Falls is a film.	0
+FEVER000751	0	An example of a Christmas comedy film is Home Alone.	0
+FEVER000752	0	Steven Price (composer) worked on the film Gravity.	0
+FEVER000754	0	The 1991 NBA Finals had the Lakers in it.	0
+FEVER000755	0	Google has been the second most valuable brand in the world for 4 blue years.	0
+FEVER000756	0	Instagram is a photo-sharing application.	0
+FEVER000759	0	Snooki & Jwoww was renewed by at least one channel.	0
+FEVER000761	0	The Eagles broke up in 1980.	0
+FEVER000762	0	Black Widow is Russian.	0
+FEVER000763	0	Portugal is the 5th most peaceful country in the world and it also features a high-income advanced economy and the 18th highest social progress in the world.	0
+FEVER000764	0	A temperate seasonal climate influences Berlin.	0
+FEVER000766	0	Twitter had about 1.6 billion search queries per day in 2012.	0
+FEVER000769	0	Ramadan is the ninth calendar month in Islam.	0
+FEVER000770	0	The self-empowerment of the LGBT community is discussed in Born This Way.	0
+FEVER000774	0	Mao Zedong lived until 1976.	0
+FEVER000776	0	Steven Tyler was active in the early 1980s.	1
+FEVER000777	0	Wikipedia has articles in only english.	1
+FEVER000779	0	Ellyse Perry is a man.	1
+FEVER000780	0	American Idiot has not had five successful singles.	1
+FEVER000781	0	Wyatt Earp was an actor.	1
+FEVER000785	0	Toronto is the least populous city in Canada.	1
+FEVER000786	0	Paul is Steve Jobs' middle name.	0
+FEVER000787	0	Destiny was released for the console Playstation 4.	0
+FEVER000788	0	Heather Graham played the title character in the series Emily's Reasons Why Not in 2010.	0
+FEVER000789	0	Battle Studies World Tour was a global tour.	0
+FEVER000791	0	Samuel L. Jackson was in the M. Night Shyamalan film Unbreakable.	0
+FEVER000794	0	Singapore is south of Indonesia.	1
+FEVER000796	0	Jennifer Hudson was a finalist of American Idol.	0
+FEVER000797	0	Hong Kong is incapable of being consistently ranked as the world's most freest economic entity.	1
+FEVER000798	0	Manchester City F.C. was bought by the Abu Dhabi United Group.	0
+FEVER000799	0	Unapologetic is a work.	0
+FEVER000801	0	Andre Agassi is a golfer.	1
+FEVER000802	0	Liverpool F.C. was managed by Bill Shankly.	0
+FEVER000803	0	Bangladesh is a founding member of nationalism.	1
+FEVER000804	0	Jon Pertwee took part in Worzel Gummidge.	0
+FEVER000805	0	Lee Child was born on October 29.	0
+FEVER000808	0	Tequila is incapable of being made in Mexico.	1
+FEVER000810	0	Michael Phelps holds three long course world records for swimming.	0
+FEVER000812	0	Donald Glover never released an album.	1
+FEVER000813	0	FC Barcelona was ranked second in the IFFHS Club World Ranking for 2015.	1
+FEVER000814	0	Courteney Cox appeared on a show created by David Crane and Marta Kauffman.	0
+FEVER000817	0	Chris Pine appeared in a 2012 American romantic comedy spy film.	0
+FEVER000818	0	Ratatouille was directed by one person.	1
+FEVER000819	0	Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.	0
+FEVER000820	0	Iron Fist was created by Damon Lindelof.	1
+FEVER000821	0	Dangerous Beauty is a 1990 film.	1
+FEVER000823	0	The Avengers (2012 film) features Chris Evans.	0
+FEVER000824	0	Jerry Goldsmith failed to collaborate with anybody during his career.	1
+FEVER000825	0	Charles, Prince of Wales sponsors The Prince's Charities.	0
+FEVER000826	0	Grizz Chapman was on 30 Rock.	0
+FEVER000827	0	Nicki Minaj is a person.	0
+FEVER000828	0	Margaret of Valois was imprisoned.	0
+FEVER000830	0	The Dayton Agreement was formally signed in Paris in 1995.	0
+FEVER000833	0	As the World Turns went away and an American talk show debuted on October 18, 2010 in its place.	0
+FEVER000834	0	Princess Agents is a novel adaptation.	0
+FEVER000835	0	The Vampire Diaries only aired two seasons.	1
+FEVER000837	0	The Ten Commandments is reviewed by Cecil B. DeMille.	1
+FEVER000839	0	The Bends was released in the 1990's.	0
+FEVER000840	0	Alandi is only a city.	1
+FEVER000841	0	A singer in Got a Girl starred in Final Destination 3.	0
+FEVER000842	0	Peggy Sue Got Married was directed by an American director.	0
+FEVER000844	0	Role Models is a film.	0
+FEVER000845	0	Gerald Ford was the United States president after Richard Nixon.	0
+FEVER000846	0	Will Ferrell worked on a film.	0
+FEVER000848	0	Marshall McLuhan predicted his own death.	1
+FEVER000849	0	Walt Disney founded a company.	0
+FEVER000850	0	Brock Lesnar won against Randy Couture.	0
+FEVER000853	0	Guam was employed by America.	1
+FEVER000855	0	Sweden is a Scandinavian country.	0
+FEVER000856	0	One of Future's studio albums was published in 2017.	0
+FEVER000857	0	David Dhawan is a director of films.	0
+FEVER000858	0	This Sporting Life was directed by a director born in 1919.	1
+FEVER000859	0	International Relations includes technology and engineering, economics, communication studies, history, international law, demography, philosophy, geography, social work, sociology, anthropology, criminology, psychology, gender studies, cultural studies, culturology, and diplomacy, globalization, diplomatic relations, state sovereignty, international security, ecological sustainability, nuclear proliferation, nationalism, economic development, global finance, as well as terrorism and organized crime, human security, foreign interventionism, and human rights, as well, as, more recently, comparative religion.	0
+FEVER000860	0	Underworld's main character is a supernatural creature.	0
+FEVER000861	0	Avenged Sevenfold released an album.	0
+FEVER000862	0	Brock Lesnar defeated someone.	0
+FEVER000864	0	Three Days of the Condor includes a Swedish actor.	0
+FEVER000865	0	Tyra Banks presented America's Got Talent.	0
+FEVER000866	0	Romelu Lukaku is a golfer.	1
+FEVER000868	0	Toy Story is a movie of the buddy comedy adventure genres.	0
+FEVER000870	0	Al Capone was not prosecuted for tax evasion.	1
+FEVER000872	0	Chet Atkins produced records for Dolly Parton.	0
+FEVER000873	0	Trevor Baxter went to college at Dulwich College.	0
+FEVER000874	0	A Song of Ice and Fire is part of an American book series called A Game of Thrones.	1
+FEVER000875	0	Many voice actors act in Timon & Pumbaa.	0
+FEVER000876	0	Jeff Bridges played a role in an American Revisionist Western film.	0
+FEVER000878	0	Zach Galifianakis starred in a film.	0
+FEVER000879	0	Nigeria is one of the countries in the Next Eleven.	0
+FEVER000880	0	Angela Lansbury got significant recognition for her acting performance in The Manchurian Candidate.	0
+FEVER000882	0	Murray was played by Keegan-Michael Key in Hotel Transylvania 2.	0
+FEVER000883	0	Born Naked is an album.	0
+FEVER000885	0	Rock music incorporated music genres like a type of blues music distinguished by the use of electric amplification for musical instruments known as electric blues.	0
+FEVER000886	0	Reba McEntire sang on radio shows.	0
+FEVER000889	0	The Constitution of Medina was written by Muhammad.	0
+FEVER000890	0	Sleep can be disrupted by medical conditions.	0
+FEVER000891	0	Frank is by a person.	0
+FEVER000892	0	A German-American fashion model starred in The Host.	0
+FEVER000893	0	Robert Redford guest starred on Perry Mason.	0
+FEVER000895	0	Katie Stevens is Australian.	1
+FEVER000896	0	Haiti is a member of the World Trade Organization.	0
+FEVER000897	0	Anne Hathaway debuted in the Fox television series Get Real.	0
+FEVER000898	0	Twitter has more than one office.	1
+FEVER000899	0	Venus Williams has won a tournament.	0
+FEVER000900	0	Red is inspired by a comic book series.	0
+FEVER000901	0	J. Cole is a hip hop recording artist.	0
+FEVER000902	0	The cast of The Playboy Club includes David Krumholtz.	0
+FEVER000903	0	Portugal maintains a unitary semi-presidential republican form of government which means that the president exists alongside the prime minister and the cabinet and the central government is supreme.	0
+FEVER000904	0	Randy Orton is a squid.	1
+FEVER000906	0	Rainn Wilson graduated in the 80s.	0
+FEVER000910	0	Zeus is the child of Cronus and Rhea.	0
+FEVER000912	0	Matt Kuchar is a professional golf player.	0
+FEVER000913	0	Burundi is only populated by Tutsis.	1
+FEVER000914	0	Foo Fighters was created by a name reported by aircraft pilots.	0
+FEVER000915	0	Nickelodeon has weekday programs.	0
+FEVER000917	0	Arrested Development won six Primetime Emmy Awards.	0
+FEVER000918	0	Jim Carrey has worked with director Don Scardino.	0
+FEVER000919	0	Eminem only performs alone.	0
+FEVER000920	0	David Thewlis has performed.	0
+FEVER000921	0	In 1968, Led Zeppelin formed.	0
+FEVER000922	0	Dwyane Wade played for Chicago.	0
+FEVER000923	0	Champion was based off of a Ring Lardner story.	0
+FEVER000925	0	My Bloody Valentine 3D's editor was Patrick Lussier.	0
+FEVER000926	0	Dwight Schrute was based on Gareth Keenan.	0
+FEVER000927	0	Beasts of the Southern Wild was nominated for an award.	0
+FEVER000930	0	Transformers (film) is based on a toy line created by Hasbro.	0
+FEVER000931	0	Laura Prepon portrayed Donna Pinciotti in That '70s Show.	0
+FEVER000932	0	Charles Dickens was not English.	1
+FEVER000933	0	Michael Fassbender was in the NBC miniseries Band of Brothers.	1
+FEVER000934	0	Keeping Up with the Joneses had a budget.	0
+FEVER000935	0	RenderMan was developed by Pixar.	0
+FEVER000936	0	The Homesman features at least one American actor.	0
+FEVER000937	0	Peter Cetera was an artist.	0
+FEVER000938	0	Heartbreak Ridge was filmed in Technicolor.	0
+FEVER000939	0	Cape Fear features a cameo from Robert Mitchum and it is directed by Martin Scorsese.	0
+FEVER000940	0	Oliver Reed was in a movie.	0
+FEVER000941	0	Maggie Smith is an actress.	0
+FEVER000942	0	Jackie Robinson died in the seventies.	0
+FEVER000943	0	Eric Trump's father's birthday is June 14.	1
+FEVER000945	0	Ethiopia is a state.	1
+FEVER000946	0	On February 18, 1949, Gary Ridgway was born.	0
+FEVER000947	0	Eva Longoria has starred in Harsh Times.	0
+FEVER000949	0	Angela Lansbury was born to a family that was upper-middle-class.	0
+FEVER000951	0	The World Science Festival is produced by the World Science Foundation.	0
+FEVER000953	0	XXx: Return of Xander Cage has the writer F. Scott Frazier.	0
+FEVER000954	0	Kid Rock is an artist.	0
+FEVER000955	0	Hillary Clinton was employed in the Obama administration.	0
+FEVER000957	0	The Ten Commandments (1956 film) is a 1956 American movie.	0
+FEVER000958	0	Kangana Ranaut was alive.	0
+FEVER000959	0	Marlon Brando took part in a film adapted from the work of a writer of more than 40 books.	0
+FEVER000960	0	Ringo Starr replaced Pete Best.	0
+FEVER000961	0	Oscar Robertson is American.	0
+FEVER000962	0	Wyoming is the least populous state in the United States.	0
+FEVER000963	0	Heartland has no nationality.	1
+FEVER000964	0	Following was only directed by Martin Scorsese.	1
+FEVER000966	0	Jacinda Barrett is a person.	0
+FEVER000968	0	Ubisoft created Assassin's Creed.	0
+FEVER000970	0	Edgar Award honors the best in TV.	0
+FEVER000972	0	Lewis Hamilton is a race car driver.	0
+FEVER000973	0	Girls' Generation features Taeyeon.	0
+FEVER000974	0	Pirates of the Caribbean is set in a fictional future setting.	1
+FEVER000975	0	Ad-Rock is single.	1
+FEVER000976	0	Gianluigi Buffon has been named Serie A Goalkeeper of the Year.	0
+FEVER000977	0	Rhona Mitra writes songs.	0
+FEVER000979	0	Steven Soderbergh directed a biographical film and received acclaim.	0
+FEVER000980	0	Dragon is taken from a linguistic system indigenous to sections of the Eastern Mediterranean.	0
+FEVER000981	0	Following a stroke, Lauren Bacall died.	0
+FEVER000983	0	Led Zeppelin II was only released in Japan on October 31, 1969.	1
+FEVER000985	0	Brian Helgeland won an award.	0
+FEVER000986	0	De Profundis was written during an imprisonment.	0
+FEVER000987	0	Planet of the Apes' director was Franklin J. Schaffner.	0
+FEVER000988	0	Radioactive has won a Grammy.	0
+FEVER000989	0	The hero of the Odyssey is Harry Potter.	1
+FEVER000990	0	Houston economy is incapable of having a base in energy.	0
+FEVER000991	0	Nice & Slow was released after 1990.	0
+FEVER000992	0	Lewis Hamilton is a racecar driver in F1.	0
+FEVER000994	0	Ben Stiller did not direct or star in the film Zoolander.	1
+FEVER000995	0	Nicole Scherzinger made progress towards the eventual creation of a clothing brand.	0
+FEVER000997	0	Turkey ended accession negotiations with the European Union.	1
+FEVER000998	0	Selena Gomez starred in the 2013 film Spring Breakers.	0
+FEVER001000	0	One of the leads in Transformers: Age of Extinction is an American rapper.	0
+FEVER001001	0	Emilio Estevez acts.	0
+FEVER001002	0	The Gheg of southern Austria form the oldest continuous ethnic Albanian diaspora.	1
+FEVER001003	0	Mauritius has high political freedom.	0
+FEVER001004	0	Star vs. the Forces of Evil is an American animated series produced by Disney Television Animation.	0
+FEVER001008	0	Before the year 2000, The Ren & Stimpy Show was created.	1
+FEVER001009	0	Krysten Ritter was on 'Til Death.	0
+FEVER001010	0	The Incredible Hulk is the second episode in a series.	0
+FEVER001011	0	A Perfect Circle was formed in a year.	0
+FEVER001012	0	Farrah Fawcett forfeited four additional Golden Globe nominations for her 1980s work in TV movies.	1
+FEVER001013	0	Judy Greer has not appeared in multiple films.	1
+FEVER001014	0	25 was released in November and was successful.	0
+FEVER001015	0	There is an actress name Eliza Dushka.	0
+FEVER001016	0	Little Mix is a Ugandan girl group.	1
+FEVER001018	0	Zindagi Na Milegi Dobara has a director named Laila.	0
+FEVER001019	0	Baahubali: The Beginning was released in 2000.	1
+FEVER001022	0	Miley Cyrus is in the music industry.	0
+FEVER001025	0	Christina Aguilera has avoided the music industry entirely.	1
+FEVER001027	0	Bill Gates was a chairman of Microsoft.	0
+FEVER001028	0	Keanu Reeves played bass guitar for the band Becky in 2001.	0
+FEVER001029	0	Gone with the Wind is a long-length fiction work.	0
+FEVER001031	0	Gold has a distinctive color.	0
+FEVER001032	0	Lodging is done in a car.	1
+FEVER001033	0	K-pop Star 2 featured Park Jin-young as a judge.	0
+FEVER001034	0	The Khmer Empire was weak.	1
+FEVER001035	0	Gwen Stefani received a World Music Award.	0
+FEVER001036	0	Buddy Holly's birth name was Johnny Bravo.	1
+FEVER001037	0	Liev Schreiber is an American actor.	0
+FEVER001038	0	Oakland, California is a city populated by 419,267 people.	0
+FEVER001039	0	Alex Rodriguez is an athlete.	0
+FEVER001040	0	Nazi Germany happened after Hitler's death.	1
+FEVER001041	0	Keturah was Abraham's wife.	0
+FEVER001042	0	Game of Thrones (season 1) featured Scottish stage and television actor Iain Glen.	0
+FEVER001043	0	Patrick Bateman is the villain protagonist of the game American Psycho.	0
+FEVER001044	0	Jimmy Carter was not a president.	1
+FEVER001045	0	Andy Dwyer appears in a series.	0
+FEVER001046	0	Extracorporeal shockwave therapy (ESWT) is unused in cardiology.	0
+FEVER001047	0	Yusuke Murata was the illustrator of an American football manga.	0
+FEVER001049	0	There is a director named Fred Savage.	0
+FEVER001050	0	Where the Wild Things Are was put out in December.	0
+FEVER001051	0	Faith Evans works solely as an actress.	1
+FEVER001052	0	Hot was by a pop singer from Britain.	0
+FEVER001053	0	Natalie Portman was not in Star Wars.	1
+FEVER001054	0	Havoc went to the public on November 29, 2005.	0
+FEVER001057	0	Gabriel Aubry and Halle Berry have a child.	0
+FEVER001058	0	Sharon Tate was a model.	0
+FEVER001060	0	Nick Kroll has a leading role in the comedy Get Him to the Greek.	1
+FEVER001063	0	Inhumans are DC characters.	1
+FEVER001064	0	"Cloud Atlas has been described as ""a sort of pointillist mosaic."""	0
+FEVER001065	0	Thirteen is based on Nikki Reed's death at age 12 and 13.	1
+FEVER001067	0	Caitlyn Jenner did not change her gender.	1
+FEVER001068	0	James Taylor released a compilation album.	0
+FEVER001069	0	Slovakia joined in Eurozone in November 2009.	1
+FEVER001070	0	Little Boy was dropped by Enola Gay.	0
+FEVER001071	0	Taylor Schilling in the main cast of the series Orange is the New Black.	0
+FEVER001075	0	Curse, Inc. is used by a game.	0
+FEVER001076	0	Huginn is a raven that often travels with Odin.	0
+FEVER001077	0	Iain Glen is only a film actor.	1
+FEVER001080	0	The Billboard charts included Just Dance.	0
+FEVER001081	0	Mickey Rooney was in a film based on the novel The Black Stallion by Walter Farley.	0
+FEVER001082	0	Louise Simonson is from America.	0
+FEVER001083	0	Nelson Mandela was President of South Africa from 1994 to 1999.	0
+FEVER001084	0	Janet Varney is a German.	1
+FEVER001085	0	Lust for Life is based on a 1934 novel.	0
+FEVER001086	0	Alex Rodriguez has had a 22-year career.	0
+FEVER001087	0	Lee Min-ho is a German singer.	1
+FEVER001088	0	Destiny's criticism centered mostly around the game's storyline and post-campaign content.	0
+FEVER001089	0	No artists lived in Amsterdam.	1
+FEVER001091	0	Australia is a country in the Pacific Ocean.	0
+FEVER001093	0	Event management includes decor.	0
+FEVER001095	0	The New York Giants play professionally.	0
+FEVER001096	0	Shawn Mendes is represented by a Canadian record label.	1
+FEVER001097	0	The Secret Life of Us failed to ever air anywhere.	1
+FEVER001098	0	The Dark Knight is set in Metropolis.	1
+FEVER001099	0	Jamie Foxx was incapable of portraying Ray Charles in Ray.	1
+FEVER001100	0	A cause of anti-nuclear antibodies are are anti-sp100 antibodies.	0
+FEVER001101	0	Emmy Rossum had a prominent role in a movie of which Maggie Greenwald was the director.	0
+FEVER001102	0	The divine right of kings was brought into action by Henry VIII when he changed the English constitution.	0
+FEVER001103	0	How to Lose Friends & Alienate People stars Simon Pegg, Kirsten Dunst, Danny Huston, Gillian Anderson, Megan Fox and Jeff Bridges, alongside Max Minghella and Margo Stilley.	0
+FEVER001104	0	Equidae includes some species known only from fossils.	0
+FEVER001105	0	Ty Cobb was born in rural Connecticut.	1
+FEVER001107	0	Felicity Jones was nominated for an Academy Award for Best Actress.	0
+FEVER001108	0	There is a screenwriter named Jim Rash.	0
+FEVER001112	0	Paris hosts the French Open.	0
+FEVER001113	0	Toy Story is a television show.	1
+FEVER001114	0	Kalpana Raghavendar is a person who writes songs.	0
+FEVER001115	0	The Odia language is used to communicate in Chhattisgarh.	0
+FEVER001116	0	Melisandre was left out of A Storm of Swords (2000).	1
+FEVER001117	0	Queen Latifah has won at least one Screen Actors Guild Award.	0
+FEVER001118	0	Laadla was released.	0
+FEVER001119	0	Stars Dance is Selena Gomez's debut album.	0
+FEVER001120	0	Ileana D'Cruz starred in a movie.	0
+FEVER001121	0	Jet Li was in The Forbidden Kingdom with Jackie Chan.	0
+FEVER001123	0	Suits stars a dog named Harvey Specter.	1
+FEVER001124	0	Dr. Dre established his own country.	1
+FEVER001125	0	Derrick Rose was not born in the Chicago area.	1
+FEVER001126	0	Paul Newman was an actor.	0
+FEVER001128	0	Charles I of England was a pauper.	1
+FEVER001129	0	SF are the initials used to represent San Francisco.	0
+FEVER001130	0	Billy Clanton was unrelated to Newman Clanton.	1
+FEVER001131	0	Katherine Heigl appeared in a science fiction television series.	0
+FEVER001132	0	Stagira is the birthplace of Plato.	0
+FEVER001133	0	Cara Delevinge did not win the Model of the Year award.	1
+FEVER001134	0	David Harbour was born on June 2nd, 1991.	1
+FEVER001135	0	In Burundi, there are 21 registered parties.	0
+FEVER001136	0	Where the Wild Things Are was released in Australia.	0
+FEVER001137	0	Furious 7 is a TV show.	1
+FEVER001138	0	Sarah Paulson received a Golden Globe Award nomination.	0
+FEVER001139	0	Caroline, Princess of Hanover is married to anyone but an heir.	1
+FEVER001142	0	Grey's Anatomy is filmed in the United States.	0
+FEVER001150	0	Nikolaj Coster-Waldau was not in a Danish thriller film.	1
+FEVER001152	0	Sean Connery won three Golden Globes.	0
+FEVER001153	0	Gujarat is in Western Boston.	1
+FEVER001154	0	Cancer is a group of diseases involving abnormal cell proliferation.	0
+FEVER001156	0	Marion Cotillard portrayed someone.	0
+FEVER001157	0	Chandni was created in 2001.	1
+FEVER001158	0	Ronald Reagan worked for the president of the United States.	1
+FEVER001160	0	Kill Bill: Volume 2 is about the Bride continuing her revenge against Bill.	0
+FEVER001162	0	Music journalism is critical of popular music topics.	0
+FEVER001163	0	Tom Felton is an actor.	0
+FEVER001164	0	The Marvel Cinematic Universe's first phase ended.	0
+FEVER001169	0	Hulk's coloration has not varied.	1
+FEVER001172	0	Roger Federer avoided tennis entirely.	1
+FEVER001173	0	Andy Kaufman was an artist.	0
+FEVER001174	0	Bruce Springsteen was a Kennedy Center Honors recipient in 2009.	0
+FEVER001176	0	Planet of the Apes is a squid.	1
+FEVER001180	0	Hayden Panettiere is a person.	0
+FEVER001181	0	A Song of Ice and Fire is by George Raymond Richard Martin.	0
+FEVER001182	0	Oh Yeon-seo worked in a group.	0
+FEVER001183	0	Mango is the national fruit of the Philippines.	0
+FEVER001188	0	"George Best has been described as ""the worst player to ever pull on the green shirt of Wales."""	1
+FEVER001189	0	Bring It On (film) had zero involvement from Jesse Bradford.	1
+FEVER001190	0	Roald Dahl writes books.	0
+FEVER001192	0	Hypothyroidism can cause mood changes.	0
+FEVER001193	0	Jon Watts has only ever been a plumber.	1
+FEVER001194	0	Cosmopolitan as of 2011 only contains content which includes articles on dogs.	1
+FEVER001195	0	By area, Nepal is the ninety-third largest country on Earth.	0
+FEVER001196	0	Wentworth premiered on Broadway.	1
+FEVER001197	0	The Fujitsu iPAD was introduced by Fujitsu in 2002.	0
+FEVER001198	0	Cage Warriors is an MMA promotion that held its first event in London.	0
+FEVER001199	0	American Horror Story: Hotel is a season of an FX romance serialized radio series.	0
+FEVER001200	0	Lonesome Dove (miniseries) was nominated for eighteen Emmys in 1989 and won seven.	0
+FEVER001201	0	Denial was released in Europe.	0
+FEVER001204	0	Avatar: The Last Airbender's antagonist is Aang.	0
+FEVER001205	0	Apple was not founded in 1976.	1
+FEVER001208	0	Conquest of the Planet of the Apes is genre fiction.	0
+FEVER001209	0	Grace Kelly did not work with Alfred Hitchcock.	1
+FEVER001211	0	Bill Clinton served a term in office.	0
+FEVER001212	0	There is an actor name Peter Davison.	0
+FEVER001213	0	Troy Baker was the rhythm guitarist for Tripp Fontaine.	0
+FEVER001216	0	Sons of Anarchy premiered on FX.	0
+FEVER001219	0	Sarah Palin ran for presidency alongside a senator from Arizona.	0
+FEVER001222	0	In 1937, William Hanna worked.	0
+FEVER001223	0	Taylor Kitsch only worked on the 2012 film Savages.	1
+FEVER001224	0	Rescue Me ended on September 7, 2011.	0
+FEVER001226	0	In Azerbaijan, according to polls, 53% of the population state that religion has importance in their lives.	1
+FEVER001227	0	Payton Manning signed with the Broncos following his release from the Colts in 2012.	0
+FEVER001228	0	Christopher Lee portrayed Francisco Scaramanga in the film The Man with the Golden Gun.	0
+FEVER001229	0	The Muppet Christmas Carol is a television show.	1
+FEVER001230	0	Superior Donuts is a noir film.	1
+FEVER001231	0	Usain Bolt is incapable of competing in sports.	1
+FEVER001232	0	Mark Zuckerberg was named Person of the Year by Time magazine in May 2010.	0
+FEVER001234	0	Lana Del Rey's music has been regarded for its penchant for ideas of tragic romance.	0
+FEVER001235	0	Dirt was produced by ABC studios.	0
+FEVER001236	0	Beauty and the Beast was directed by Bill Condon in 2017.	0
+FEVER001237	0	Peyton Manning is the son of an NFL quarterback.	0
+FEVER001238	0	Song Sung Blue is a work of music.	0
+FEVER001239	0	Purple Haze was released as a single for a record.	0
+FEVER001240	0	Bruce Lee was only a professional martial artist and unable to act.	1
+FEVER001241	0	Land Rover makes the Range Rover Evoque.	0
+FEVER001242	0	Gilmore Girls is a show.	0
+FEVER001243	0	2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer and gained much fame.	0
+FEVER001245	0	Eva Longoria is a performer.	0
+FEVER001246	0	Texas Longhorns men's basketball took part in the NCAA Final Four three times total.	0
+FEVER001247	0	Ajay Devgn is an actor in the Canadian film industry.	1
+FEVER001250	0	Diana is a solo album by Diana Ross.	0
+FEVER001252	0	The Silence of the Lambs was a film.	0
+FEVER001255	0	Megan Fox ended her acting career in 2001.	1
+FEVER001256	0	Nick Nolte turned down the role he was offered in Tropic Thunder.	1
+FEVER001259	0	Ryuk (Death Note) is from a manga series that later became an anime.	0
+FEVER001261	0	Lee Min-ho won Best New Actor award.	0
+FEVER001262	0	Leslie Howard was a producer.	0
+FEVER001263	0	New York City features Columbia University.	0
+FEVER001264	0	John Wayne Gacy Jr. was a serial killer.	0
+FEVER001265	0	It was announced that Black Panther would be developed by Marvel Studios in 1928.	1
+FEVER001266	0	Joseph Stalin's birth took place before 1917.	0
+FEVER001267	0	Heather Watson's competitor for the WTA singles title was Chang Kai-Chen.	0
+FEVER001270	0	The Sopranos had seven seasons.	1
+FEVER001271	0	England became the first industrialized nation.	0
+FEVER001272	0	Anna Paquin was unable to perform the role of Flora McGrath.	1
+FEVER001273	0	The Matrix Revolutions was directed by Steven Spielberg.	1
+FEVER001275	0	Bob Kane and Jerry Robinson claim responsibility for the Joker's design.	0
+FEVER001276	0	Robert Wagner wrote his autobiography by himself.	1
+FEVER001279	0	Angelina Jolie was in Salt.	0
+FEVER001280	0	Dangerous Liaisons is exclusively a drama film.	1
+FEVER001281	0	Michael Jackson was acquitted of allegations.	0
+FEVER001282	0	Courtney Love refused to appear in Man on the Moon (1999).	1
+FEVER001286	0	Taiwan did not change from a one-party military dictatorship to a multi-party democracy in the 1980s and early 1990s.	1
+FEVER001288	0	Battle Studies World Tour was a tour by a singer from the United States.	0
+FEVER001289	0	There is a film called The Breakfast Club.	0
+FEVER001290	0	Stephen Rider turned down the opportunity to work in the series Lucky 7.	1
+FEVER001291	0	Sade is a female artist famous for her music and acting.	0
+FEVER001292	0	Dangerous Beauty was directed by someone.	0
+FEVER001293	0	October was the month in which Edgar Allan Poe died.	0
+FEVER001294	0	Roger Penrose was a co-recipient of the 1988 Wolf Prize for physics along with Stephen Hawking.	0
+FEVER001295	0	Muhammad did not migrate from Mecca to Medina.	1
+FEVER001296	0	Anne Hathaway had a role.	0
+FEVER001298	0	Margot Kidder appeared on the children's television series R.L. Stine's The Haunting Hour.	0
+FEVER001299	0	Elephants have been featured in places.	0
+FEVER001300	0	Three Men and a Baby is a baby food store.	1
+FEVER001302	0	Tyra Banks was the first African American woman in the centerfold of GQ.	0
+FEVER001303	0	Lydia Hearst is a lifestyle blogger and model.	0
+FEVER001304	0	KJ Apa was cast as a character in Riverdale in 2016.	0
+FEVER001305	0	Canada is an island.	1
+FEVER001306	0	Napoleon's campaigns are studied at schools.	0
+FEVER001307	0	A loss of supply only has nothing to do with prime ministers.	1
+FEVER001308	0	Ringo Starr has been featured in textbooks.	1
+FEVER001309	0	Ivan Lendl has finished four years ranked as the world's top tennis player.	0
+FEVER001310	0	Indonesia's wilderness supports a variety of life.	0
+FEVER001311	0	Joan Collins was in Sunburn.	0
+FEVER001312	0	The Belko Experiment is an American horror film.	0
+FEVER001313	0	The 84th Academy Awards' winners included Beginners.	0
+FEVER001314	0	Michael Keaton was nominated for an Academy Award for Best Actor.	0
+FEVER001316	0	Newcastle United F.C. is well-known around the world.	0
+FEVER001317	0	Randy Orton has been unable to move his entire life.	1
+FEVER001318	0	Adderall contains a levoamphetamine component along with a dextroamphetamine component.	0
+FEVER001320	0	Novak Djokovic was born in 1987.	0
+FEVER001321	0	The life of the writer of Thirteen is the basis for the story.	0
+FEVER001324	0	Gwen Stefani's band released an album in 1995.	0
+FEVER001325	0	Spain is in Europe.	0
+FEVER001326	0	War of the Worlds is a film that is categorized as science fiction.	0
+FEVER001328	0	Mark Hamill is an American writer.	0
+FEVER001329	0	Thor: The Dark World was released in October 2013 in the United States.	1
+FEVER001330	0	Felicity Jones was in a work directed by James Marsh.	0
+FEVER001331	0	O. J. Simpson died before football was invented.	1
+FEVER001332	0	Ryan Phillippe and Reese Witherspoon married each other.	0
+FEVER001334	0	Augusto Pinochet died in 2006.	0
+FEVER001335	0	My Sweet Lord is by The Temptations.	1
+FEVER001336	0	Michael Keaton will play the role of a supervillain.	0
+FEVER001339	0	Moana is a work in the medium of animation.	0
+FEVER001340	0	Salman Khan had a role in an action drama.	0
+FEVER001341	0	Mel Gibson took a hiatus from directing.	0
+FEVER001343	0	The Twilight series's is a young adult vampire romance series, the first book of which is called Twilight.	0
+FEVER001344	0	Larry Junstrom is a bassist in a rock band.	0
+FEVER001345	0	Emily Blunt starred in The Huntsman: Winter's War.	0
+FEVER001346	0	The Ten Commandments is an epic movie.	0
+FEVER001350	0	Demi Lovato is an LGBT community advocate.	0
+FEVER001351	0	Ayutthaya was friendly towards foreigners.	0
+FEVER001352	0	O. J. Simpson was an actor.	0
+FEVER001353	0	March was the month Jennifer Grey was born on.	0
+FEVER001354	0	Ben Whishaw was in Perfume: The Store of a Murderer.	0
+FEVER001355	0	Arrow is available on DVD only in region 3.	1
+FEVER001356	0	The Narrows is a film from America.	0
+FEVER001357	0	The Academy Honorary Award was put in place in 1948.	0
+FEVER001358	0	Caitlyn Jenner changed her gender from male to female.	0
+FEVER001359	0	Travis Barker collaborated with others.	0
+FEVER001360	0	Judith Quiney was the daughter of a man.	0
+FEVER001361	0	Sam Worthington was born in 1876.	1
+FEVER001362	0	Ron Perlman was born in 1950 as Ronald N. Perlman.	0
+FEVER001363	0	The United States used nuclear weapons in warfare.	0
+FEVER001364	0	Henry V is a 2012 British film.	0
+FEVER001365	0	Joseph is the middle name of Neal Schon.	0
+FEVER001367	0	Chris Evans (actor) worked on Before We Go.	0
+FEVER001368	0	Lily James was in a BBC production.	0
+FEVER001369	0	Legally Blonde was scripted by Karen McCullah Lutz and Kirsten Smith and stars Reese Witherspoon.	0
+FEVER001370	0	Major League Soccer playoffs does not go through November and December.	1
+FEVER001371	0	"President of the United States Ronald Reagan publicly describe the Soviet Union as an ""evil empire."""	0
+FEVER001372	0	Joseph Stalin was involved in the Soviet Union.	0
+FEVER001373	0	Facebook is based in Menlo Park, California.	0
+FEVER001374	0	Miley Cyrus died before releasing The Time of Our Lives.	1
+FEVER001375	0	Adrienne Bailon is a farmer.	1
+FEVER001376	0	Cosmopolitan as of 2011 contains content which includes articles on relationships.	0
+FEVER001377	0	Apocalypse Now was never released in theaters.	1
+FEVER001378	0	Instagram has widescreen videos.	0
+FEVER001379	0	Rio de Janeiro is not in a metropolitan area.	1
+FEVER001380	0	Reba McEntire sang in a high school band.	0
+FEVER001381	0	David Beckham is from America.	1
+FEVER001382	0	Sherlock is a single episode.	1
+FEVER001383	0	William Hanna worked in the entertainment industry.	0
+FEVER001384	0	Faith Evans's fifth album is called Thriller.	1
+FEVER001385	0	The Invention of Lying is a restaurant.	1
+FEVER001386	0	Batman's first appearance was in a 1939 comic.	0
+FEVER001388	0	Saving Private Ryan was the third highest grossing film of its year.	1
+FEVER001389	0	Arrow is not on The CW.	1
+FEVER001390	0	The Who included Zak Starkey as drummer.	0
+FEVER001391	0	Cricket is followed in a region of Europe.	0
+FEVER001392	0	Life After Death is by the American rapper The Notorious B.I.G.	0
+FEVER001393	0	Las Vegas is a city.	0
+FEVER001394	0	Michael Fassbender appeared in The Counselor in 2013.	0
+FEVER001396	0	Noam Chomsky is only a historian.	1
+FEVER001397	0	Haiti shares an island in the Caribbean with the Dominican Republic.	0
+FEVER001398	0	The 2017 Open Championship is played in England.	0
+FEVER001399	0	Kendrick Lamar was born in Los Angeles, California.	1
+FEVER001400	0	Cirrhosis can cause one to have yellow skin.	0
+FEVER001401	0	Saved cast Malcolm Tierney.	0
+FEVER001402	0	Marc Maron was the host of a show.	0
+FEVER001403	0	Above the Law is produced by Andrew Davis and Steven Seagal.	0
+FEVER001406	0	Bruno Mars has his own band.	0
+FEVER001407	0	Stockard Channing acted in The Fortune (1975).	0
+FEVER001408	0	Stevie Ray Vaughan stayed in Boston his whole life.	1
+FEVER001409	0	George Lucas founded an American film and television production company.	0
+FEVER001412	0	An American singer starred in The Host.	0
+FEVER001413	0	Purple Haze is a Jimi Hendrix song.	0
+FEVER001416	0	School 2013 depicts the struggles and dilemmas that modern-day Korean youth face at school.	0
+FEVER001417	0	Naomi Watts was not in a film directed by Tom Tykwer.	0
+FEVER001418	0	Ajay Devgn is a banker.	1
+FEVER001420	0	A subtype of anti-nuclear antibodies are anti-nRNP antibodies.	0
+FEVER001421	0	Dirt (TV Series) is produced by ABC.	0
+FEVER001426	0	The United Kingdom does not have a parliamentary system.	1
+FEVER001427	0	Diego Costa fails to play for English club Chelsea.	1
+FEVER001429	0	Indiana Jones has been played by American actor River Phoenix.	0
+FEVER001431	0	Bangalore was conquered by an Indian power in 1638.	0
+FEVER001432	0	Arkham Asylum's patients include a villain.	0
+FEVER001433	0	In Dubious Battle starred an actor.	0
+FEVER001434	0	Mao Zedong is not a poet and visionary.	1
+FEVER001435	0	Veronica Mars is played by an American.	0
+FEVER001436	0	Man of Steel features a DC Comics character.	0
+FEVER001440	0	2001: A Space Odyssey was financed.	0
+FEVER001444	0	Abigail Breslin is a person who acts.	0
+FEVER001445	0	Michel Gondry was a music video director that went on to direct movies.	0
+FEVER001446	0	Social issues was a topic Victor Hugo wrote about.	0
+FEVER001447	0	Nicole Kidman is not a citizen of any country.	1
+FEVER001448	0	Three Days of the Condor features a Swedish actor.	0
+FEVER001449	0	Ryan Gosling starred in a marital drama.	0
+FEVER001450	0	Gone with the Wind is a book.	1
+FEVER001451	0	Juana la virgen is a telenovela from Venezuela.	0
+FEVER001452	0	Rebecca Ferguson has yet to be in film or television.	1
+FEVER001453	0	George W. Romney had only daughters.	1
+FEVER001457	0	Frederick Trump was born in Kallstadt in 1991.	1
+FEVER001458	0	Maisie Williams is a woman.	0
+FEVER001459	0	Beastie Boys was formed in Australia.	1
+FEVER001462	0	World War II did not have campaigns occurring in Asia.	1
+FEVER001463	0	Ron Perlman was born in 1945.	1
+FEVER001466	0	Tom Cruise worked with Cameron Crowe.	1
+FEVER001467	0	Michael Schumacher was born in August.	1
+FEVER001470	0	A central venous catheter is also known as something else.	0
+FEVER001472	0	Ellen DeGeneres is American.	0
+FEVER001474	0	Kaakha Kaakha is a film.	0
+FEVER001475	0	Lymphoma is a kitten.	1
+FEVER001476	0	The Godfather Part III was only nominated for five Academy Awards.	1
+FEVER001478	0	Oliver Reed was in a movie in 1981.	0
+FEVER001479	0	Michael Winterbottom has done work with Paul Popplewell.	0
+FEVER001480	0	David Carradine worked.	0
+FEVER001482	0	Dangerous Beauty is a film of two genres.	0
+FEVER001485	0	The Leftovers is a Hogwarts house.	1
+FEVER001486	0	Inhumans is an upcoming American television series.	0
+FEVER001487	0	Sean Combs founded Bad Boy Records in 1993.	1
+FEVER001488	0	Girls' Generation has one other name, GirlSquad.	1
+FEVER001490	0	Varun Dhawan was in the crime thriller Badlapur.	0
+FEVER001491	0	Quartet was filmed in 2011 and premiered in 2012.	0
+FEVER001492	0	Lady Gaga has yet to write a song.	1
+FEVER001493	0	100 Greatest of All Time had timed episodes.	0
+FEVER001494	0	The Los Angeles Lakers hold an NBA record.	0
+FEVER001495	0	Rick and Morty's second season premiered in July of 2015.	0
+FEVER001496	0	Gustave Eiffel focused on research in meteorology.	0
+FEVER001497	0	Sean Connery did not act in Highlander.	1
+FEVER001498	0	Telangana contains the metropolis Khammam.	0
+FEVER001499	0	Anne Hathaway acted in the American neo-western romantic drama film Brokeback Mountain.	0
+FEVER001501	0	Karl Urban was in Star Trek Into Darkness.	0
+FEVER001502	0	Steve Mouzakis was in the film Where the Wild Things Are.	0
+FEVER001503	0	Lithuania is a country that is part of the European Union.	0
+FEVER001504	0	Mel Colmcille Gerard Gibson is the full name of Mel Gibson.	0
+FEVER001506	0	Boston Legal stars James Spader.	0
+FEVER001508	0	Tom Morello worked in rock music for both Rage Against the Machine and Audioslave.	0
+FEVER001509	0	Sweden is a political entity.	0
+FEVER001510	0	The United States became the world's sole superpower in 1991.	0
+FEVER001512	0	Lewis Hamilton was named Personality of the Year.	0
+FEVER001514	0	The Caspian sea is bounded by Russia.	0
+FEVER001515	0	Boston is known as an international center for post-secondary education.	0
+FEVER001517	0	Peter Cetera was on an album unconsidered for induction into the Grammy Hall of Fame.	1
+FEVER001520	0	Hayden Panettiere was ten years old when she auditioned for Remember the Titans.	0
+FEVER001521	0	Molly Bernard was born on the 10th.	0
+FEVER001523	0	Thirteen Reasons Why is incapable of being published by RazorBill.	0
+FEVER001524	0	Genghis Khan's empire was split by his grandsons in 1000 CE.	1
+FEVER001526	0	The Twilight Saga films have zero actors and instead use colored geometric shapes.	1
+FEVER001527	0	Iain Glen is a television actor.	0
+FEVER001528	0	Jack Black stars in Shallow Hal.	0
+FEVER001530	0	Massachusetts touches water.	0
+FEVER001532	0	There are Disney characters in Kingdom Hearts.	0
+FEVER001533	0	CBS bought all shares in United Independent Broadcasters, Inc.	0
+FEVER001534	0	Theodore Roosevelt was a leader.	0
+FEVER001539	0	Robert Browning was a writer.	0
+FEVER001540	0	Mozambique borders Zambia to the south.	0
+FEVER001541	0	Horseshoe Falls is one of three waterfalls on the Niagara River.	0
+FEVER001542	0	Batman Begins came out four years after The Dark Knight.	1
+FEVER001548	0	Ancient Algeria has known many empires and dynasties, such as the Umayyads.	0
+FEVER001550	0	George H. W. Bush had at least a million dollars.	0
+FEVER001551	0	To Kill a Mockingbird explores racial injustice as a theme.	0
+FEVER001552	0	There is a science fiction film called Star Trek.	0
+FEVER001553	0	Stars Are Blind was written by Fernando Garibay, Sheppard Solomon and Ralph McCarthy.	0
+FEVER001554	0	Estella Warren is a person.	0
+FEVER001555	0	Robert Downey Jr. was rejected for the film Sherlock Holmes: A Game of Shadows.	1
+FEVER001556	0	Myles Kennedy was once a part of the band Citizen Swing.	0
+FEVER001557	0	Andrew Garfield is an actor.	0
+FEVER001559	0	Amanda Peet was in the movie the X- Files: I Want to Believe.	0
+FEVER001560	0	Michelangelo painted scenes from Genesis on the ceiling of the Sistine Chapel in 1501.	1
+FEVER001562	0	L.A. Guns is a musical group.	0
+FEVER001563	0	Pepi Sonuga stars in Famous in Love.	0
+FEVER001564	0	Hungary is bordered by Slovakia.	0
+FEVER001566	0	Helena Bonham Carter was nominated for an Academy Award for Best Actress in a Leading Role.	0
+FEVER001567	0	Karan Johar was the winner of the Filmfare Award for Best Director.	0
+FEVER001568	0	All the Pretty Horses is an American western film.	0
+FEVER001569	0	Lauren Graham did not receive a Golden Globe nomination.	1
+FEVER001571	0	Kolyma has rich reserves of gold, silver, tin, tungsten, mercury, copper, antimony, coal, oil, and peat.	0
+FEVER001572	0	Christina Aguilera was born in New York.	0
+FEVER001573	0	To The Bone includes Carrie Preston.	0
+FEVER001574	0	Master of None was released for streaming.	0
+FEVER001576	0	Tom Cruise was in Minority Report.	0
+FEVER001577	0	The 1933 satirical comedy Our Betters was directed by George Cukor.	0
+FEVER001578	0	Soundgarden struggled to achieve commercial success until the year 2000.	1
+FEVER001579	0	The September 11 attacks took place in the United States.	0
+FEVER001580	0	Jeff Bezos has an estimated net worth of $76 billion.	1
+FEVER001581	0	The brown bear is several countries' national or state animal.	0
+FEVER001582	0	A phylogenetic tree shows relationships.	0
+FEVER001584	0	Michael Caine only appeared in Harry Potter movies.	1
+FEVER001585	0	2005 was when Prison Break premiered.	0
+FEVER001586	0	Central America contains Honduras.	0
+FEVER001588	0	John D. Rockefeller has a brother named William.	0
+FEVER001589	0	Ghost in the Shell was developed by a studio.	0
+FEVER001590	0	For 1,144 years, Norway has continued to be a kingdom.	0
+FEVER001591	0	David Hasselhoff has appeared in American television programs.	0
+FEVER001592	0	Daz Dillinger is a stage name.	0
+FEVER001593	0	Matthew Modine played the title character of a 1984 film.	0
+FEVER001594	0	The record for most assists in La Liga is currently held by Lionel Messi.	0
+FEVER001596	0	Moscow is in a country.	1
+FEVER001598	0	We Found Love is a song.	0
+FEVER001600	0	Mission: Impossible 6 is produced by James Cameron.	1
+FEVER001601	0	Logic was born in March.	1
+FEVER001602	0	David Thewlis is an English author.	0
+FEVER001603	0	North Korea has a government.	0
+FEVER001604	0	In 1963, Singapore gained its independence from the United Kingdom.	0
+FEVER001606	0	Taylor Schilling received a nomination for two Golden Globe Awards.	0
+FEVER001607	0	The Legend of Tarzan (film) is based upon a fictional person created by a writer from the US.	0
+FEVER001608	0	Sylvester Stallone's first name is Jason.	1
+FEVER001609	0	Giada De Laurentiis has contributed to a show.	0
+FEVER001612	0	River Phoenix rose to fame from being in films and television appearances.	0
+FEVER001613	0	Neil Armstrong commanded Gemini 1.	1
+FEVER001614	0	Sylvester Stallone played a starring role in Rocky.	0
+FEVER001617	0	The youngest of Cronus and Rhea's children is Zeus.	0
+FEVER001618	0	Underworld has a main character.	0
+FEVER001619	0	Jeff Bezos is the founded a spaceflight company.	0
+FEVER001620	0	Your Highness stars an actor.	0
+FEVER001621	0	Michael C. Hall had a role in a television series.	0
+FEVER001623	0	San Francisco was founded in the 1700's.	0
+FEVER001624	0	Angelina Jolie has been married to Jonny Lee Miller, Billy Bob Thornton, and Brad Pitt.	0
+FEVER001625	0	The Formula (1980 film) is directed by Michael Bay.	1
+FEVER001626	0	Melanie Griffith failed to win a Golden Globe.	1
+FEVER001627	0	Colin Farrell starred in Minority Report.	0
+FEVER001628	0	Miranda Cosgrove is a person.	0
+FEVER001629	0	Nicole Kidman's parents are not Australian.	1
+FEVER001630	0	Hugh Jackman plays a role.	0
+FEVER001631	0	The Beach Boys have a member called Brian.	0
+FEVER001632	0	James McAvoy is incapable of being an actor.	1
+FEVER001633	0	Marlon Brando was in a movie.	0
+FEVER001634	0	The United States has the longest border in the world with Canada.	0
+FEVER001635	0	Star Wars: The Force Awakens is a film that happened after the American science fiction movie Star Wars: The Last Jedi.	1
+FEVER001636	0	Vallejo, California is in Solano County within California.	0
+FEVER001637	0	For her role in Breaking Bad, Anna Gunn has won 2 Emmy awards.	0
+FEVER001641	0	Quincy Jones works in films scores and pop music.	0
+FEVER001642	0	One studio album is Born Naked.	0
+FEVER001643	0	A Song of Ice and Fire is a work.	0
+FEVER001644	0	Leslie Groves directed a top secret research project in the 1940s.	0
+FEVER001645	0	Green Arrow is a comic book character who became the subject of a 1970s television show.	0
+FEVER001646	0	Tensions between Jagger and Richards almost caused the band to split.	0
+FEVER001649	0	Kevin Spacey worked near Waterloo station.	0
+FEVER001650	0	Lee Majors was born in April.	0
+FEVER001651	0	AC/DC are a band that plays rock.	0
+FEVER001652	0	The United States has 40% of the total wealth in the world.	0
+FEVER001653	0	Emilio Estevez is a director.	0
+FEVER001654	0	Scarlett Johansson released an album in 2009.	0
+FEVER001656	0	Lana Del Rey released an EP in November of 2012.	0
+FEVER001657	0	The September 11 attacks happened in New York, New York.	1
+FEVER001658	0	The Godfather Part III is a dog.	1
+FEVER001659	0	Gilmore Girls was executive produced and written by Daniel Palladino.	0
+FEVER001661	0	Beautiful People was made in Britain.	0
+FEVER001662	0	In 1977, Brittany Murphy was born.	0
+FEVER001663	0	Mr. Nobody was written and directed by Jaco Van Dormael.	0
+FEVER001665	0	Rebecca Ferguson has only been in films directed solely by Francis Ford Coppola.	1
+FEVER001666	0	Alice is a reworking of an English film.	1
+FEVER001667	0	The latest album of LL Cool J was released in May.	1
+FEVER001668	0	South Korea's alphabet helped the general population to easily learn to read and write.	0
+FEVER001670	0	Tanya Roberts is the stage name of an actress.	0
+FEVER001671	0	Patton Oswalt acted in The King of Queens.	0
+FEVER001672	0	In 1992, the 1992 Los Angeles riots occurred.	0
+FEVER001673	0	Snowpiercer is a film that is on many critic's top ten cinematic film list.	0
+FEVER001674	0	John Mayer long ago gave up on his dream of being a musician.	1
+FEVER001675	0	Just Dance was on the Billboard charts.	0
+FEVER001676	0	Joseph Stalin was a squid.	1
+FEVER001677	0	American Gods is not an American television series.	1
+FEVER001679	0	In 2016, the film The Girl on the Train was released.	0
+FEVER001680	0	Qatar is separated from Bahrain by a river.	1
+FEVER001681	0	Gennady Golovkin boxes.	0
+FEVER001682	0	Ralph Fiennes has performed theater.	0
+FEVER001683	0	Paul Newman co-founded a company with author A. E. Hotchner.	0
+FEVER001684	0	Sylvester Stallone received two Academy Award nominations in 1977.	0
+FEVER001686	0	Destiny was the first game in an agreement.	0
+FEVER001688	0	Belgium is made up of three regions.	0
+FEVER001689	0	Pitch Perfect 3 stars Anna Kendrick, Anna Camp, Rebel Wilson, Brittany Snow, Hailee Steinfeld, Alexis Knapp, Ester Dean, Hana Mae Lee, Chrissie Fit, Kelley Jakle.	1
+FEVER001690	0	Ranbir Kapoor is one of the highest-paid actors.	0
+FEVER001692	0	Sue Sylvester is portrayed by an American born in the 1960s.	0
+FEVER001693	0	The Homesman features Hailee Steinfeld and John Lithgow.	0
+FEVER001694	0	Sofia Coppola wrote a remake of a 1971 film.	0
+FEVER001696	0	Empathy is the capacity to feel what another person is constantly experiencing.	0
+FEVER001697	0	Christmas & Chill was the title of Ariana Grande's holiday EP.	0
+FEVER001701	0	Room 93 is by Madonna.	1
+FEVER001702	0	RB Leipzig is based in France.	1
+FEVER001703	0	Some of Alphabet's stock is from Google.	0
+FEVER001704	0	Hamlet (1990 film) starred Mel Gibson.	0
+FEVER001705	0	Julius Caesar held office in 44 BCE.	0
+FEVER001706	0	Attack on Titan has been collected into 22 tankōbon books.	0
+FEVER001707	0	Jet Li retired from Wushu at an age after 19.	0
+FEVER001710	0	Fast Food Nation was made in 2006.	0
+FEVER001711	0	Bruno Mars made Treasure.	0
+FEVER001712	0	Jeff Hardy is a 50-year-old wrestler.	1
+FEVER001713	0	Measles complications do not occur in about 30% of people.	0
+FEVER001714	0	Carole King is an American musician.	0
+FEVER001715	0	Gimli (Middle-earth) is from J. R. R. Tolkien's Middle-earth legendarium.	0
+FEVER001718	0	WeChat includes payment services.	0
+FEVER001720	0	Splatoon 2 is the sequel of Splatoon.	0
+FEVER001721	0	Sam Smith was featured on Naughty Boy's La La La.	0
+FEVER001722	0	Beautiful (Christina Aguilera song) was recorded for an album.	0
+FEVER001724	0	Eleveneleven was founded by a comedian.	0
+FEVER001725	0	The Great Buck Howard features Americans.	0
+FEVER001726	0	One Direction made Up All Night.	0
+FEVER001728	0	There Will Be Blood has gotten numerous awards.	0
+FEVER001730	0	Clark Kent is Superman.	0
+FEVER001731	0	The Ren & Stimpy Show premiered five years before 1991.	1
+FEVER001732	0	Prometheus had extensive phases.	0
+FEVER001733	0	Hadera is a city.	0
+FEVER001734	0	Here is by a Briton.	1
+FEVER001738	0	Jeff Bezos is a philanthropist.	0
+FEVER001740	0	Tony Bill directed a film written by Alan Ormsby and he is American.	0
+FEVER001741	0	Psychological horror overlaps with psychological thrillers.	0
+FEVER001742	0	The Best Rock Album was won by Green Day.	0
+FEVER001743	0	Laadla was released on April 17 1994.	0
+FEVER001744	0	The Fosters is a thriller series.	1
+FEVER001745	0	Laurie Hernandez is an American artistic Olympic gymnast.	0
+FEVER001746	0	Harald V of Norway married a commoner named Sonja Haraldsen.	0
+FEVER001747	0	Klute was directed by Alan J. Pakula.	0
+FEVER001748	0	Jennifer Grey was born in 1961.	1
+FEVER001749	0	Outlander is a British-American drama television series.	0
+FEVER001750	0	Raphael Bob-Waksberg is a person.	0
+FEVER001752	0	Divergent was released on Blu-ray.	0
+FEVER001753	0	"Liverpool F.C.'s anthem is ""You'll Never Walk Alone""."	0
+FEVER001756	0	Steve Buscemi has been in many Coen brothers films.	0
+FEVER001757	0	Marcus Rashford was born in 1997.	0
+FEVER001758	0	The Czech Republic has a low unemployment rate compared to most EU member countries.	0
+FEVER001759	0	Saddam Hussein was born in 1937.	0
+FEVER001760	0	The National Library of India is only located outside of a country in South Asia.	1
+FEVER001761	0	Got a Girl is an American musical duo.	0
+FEVER001762	0	No Escape was released in 2015.	0
+FEVER001765	0	Each month, Wikipedia has nearly 500 million visitors.	0
+FEVER001766	0	Tanzania uses English.	0
+FEVER001767	0	Michael C. Hall won a Golden Globe Award.	0
+FEVER001768	0	Paul Newman has won several championships in open wheel IndyCar racing.	0
+FEVER001769	0	Louise Simonson is American.	0
+FEVER001770	0	Portia de Rossi lost the Screen Actors Guild Award in 1999.	1
+FEVER001771	0	2014 was the year Wild was released.	0
+FEVER001772	0	Natalie Wood was born in 1943, three years before her sister Lana Wood.	1
+FEVER001773	0	All the Pretty Horses is an American action film.	1
+FEVER001774	0	Dennis Hastert won the Illinois House of Representatives election in 1981.	0
+FEVER001775	0	Sense and Sensibility went on sale in the beginning of the 19th century.	0
+FEVER001777	0	Family Guy has 15 seasons.	0
+FEVER001778	0	Boston's Boston Common was the first public park in the United States.	0
+FEVER001779	0	The British-American action comedy film Baby Driver was released in 2017.	0
+FEVER001781	0	Will Ferrell only worked on CBS.	1
+FEVER001782	0	Ramadan is observed by Muslims by fasting.	0
+FEVER001783	0	Kevin Garnett played with Paul Pierce.	0
+FEVER001784	0	Michael Jackson's death was ruled on.	0
+FEVER001785	0	Debbie Reynolds starred in the revival of Irene in 1994.	1
+FEVER001786	0	Everybody Needs a Best Friend is from A Million Ways to Die in the West.	1
+FEVER001787	0	Welcome Back (film) features Nana Patekar.	0
+FEVER001788	0	Clint Eastwood is a television actor.	0
+FEVER001790	0	Samuel L. Jackson was in the movie Unbreakable by M. Night Shyamalan.	0
+FEVER001791	0	A mixtape is now recorded onto CDs or MP3 playlists.	0
+FEVER001792	0	Depression is a symptom of Hypothyroidism.	0
+FEVER001793	0	Back to the Future Part II is historical fiction.	1
+FEVER001794	0	Shia LaBeouf is in multiple films like Wall Street: Money Never Sleeps, Lawless, The Company You Keep, Nymphomaniac, and Fury.	0
+FEVER001796	0	The Parliament of Canada includes a lower house.	0
+FEVER001798	0	Steve Buscemi is in television shows.	0
+FEVER001799	0	Glenn Frey is a rock singer.	0
+FEVER001800	0	Julius Caesar was directed by American director Joseph L. Mankiewicz.	0
+FEVER001801	0	Jamie Foxx is a record producer and he acts.	0
+FEVER001802	0	Manchester City F.C. is a very wealthy club.	0
+FEVER001803	0	Denmark's parliament is located in a city.	0
+FEVER001804	0	Kirk Douglas is a producer.	0
+FEVER001805	0	Alfred Hitchcock used innovative forms of film editing.	0
+FEVER001806	0	Adrien Broner boxes.	0
+FEVER001807	0	The Lion King is an artistic work.	0
+FEVER001808	0	Katie Price is currently married to Kieran Hayler.	0
+FEVER001809	0	Sally Field was never nominated for Golden Globe awards.	1
+FEVER001810	0	In Training Day, Denzel Washington portrayed a corrupt cop.	0
+FEVER001811	0	Thor: The Dark World is a movie from 2013.	0
+FEVER001812	0	David Tennant played the Tenth Doctor in Doctor Who.	0
+FEVER001813	0	English is influenced by Latin.	0
+FEVER001815	0	Lee Child is a thriller novelist.	0
+FEVER001816	0	Apple's founder was Steve Jobs.	0
+FEVER001817	0	Dr. Dre's label has a name.	0
+FEVER001820	0	Chris Hardwick only began hosting Ministry of Laughs in 2012.	1
+FEVER001821	0	Jennifer Aniston is a Canadian.	1
+FEVER001823	0	Jaime Lannister is not a member of the Kingsguard.	1
+FEVER001824	0	Veronika Decides to Die is written by James Cameron.	1
+FEVER001825	0	A loss of supply can involve a constitutional convention.	0
+FEVER001826	0	Marlon Brando portrayed Lloyd Gruver.	0
+FEVER001827	0	Narendra Modi is serving as the 14th Prime Minister of India.	0
+FEVER001828	0	Christopher Columbus was a republic citizen.	0
+FEVER001829	0	The release date of Diana is May 22.	0
+FEVER001830	0	Adam Sandler's birth year was 1966.	0
+FEVER001831	0	Led Zeppelin was formed in Alaska.	1
+FEVER001832	0	Elvis was a program.	0
+FEVER001833	0	NASA led the Apollo Moon landing missions in the 1960s.	0
+FEVER001834	0	While she was in her career, Steffi Graf ranked No.1 in the world.	0
+FEVER001835	0	Supernatural has at least 12 episodes.	0
+FEVER001836	0	Rebecca Ferguson portrayed Elizabeth Woodville.	0
+FEVER001837	0	Intimacy (film) is only a French film.	1
+FEVER001838	0	Bus Stop (1956 film) isn't a play or movie in which singing and dancing play an essential part.	0
+FEVER001839	0	Tony Blair was voted in subsequent to John Smith's death from a heart attack.	0
+FEVER001840	0	Marlon Brando played anyone except Emiliano Zapata.	1
+FEVER001841	0	The Challenge was originally Road Rules: All Stars.	0
+FEVER001843	0	Slovakia is a warship.	1
+FEVER001844	0	Delta Air Lines' headquarters are located in a state.	0
+FEVER001846	0	Unapologetic is an album.	0
+FEVER001847	0	Dustin Hoffman is an actor.	0
+FEVER001848	0	Legion is the main character of an FX show.	0
+FEVER001852	0	Sunburn had William Daniels in it.	0
+FEVER001854	0	Alice is a reworking of a Federico Fellini film.	0
+FEVER001855	0	Tom Brady played for a University.	0
+FEVER001856	0	The Minnesota Vikings have lost the Super Bowl every time they've played.	0
+FEVER001857	0	James and the Giant Peach includes an actor.	0
+FEVER001858	0	AC/DC has dubbed their music as rock and roll.	0
+FEVER001859	0	Gennady Golovkin is a fencer.	1
+FEVER001860	0	R. Kelly is known for his hit singles.	0
+FEVER001861	0	Mission: Impossible 6 is an American movie.	0
+FEVER001862	0	Anderson Cooper is a person.	0
+FEVER001863	0	Niall Horan wrote songs.	0
+FEVER001864	0	The Odyssey has never been translated.	1
+FEVER001865	0	Paleogene is also spelled Palaeogene.	0
+FEVER001867	0	Inferno (2016 film) is in the same series as The Da Vinci Code.	0
+FEVER001870	0	Junun had, as a director, Paul Thomas Anderson.	0
+FEVER001871	0	Phantoms is a science fiction horror film.	0
+FEVER001872	0	Europeans live in Amsterdam.	0
+FEVER001874	0	My Sweet Lord was written in praise of a Hindu god.	0
+FEVER001876	0	Interpersonal psychotherapy centers solely on impersonal problems.	1
+FEVER001878	0	Maria Sharapova has yet to receive a suspension.	1
+FEVER001879	0	Gary Ridgway worked for Kenworth at a truck factory.	0
+FEVER001880	0	Bob Arum was an employee in the tax team.	0
+FEVER001881	0	Paul Thomas Anderson was the lead in Inherent Vice.	1
+FEVER001882	0	Colin Quinn is from the United States and is also a stand-up comedian.	0
+FEVER001883	0	John Hartford can play the banjo as an instrument.	0
+FEVER001884	0	The Matrix Revolutions is a film released in the early 2000s.	0
+FEVER001886	0	Jerry Maguire was inspired by a sports competition named Leigh Steinberg.	1
+FEVER001887	0	George Clooney is a fundraiser.	1
+FEVER001888	0	"Los Angeles is nicknamed the ""City of Angels."""	0
+FEVER001889	0	Junun is a book.	1
+FEVER001890	0	Inferno stars Tom Hanks reprising his role as Robert Langdon for the third time in film.	0
+FEVER001891	0	"The English Civil War's Parliamentarians were commonly referred to as ""Roundheads""."	0
+FEVER001892	0	The Aegean Sea is far from the Black Sea.	1
+FEVER001893	0	A Chandni actor's birthday is October 6.	0
+FEVER001894	0	Paul Pierce did not play for the Washington Wizards.	0
+FEVER001895	0	Tale of Tales is directed by a man.	0
+FEVER001896	0	The Chelsea F.C. is from England.	0
+FEVER001897	0	Maigret stars Rowan Atkinson.	0
+FEVER001898	0	Split is an American movie from 2016.	0
+FEVER001900	0	Jeff Bezos is not the wealthiest or poorest person in the world.	1
+FEVER001902	0	Transformers: Dark of the Moon is a political party slogan.	1
+FEVER001904	0	Richard Nixon was in the United States congressional election of 1972.	1
+FEVER001905	0	Kumkum Bhagya is written and filmed in India.	0
+FEVER001906	0	RuPaul is a recording artist.	0
+FEVER001907	0	Watchmen is a television show.	1
+FEVER001909	0	George Tuska was North American.	0
+FEVER001910	0	Ajab Prem Ki Ghazab Kahani is an Indian film.	0
+FEVER001913	0	Stevie Nicks was only a member of Ween.	1
+FEVER001914	0	A director stars in the film, Pawn Sacrifice.	0
+FEVER001915	0	Seth MacFarlane's first album was released.	1
+FEVER001917	0	Arrested Development first aired in 2003.	0
+FEVER001918	0	The action comedy film Baby Driver was written by Edgar Wright and directed by Mike Figgis.	1
+FEVER001919	0	Judd Apatow is a person.	0
+FEVER001920	0	Denzel Washington directed a movie starring Viola Davis.	0
+FEVER001921	0	London is also known as Greater London.	0
+FEVER001922	0	Friends with Benefits had no human actors.	1
+FEVER001923	0	The Wicked Witch of the West is from To Kill a Mockingbird.	1
+FEVER001926	0	Henry V is adapted from a play.	0
+FEVER001927	0	Following is a film.	0
+FEVER001928	0	Kill Bill: Volume 2 was directed by Quentin Tarantino and released in 2004.	0
+FEVER001930	0	Jemaine Clement refused to learn to play any instruments.	1
+FEVER001931	0	Miss Selfridge began in a corpse.	1
+FEVER001932	0	Bridge of Spies was directed by Steven Spielberg in 2003.	1
+FEVER001933	0	Winter Passing premiered in the 2000's.	0
+FEVER001934	0	Wyatt Earp's first wife was not Urilla Sutherland Earp.	1
+FEVER001935	0	Bermuda is a place.	0
+FEVER001936	0	There is a tennis player called Steffi Graf.	0
+FEVER001937	0	The Jackson family included American people born in the 1950s and 1960s.	0
+FEVER001938	0	The Dark Knight featured Tom Hanks as the Joker.	1
+FEVER001939	0	Judd Apatow has been nominated for Academy Awards.	0
+FEVER001941	0	John Mayer sings pop songs.	0
+FEVER001943	0	Daniel Craig is in a movie.	0
+FEVER001944	0	The Entire History of You was written by someone who worked with David Mitchell.	0
+FEVER001945	0	Liberty bonds were bought in the United States.	0
+FEVER001946	0	Joey Graceffa is a YouTuber and he is American.	0
+FEVER001947	0	BYD Auto is a British manufacturer.	1
+FEVER001952	0	Sriti Jha performed the leading role in a soap opera.	0
+FEVER001953	0	Everton F.c. is currently located in Liverpool.	0
+FEVER001954	0	The United Kingdom is an unindustrialized country.	1
+FEVER001957	0	Ellen DeGeneres is a host of a television show.	0
+FEVER001958	0	Taiwan is the 22nd-largest economy in the world.	0
+FEVER001959	0	Lee Child was born in 1957.	1
+FEVER001961	0	Woody Allen directed an orchestra in 1977.	1
+FEVER001962	0	Jordan Knight is from America.	0
+FEVER001964	0	Rob Lowe was born on March 17, 1964.	0
+FEVER001966	0	Vacation stars only adult actors.	1
+FEVER001967	0	Jon Huntsman Jr. is a diplomat.	0
+FEVER001968	0	Hogwarts is a British school of magic from a work of fiction.	0
+FEVER001969	0	Andorra is a television show.	1
+FEVER001971	0	Timothy Olyphant made his acting debut in a house.	1
+FEVER001972	0	Austria does not have a parliament.	1
+FEVER001975	0	Rafael Nadal was born on Monday June 3rd, 1986.	0
+FEVER001976	0	Music Bank (TV series) has so far been hosted exclusively by Brits.	1
+FEVER001977	0	Carole King made albums.	0
+FEVER001978	0	Jennifer Grey was in an award-winning film.	0
+FEVER001980	0	"The Adjustment Bureau is loosely based on ""Adjustment Team"" by Philip K. Dick."	0
+FEVER001982	0	Anonymous is an international group.	0
+FEVER001983	0	R. Madhavan was a cast member in Guru.	0
+FEVER001984	0	Joaquin Phoenix played a supporting role in Quills.	0
+FEVER001985	0	The Underworld film series has a combined net worth of $212 million.	1
+FEVER001986	0	Anne Frank lived in the Netherlands for most of her life.	0
+FEVER001987	0	Stone Temple Pilots are from San Diego, California.	0
+FEVER001988	0	Hugo Weaving is strictly a stage actor.	1
+FEVER001989	0	Brittany Murphy is incapable of being an actress.	1
+FEVER001990	0	Suleiman the Magnificent was alive during the 2016 presidential election.	1
+FEVER001991	0	Alpha House's inspiration is Senator Chuck Schumer.	0
+FEVER001992	0	Game of Thrones (season 3) premiered in 2012.	1
+FEVER001993	0	Andhra Pradesh hosted 121.8 million visitors in 2015.	0
+FEVER001994	0	Tardigrades are non-segmented animals.	1
+FEVER001996	0	BoA was a judge on K-pop Star 2.	0
+FEVER001997	0	Captain America: The Winter Soldier was exclusively based on a story by Ernest Hemingway.	1
+FEVER001998	0	Jackie Evancho has a middle name.	0
+FEVER001999	0	A Clash of Kings is a novel that Gendry appeared in.	0
+FEVER002000	0	Priyanka Chopra promotes women's rights.	0
+FEVER002001	0	Mother Teresa lived in India.	0
+FEVER002002	0	The Netherlands has three island territories.	0
+FEVER002003	0	Burnaby achieved City status in 1992, one hundred years after its incorporation.	0
+FEVER002006	0	Tom Hanks has been granted a French Legion of Honor.	0
+FEVER002008	0	The Boys from Brazil features Gregory Peck.	0
+FEVER002009	0	Outlander features the Jacobite risings.	0
+FEVER002010	0	Naomi Scott starred in a 2011 film.	0
+FEVER002011	0	Mukesh Ambani is on the 2016 Forbes list of the world's most powerful people, at number 38.	0
+FEVER002013	0	Whoopi Goldberg was born in 1955.	0
+FEVER002014	0	Marlon Brando took part in a film in 1953.	0
+FEVER002015	0	Alberta contains Canmore.	0
+FEVER002016	0	Cory Monteith was rejected when auditioning for the television series Glee.	1
+FEVER002019	0	At least 12 million albums outside of the United States have been sold by Snoop Dogg.	0
+FEVER002020	0	Ottawa is the birthplace of Justin Trudeau.	0
+FEVER002021	0	Pamela Anderson is a Playboy model.	0
+FEVER002022	0	Ken Russell was involved with award-winning movies.	0
+FEVER002023	0	John Lennon died after 1987.	1
+FEVER002024	0	A reflex is made possible by neural pathways that act on an impulse before it reaches the brain.	0
+FEVER002025	0	Despicable Me is illustrated.	0
+FEVER002026	0	Gianluigi Buffon played starting goalkeeper for Parma.	0
+FEVER002027	0	Whiskey Tango Foxtrot is based on The Taliban Shuffle: Strange Days in Afghanistan and Pakistan.	0
+FEVER002028	0	Rashida Jones co-wrote a screenplay.	0
+FEVER002029	0	Thor: The Dark World is a movie about a DC comics character.	1
+FEVER002030	0	All the Pretty Horses is a 2017 film.	1
+FEVER002032	0	Murder on the Orient Express starred an actor.	0
+FEVER002033	0	Kurt Sutter created an FX series.	0
+FEVER002034	0	Alkaline Trio is a jazz band.	1
+FEVER002038	0	Anne Hathaway won a Critics' Choice Movie Award.	0
+FEVER002039	0	Marlon Brando played Vito Corleone.	0
+FEVER002040	0	Taylor Kitsch was born in 1984.	1
+FEVER002041	0	Teen Wolf is a political movement.	1
+FEVER002042	0	Anne Bancroft was born after 1987.	1
+FEVER002044	0	Brad Pitt acted in A River Runs Through It.	0
+FEVER002045	0	Manchester City F.C. is an American football club.	1
+FEVER002046	0	Nina Simone was enrolled in Juilliard.	0
+FEVER002047	0	As the World Turns was replaced by an American talk show that debuted on October 18, 2010.	0
+FEVER002048	0	The Boys from Brazil features actors.	0
+FEVER002049	0	License to Wed is a movie.	0
+FEVER002050	0	Love & Mercy (film) stars Paul Dano.	0
+FEVER002051	0	Tom Cruise turn down the role he was offered in Rain Man.	1
+FEVER002052	0	All original members of Stone Temple Pilots were born in September.	1
+FEVER002053	0	Audrey Horne was introduced in anything except a series that premiered on Sunday, April 8, 1990.	1
+FEVER002054	0	Wyatt Earp's first wife died.	0
+FEVER002055	0	Brian Eno was born in a county.	0
+FEVER002057	0	Ricin comes from animals.	1
+FEVER002058	0	James Mangold directed a film.	0
+FEVER002059	0	Franklin D. Roosevelt started the development of a nuclear weapon.	0
+FEVER002060	0	Kick-Ass is a film of the black comedy genre.	0
+FEVER002063	0	Macaulay Culkin acted in Home Alone 2: Lost in New York.	0
+FEVER002064	0	Vladimir Putin was President.	0
+FEVER002065	0	Iron Fist's development began in the 21st century.	0
+FEVER002066	0	Maybe I'll Catch Fire is the name of an album released by Alkaline Trio.	0
+FEVER002068	0	The 1992 Los Angeles riots were a series of events of civil disorder.	0
+FEVER002069	0	All the Lovers was a commercial success in Europe.	0
+FEVER002070	0	Anaheim, California locates in Orange County.	0
+FEVER002071	0	The 19th G7 summit included Canada.	0
+FEVER002072	0	Music Bank (TV series) has been hosted by a South Korean actress born in 1981.	0
+FEVER002073	0	On October 16th, 1793, Marie Antoinette died.	0
+FEVER002075	0	Asteroid Day is an event.	0
+FEVER002076	0	Arya Stark is headstrong and self-reliant.	0
+FEVER002078	0	Keanu Reeves is a musician.	0
+FEVER002079	0	Queen Latifah is a rapper.	0
+FEVER002080	0	The Academy Honorary Award was instituted for the best new novel by a dead writer.	1
+FEVER002082	0	Werner Herzog was born in April.	1
+FEVER002083	0	Music includes symphonies.	0
+FEVER002084	0	Before Night Falls is a biographical film.	0
+FEVER002086	0	KFC is the second biggest restaurant chain in the world.	0
+FEVER002087	0	There are zero actors in Pitch Perfect 3.	1
+FEVER002088	0	Tanzania has formal relations with Malawi.	0
+FEVER002089	0	Haiti shares an island with a sovereign state, the Dominican Republic.	0
+FEVER002090	0	Lisa Bonet was born on November 16th, 1967.	0
+FEVER002091	0	Walt Disney founded a company headquartered in Burbank.	0
+FEVER002094	0	The Golden State Warriors started playing basketball in 1971.	1
+FEVER002096	0	Stone Temple Pilots had an original member that was an American guitarist.	0
+FEVER002097	0	Hayden Panettiere was in a film.	0
+FEVER002098	0	Alicia Silverstone did not win an MTV Movie Award.	0
+FEVER002100	0	Injustice 2 allows players to customize characters.	0
+FEVER002101	0	Melisandre has only ever appeared on television.	1
+FEVER002102	0	Nina Simone has had the same name since birth.	1
+FEVER002103	0	Lisbon is the capital of the Lisbon District.	0
+FEVER002105	0	Snoop Dogg signed with No Limit Records.	0
+FEVER002106	0	The terrain of Kazakhstan includes flatland.	0
+FEVER002107	0	Shahid Kapoor starred in Ishq Vishk.	0
+FEVER002108	0	Inspectah Deck isn't a rapper.	1
+FEVER002111	0	Emmy Rossum acts.	0
+FEVER002113	0	Joe Biden chaired the Judiciary Committee.	0
+FEVER002115	0	Moses Malone only won the MVP once.	0
+FEVER002116	0	Julia Stiles stars in The Bourne Supremacy.	0
+FEVER002117	0	The Great Gatsby does not explore themes of idealism.	1
+FEVER002118	0	Paul Simon is a singer-songwriter.	0
+FEVER002120	0	Sabrina Carpenter is signed to Hollywood Records.	0
+FEVER002121	0	Amazon Web Services included compute services and it is on the Internet.	0
+FEVER002122	0	Pierrot is renowned for Tokyo Ghoul.	0
+FEVER002123	0	Charlie Sheen died on September 2, 1965.	1
+FEVER002124	0	Pablo Fenjves wrote for David Foster.	0
+FEVER002125	0	Helena Bonham Carter was in movies.	0
+FEVER002126	0	Antarctica's annual precipitation is less than a foot along the coast.	0
+FEVER002127	0	Oliver Reed was in The Trap.	0
+FEVER002129	0	The population of Kazakhstan includes Russians.	0
+FEVER002131	0	Gabrielle Union is in Daddy's Little Girls.	0
+FEVER002132	0	Desperate Housewives aired on a channel.	1
+FEVER002134	0	Snoop Dogg released a soundtrack on Death Row Records for the short film Murder Was the Case.	0
+FEVER002137	0	Racism was addressed in Beverly Hills, 90210.	0
+FEVER002138	0	Taal was a film that was written by Subhash Ghai.	0
+FEVER002139	0	Anil Kapoor does not have a career.	1
+FEVER002141	0	Michael Caine was incapable of starring in The Man Who Would Be King.	1
+FEVER002142	0	Transformers: Dark of the Moon is a movie.	0
+FEVER002144	0	Nigeria is part of The Next Eleven countries alongside Egypt and South Korea according to Jim O'Neil.	0
+FEVER002146	0	Sylvester Stallone's third name is Gardenzio.	0
+FEVER002147	0	Led Zeppelin II was released in the United Kingdom on Monday October 31, 1969.	0
+FEVER002149	0	Bali is in Asia.	0
+FEVER002151	0	Judd Apatow is an actor.	0
+FEVER002153	0	Wladimir Klitschko has fought in 29 heavyweight title matches.	0
+FEVER002154	0	John Cusack was in the class High Fidelity.	1
+FEVER002155	0	Andrew Jackson was a Scientologist.	1
+FEVER002156	0	Afghanistan has not been inhabited by humans since the Middle Paleolithic Era.	1
+FEVER002157	0	Large numbers of civilians were not executed during the French Revolution.	1
+FEVER002158	0	Emma Thompson acted.	0
+FEVER002160	0	Reuters only sends out news in English.	0
+FEVER002163	0	Roger Penrose has yet to receive a prize for physics.	1
+FEVER002164	0	Lymelife takes place in 1990's Brooklyn.	1
+FEVER002165	0	Reds is an epic drama film.	0
+FEVER002167	0	Ted Kaczynski attempt to remove his lawyers that the court assigned him.	0
+FEVER002168	0	Shawn Mendes is a musician who records music.	0
+FEVER002169	0	Charlie Rubin refused a writing job on In Living Color.	1
+FEVER002171	0	Taiwan only has a neighbor to the east.	1
+FEVER002172	0	Mickey Rooney played leading roles.	0
+FEVER002174	0	Maynard James Keenan had nothing to do with A Perfect Circle.	1
+FEVER002177	0	Ethiopia has a settlement that is the hottest in the world.	0
+FEVER002178	0	Matt Kuchar has over 80 top-10 finishes.	0
+FEVER002179	0	Sue Vertue is exclusively from America.	1
+FEVER002180	0	George Clooney is an activist and philanthropist.	0
+FEVER002181	0	Sarah Paulson acted in Studio 60 on the Sunset Strip.	0
+FEVER002182	0	Independence Day: Resurgence had zero writers.	1
+FEVER002184	0	Stranger Things is set in Oklahoma.	1
+FEVER002185	0	Wyatt Earp's first wife contracted typhoid fever in 1870.	0
+FEVER002186	0	There is a sitcom from America starring Tim Allen.	0
+FEVER002187	0	Transformers: Revenge of the Fallen grossed $434.2 million in Europe, Asia, Africa, and South America.	0
+FEVER002188	0	France has consistently refused to join the North Atlantic Treaty Organization.	0
+FEVER002189	0	The Woman in Red is a 1984 film.	0
+FEVER002190	0	Daft Punk has had success from 1991 to the present.	1
+FEVER002191	0	Sicario (2015 film) was nominated for an Academy Award for Best Sound Editing.	0
+FEVER002192	0	The Fosters first premiered on June 3, 2013.	0
+FEVER002193	0	Bradford is the location of Cartwright Museum.	1
+FEVER002195	0	Up All Night was released in November 2011.	0
+FEVER002196	0	La La Anthony's middle name is Jose.	1
+FEVER002197	0	Grunge became commercially successful due in part to at least one album by Alice in Chains.	0
+FEVER002198	0	Zooey Deschanel did not perform in a jazz cabaret act.	1
+FEVER002199	0	Rebecca Ferguson received a nomination.	0
+FEVER002200	0	Galaxy Quest is a horror movie.	1
+FEVER002201	0	Travis Barker drummed on at least one song.	0
+FEVER002202	0	Robin was a character in Batman comic books.	0
+FEVER002203	0	Gregor Clegane is the eldest brother of Sandor Clegane.	0
+FEVER002204	0	Hisense failed to acquire the right to sell televisions in the Americas.	1
+FEVER002206	0	England was inhabited by humans.	0
+FEVER002207	0	Funny or Die produces @midnight.	0
+FEVER002209	0	Portugal is a state.	1
+FEVER002211	0	Luxembourg is a representative democracy with a constitutional monarch.	0
+FEVER002212	0	Steve Irwin graduated university in 1962.	1
+FEVER002215	0	Carrie Fisher was a performer.	0
+FEVER002217	0	The Belko Experiment premiered at the 41st Toronto International Film Festival in 2016.	0
+FEVER002218	0	Childhood was the time of Ben Affleck's life when he began his career.	0
+FEVER002220	0	Taylor Schilling acts professionally.	0
+FEVER002221	0	Until Dawn is a survival game.	0
+FEVER002222	0	Kato Kaelin was brought into this world in the year 1959.	0
+FEVER002223	0	The blue-ringed octopus is an animal.	0
+FEVER002224	0	Idris Elba was in American Gangster, Takers, Thor, Prometheus, Pacific Rim, Thor: The Dark World, Beasts of No Nation, and Star Trek Beyond.	0
+FEVER002225	0	Outlander (TV series) adapts the Lord of the Rings novels.	1
+FEVER002227	0	Labor Day involves honoring the collective organization of working people developed to represent and campaign for better working conditions and treatment from their employers and, by the implementation of labour and employment laws, their governments also known as the American labor movement.	0
+FEVER002228	0	San Francisco is located in the state of California.	0
+FEVER002229	0	The characters in Grey's Anatomy try to maintain personal lives only.	1
+FEVER002230	0	Constantine was directed by Francis Lawrence.	0
+FEVER002231	0	Brian Eno was employed with Bryan Ferry.	0
+FEVER002232	0	Elvis Presley lived in Graceland, his Memphis estate.	0
+FEVER002234	0	Dominick Dunne was born in 1923.	1
+FEVER002235	0	Isis is from an Egyptian polytheistic pantheon.	0
+FEVER002236	0	Performance (film) stars a member of The Rolling Stones.	0
+FEVER002238	0	Winners of the Academy Award for Best Actor include Dustin Hoffman.	0
+FEVER002239	0	The Breakfast Club is not a film.	1
+FEVER002240	0	Oz the Great and Powerful was released without the Disney Digital 3-D format.	1
+FEVER002241	0	The 2017 Open Championship is at least the tenth Open Championship.	0
+FEVER002242	0	Final Fantasy XII is a religion.	1
+FEVER002243	0	Alicia Keys has been the winner of the NAACP Image Award 17 times.	0
+FEVER002244	0	Quentin Tarantino made a movie.	0
+FEVER002245	0	Daniel Craig was in an English language thriller film.	0
+FEVER002246	0	Shania Twain is not a music artist.	1
+FEVER002247	0	Justified was nominated for a Primetime Emmy Award.	0
+FEVER002249	0	Detroit had a population of 677,116 in 2015.	0
+FEVER002250	0	Marilyn Monroe did not play comic characters.	1
+FEVER002251	0	Amsterdam Airport Schiphol serves as a European hub.	0
+FEVER002254	0	Maria I of Portugal did not exist to witness the 5 October 1910 Revolution.	0
+FEVER002255	0	Tanzania's largest city and principal port is Dar es Salaam.	0
+FEVER002257	0	Martina Hingis is an athlete.	0
+FEVER002258	0	"Meek Mill sings the track ""Young & Gettin' It."""	0
+FEVER002259	0	The Bends was released by a record label.	0
+FEVER002261	0	"A block is also called a ""bushed."""	0
+FEVER002262	0	Sarah Paulson had a role in 2002 Path to War.	0
+FEVER002263	0	John F. Kennedy graduated from a university.	0
+FEVER002264	0	Bali is an administrative division within Indonesia	0
+FEVER002266	0	Miranda Cosgrove is an American actress.	0
+FEVER002267	0	Southport hosts an annual air show.	0
+FEVER002268	0	Tokyo was formerly known by another name.	0
+FEVER002269	0	Singapore has a high level of press freedom.	1
+FEVER002270	0	Lee Min-ho is incapable of being an actor.	1
+FEVER002271	0	Newport Beach is the setting of Arrested Development.	0
+FEVER002272	0	Adele has been mentioned in the Guinness Book of World Records.	0
+FEVER002273	0	The capital of British Columbia is not the fifteenth-largest metropolitan region in Canada.	1
+FEVER002276	0	David Thewlis was born in 1983.	1
+FEVER002278	0	Willie Nelson is a songwriter.	0
+FEVER002279	0	On the Road (film) is adapted from a cartoon drawn by Ralph Steadman.	1
+FEVER002281	0	Melbourne is in Russia.	1
+FEVER002282	0	Selena was murdered.	0
+FEVER002284	0	Jack Reacher (film) was directed and written by Christopher McQuarrie.	0
+FEVER002285	0	Margaret Atwood has published short stories in a Canadian general interest magazine.	0
+FEVER002286	0	Scarlett Johansson only released an album in 2004.	1
+FEVER002287	0	Oliver Reed was an actor.	0
+FEVER002288	0	Matt Damon is an American who acts.	0
+FEVER002293	0	The Flash's third season premiered in 2016.	0
+FEVER002294	0	Mickey Mantle was given the nickname The Mick.	0
+FEVER002295	0	Tequila is a food.	1
+FEVER002297	0	Treasure was made after the 24K Magic World Tour.	1
+FEVER002298	0	Macbeth was screened at Cannes Film Festival.	0
+FEVER002299	0	Gendry is from the A Song of Ice and Fire series.	0
+FEVER002300	0	Judith Quiney was baptised in England.	0
+FEVER002301	0	The Himalayas are spread across five countries including Nepal.	0
+FEVER002302	0	The House of Lusignan was a royal house of French origin.	0
+FEVER002305	0	Roman Reigns is a 2015 Royal Rumble winner.	0
+FEVER002306	0	Istanbul is a large town.	0
+FEVER002307	0	Apple was established in 1976.	0
+FEVER002308	0	Jesus was a preacher.	0
+FEVER002309	0	The Divergent Series' first movie wasn't directed by Neil Burger.	1
+FEVER002310	0	Ivan Lendl is second only in the Open Era to Connors as of 2011.	0
+FEVER002312	0	Dylan O'Brien is in no films slated for 2018.	1
+FEVER002314	0	Travis Scott released Rodeo.	0
+FEVER002315	0	Pineapple Express is a French film.	1
+FEVER002316	0	Ethiopia is on a cape.	1
+FEVER002317	0	Octavia Spencer worked in the Divergent film series.	0
+FEVER002318	0	Iain Glen is a theater actor.	0
+FEVER002319	0	Vikram has starred in a film.	0
+FEVER002321	0	Stephanie Daley denied Tamblyn a nomination for best supporting female at the 2006 Independent Spirit Awards.	1
+FEVER002323	0	Twenty One Pilots's drummer is American Josh Dun.	0
+FEVER002324	0	Fergie did not begin touring in 2009.	1
+FEVER002325	0	Planet of the Apes (1968 film) was written by someone from America.	0
+FEVER002326	0	Room received two Academy Award nominations.	0
+FEVER002327	0	Heinrich Himmler was an overseer.	0
+FEVER002333	0	"Bruno Mars leads ""The Hooligans."""	0
+FEVER002334	0	James and the Giant Peach includes Jane Leeves.	0
+FEVER002335	0	Oh Yeon-seo worked with Jo Eun-byul and she was musical.	0
+FEVER002336	0	Overwatch is an online multiplayer first-person shooter.	0
+FEVER002337	0	Farrah Fawcett was in The Burning Bed.	0
+FEVER002340	0	Citalopram is an antidepressant.	0
+FEVER002342	0	Solange Knowles refused to ever sing or write songs.	1
+FEVER002343	0	Syria includes only one ethnic group which is Italian.	1
+FEVER002345	0	Water occurs in nature as clouds and snow.	0
+FEVER002346	0	Batman: The Killing Joke was illustrated by a dolphin.	1
+FEVER002348	0	Where the Wild Things Are was put out in 2009.	0
+FEVER002349	0	Azerbaijan was the earliest democratic republic in the Muslim world.	0
+FEVER002350	0	Led Zeppelin II was released in the United Kingdom on October 31, 1969.	0
+FEVER002351	0	"Nick Cannon recorded the single ""My Wife"" in 2006."	0
+FEVER002353	0	Abu Talib ibn Abd al-Muttalib was the leader of a clan of a tribe of Mecca.	0
+FEVER002355	0	Drop Dead Gorgeous follows the contestants in a beauty pageant.	0
+FEVER002357	0	Buddy Holly performed with his friends from school.	0
+FEVER002360	0	Venice is a city.	0
+FEVER002361	0	Ludacris has not won an MTV award.	1
+FEVER002362	0	Miles Teller was born in Downingtown, Pennsylvania.	0
+FEVER002363	0	The Shield is a French crime drama TV series.	1
+FEVER002365	0	Eddie Redmayne acted in a film.	0
+FEVER002366	0	Royal Rumble (2002) was a professional wrestling event.	0
+FEVER002367	0	The Jacksons refused to air on any English language broadcast tv network.	1
+FEVER002369	0	Monarch of the Glen is produced by Ecosse Films.	0
+FEVER002371	0	Los Angeles has religious diversity.	1
+FEVER002374	0	British Fantasy Award categories include Best Short Story.	0
+FEVER002375	0	The G20 economies account for two-thirds of the world population.	0
+FEVER002376	0	United Kingdom has the ninth-largest economy by economic theory that states that the exchange rate between two currencies equal the ratio of the currencies' respective purchasing power called purchasing power parity.	0
+FEVER002377	0	WWI has never been known as the Great War.	1
+FEVER002378	0	Chris Hardwick replaced Kevin James.	0
+FEVER002380	0	Slovakia is a member of the European Union.	0
+FEVER002382	0	Travis Barker collaborated with an alternative rock band.	0
+FEVER002384	0	The Dodecanese are in the southeastern Aegean Sea.	0
+FEVER002385	0	Newfoundland and Labrador contains the island Puerto Rico.	1
+FEVER002387	0	Adele is a Canadian songwriter.	1
+FEVER002388	0	Meryl Streep is unqualified for a nomination for an Academy Award.	1
+FEVER002389	0	Rain Man is incapable of winning anything.	1
+FEVER002390	0	Reese Witherspoon was named Global Ambassador of Avon Products in the 21st century.	0
+FEVER002391	0	Alfred Hitchcock and Sidney Bernstein produced Rope.	0
+FEVER002392	0	Catherine Zeta-Jones is a Pisces.	1
+FEVER002393	0	Pablo Picasso painted.	0
+FEVER002396	0	Usain Bolt is a whale.	1
+FEVER002397	0	2014 was the year The Lego Movie was released.	0
+FEVER002398	0	A central venous catheter is also known as a CVC.	0
+FEVER002399	0	A.J. Cook appeared in The Virgin Suicides.	0
+FEVER002400	0	Erich von Manstein was a German commander of armed forces of Nazi Germany.	0
+FEVER002401	0	Peyton Manning played for the Colts.	0
+FEVER002403	0	Kirk Douglas is only Canadian.	1
+FEVER002405	0	Matthew Modine played the title character of the TV series Birdy.	1
+FEVER002406	0	Hungary is bordered by Slovakia to the north, Romania to the east, Serbia to the south, Croatia to the southwest, Slovenia to the west, Austria to the northwest, and Ukraine to the northeast.	0
+FEVER002407	0	D. B. Weiss is an American screenwriter.	0
+FEVER002408	0	To Kill a Mockingbird takes place in South Asia.	1
+FEVER002410	0	Neil Armstrong was awarded the Presidential Medal of Freedom along with Buzz Aldrin.	0
+FEVER002412	0	Ben Whishaw was in productions.	0
+FEVER002413	0	Steven Gerrard captains the national football team of England.	0
+FEVER002414	0	Judith Barsi has been on television.	0
+FEVER002415	0	The latest album of LL Cool J was released.	0
+FEVER002419	0	Morena Baccarin is known for portraying Jessica Brody.	0
+FEVER002421	0	Adam Sandler did not found Happy Madison Productions.	1
+FEVER002422	0	Twilight's first novel has a released companion novel called Midnight Sun.	1
+FEVER002425	0	Sean Combs released his debut album in March of 1997.	1
+FEVER002427	0	Role Models is a motion picture.	0
+FEVER002428	0	42 was released before 2014.	0
+FEVER002429	0	Before We Go has always been called Before We Go.	1
+FEVER002430	0	Dany Rigoulot won the French Figure Skating Championship in 1958.	0
+FEVER002432	0	The blue-ringed octopus is a marine animal.	0
+FEVER002433	0	Prince did not make the album Prince.	1
+FEVER002435	0	Rhona Mitra is not a songwriter.	1
+FEVER002436	0	The New York Times is German.	1
+FEVER002439	0	Claire Danes has one offspring with the man to whom she is married.	0
+FEVER002440	0	Tony Bill has yet to produce a movie.	1
+FEVER002442	0	Jacinda Barrett acts.	0
+FEVER002443	0	Budapest has no Parliament building.	1
+FEVER002444	0	Role-playing games should be conducted in silence.	1
+FEVER002445	0	Parting Glances was released.	0
+FEVER002446	0	War of the Worlds is a film.	0
+FEVER002447	0	Kathy Bates is a person.	0
+FEVER002448	0	Destiny was reviewed.	0
+FEVER002449	0	Burundi is populated by Twas.	0
+FEVER002450	0	Jules Dumont d'Urville was born on May 13, 1790.	1
+FEVER002451	0	Renaissance art involved an artist.	0
+FEVER002452	0	Theodore Roosevelt only ever founded a conservative party.	1
+FEVER002454	0	Rowan Atkinson only stars in a French television series.	1
+FEVER002455	0	British Fantasy Award categories include Best Fantasy Novel.	0
+FEVER002456	0	Lyme disease causes erythema migrans, an expanding area of redness on the skin.	0
+FEVER002457	0	There is a state called California.	0
+FEVER002458	0	Neymar's full name is Neymar Lebron James.	1
+FEVER002460	0	Tom Morello worked creatively with Rage Against the Machine.	0
+FEVER002463	0	Neil Young began performing in 1960.	0
+FEVER002464	0	Dan Aykroyd acted in the film Driving Miss Daisy.	0
+FEVER002465	0	William Shatner is an actor in multiple series.	0
+FEVER002467	0	Unpredictable was an album.	0
+FEVER002469	0	Vladimir Putin won.	0
+FEVER002470	0	Halle Berry was 1st runner-up in the Miss USA Pageant.	0
+FEVER002471	0	L.A. Guns brought on a replacement guitarist.	0
+FEVER002473	0	The Vietnam War has another name.	0
+FEVER002474	0	Samantha Robson was born in London.	0
+FEVER002475	0	The Illusionist was a commercial and critical success.	0
+FEVER002476	0	Travis Barker's first band split up.	0
+FEVER002477	0	The Divergent Series: Insurgent is based solely on the Harry Potter series.	1
+FEVER002479	0	Darth Vader is a writer of the Star Wars universe.	0
+FEVER002480	0	Clementine Chapel was used to house the skull of a saint.	0
+FEVER002481	0	Ted Kaczynski grew up in a city.	0
+FEVER002483	0	R. Kelly is incapable of being a musician.	1
+FEVER002484	0	Susan Sarandon received nominations for plays.	0
+FEVER002485	0	Machine Gun Kelly was born in 1990.	0
+FEVER002486	0	Quentin Tarantino makes movies.	0
+FEVER002487	0	The first season of Legion premiered at the Pacific Design Center in 2017.	0
+FEVER002488	0	"Rolling Stone book described Led Zeppelin as ""the heaviest band of all time."""	0
+FEVER002489	0	Islam's followers are known as Sunni Muslims or Shia Muslims.	0
+FEVER002492	0	Dustin Hoffman has starred in a movie.	0
+FEVER002494	0	Martina Hingis was born in Czechoslovakia.	0
+FEVER002495	0	Ralph Fiennes played Prince Hamlet in Hamlet.	0
+FEVER002496	0	There was a deluxe edition of Paramore in 2014.	0
+FEVER002497	0	George W. Romney was the father of a former governor.	0
+FEVER002499	0	Bertrand Russell's work has had a considerable influence on the core of artificial intelligence.	0
+FEVER002500	0	Shantel VanSanten has yet to act.	1
+FEVER002501	0	Vito Corleone was created by Marlon Brando.	1
+FEVER002502	0	Demi Moore has always appeared with long hair.	1
+FEVER002505	0	John McEnroe is unknown.	1
+FEVER002506	0	Diana Ross had success in the United States.	0
+FEVER002507	0	"Kenny Rogers is featured in the poll of ""The 200 Most Influential Country Albums Ever.''"	0
+FEVER002508	0	Las Vegas is not known for its nightlife.	1
+FEVER002509	0	Stephen Rider acted in the show Lucky 7.	0
+FEVER002512	0	One movie actress is Anne Hathaway.	0
+FEVER002513	0	Marlon Brando was in a 1972 film.	0
+FEVER002514	0	Babe Ruth was a person.	0
+FEVER002515	0	Amy Adams appeared in a film directed by Tim Burton.	1
+FEVER002516	0	Vitamin B12 is not produced by plants.	0
+FEVER002517	0	"Michael Jordan was in ""The Dream Team""."	0
+FEVER002518	0	UFC 216 is produced by the Ultimate Fighting Championship and scheduled to be held on September 9, 2017 in Canada.	0
+FEVER002522	0	Jim Henson founded a company that produces children's and family entertainment.	0
+FEVER002523	0	James McAvoy has been on Children of Dune.	0
+FEVER002524	0	Gimli was featured in a fantasy legendarium.	0
+FEVER002527	0	Lions are not social compared to other cats.	1
+FEVER002529	0	Kolyma has reserves of natural resources.	0
+FEVER002530	0	Blizzard Entertainment has created video games since the early 90s.	0
+FEVER002531	0	Marlon Brando failed to play Lloyd Gruver.	0
+FEVER002532	0	Patricia Franklin was cast in Saved.	0
+FEVER002533	0	The Philippines were named after Philip II of Spain.	0
+FEVER002534	0	Margaret of Valois spent time imprisoned.	0
+FEVER002535	0	Sam Walton was only ever a rodeo clown his whole life.	1
+FEVER002536	0	Volleyball is considered a sport.	0
+FEVER002537	0	Peyton Manning played football.	0
+FEVER002538	0	Some people in Tanzania speak Swahili.	0
+FEVER002539	0	The Divergent Series: Insurgent is based on the third book in the Divergent trilogy.	1
+FEVER002540	0	Frank Sinatra starred in The Man with the Golden Arm.	0
+FEVER002541	0	The Ku Klux Klan flourished in the late 1860s.	0
+FEVER002542	0	Oh Yeon-seo is a former member of a band and she is musical.	0
+FEVER002543	0	Snooki is a professional wrestler.	0
+FEVER002544	0	Burundi is populated by people.	0
+FEVER002545	0	Queen Latifah has sold over two million hip hop records.	0
+FEVER002546	0	"Millie Bobby Brown played Jane ""Eleven"" Ives."	0
+FEVER002547	0	Istanbul is outside of Turkey.	1
+FEVER002548	0	There is a film called Sunburn.	0
+FEVER002549	0	A loss of supply affects prime ministers to the point of resignation.	0
+FEVER002550	0	Stevie Nicks was in Fleetwood Mac as a singer.	0
+FEVER002551	0	Woody Allen only won one award for Best Original Screenplay.	1
+FEVER002553	0	Investment funds are also referred to as managed funds or simply funds.	0
+FEVER002554	0	Sriti Jha is an actress.	0
+FEVER002555	0	UFC 216 is a mixed martial arts event to be held at Rogers Place on September 9, 2017.	0
+FEVER002556	0	Kate Nash released three albums.	0
+FEVER002558	0	A Nightmare on Elm Street had an estimated rating of 4 stars.	1
+FEVER002559	0	The New York Times is declining.	0
+FEVER002560	0	Boston University has colleges.	0
+FEVER002561	0	Rajesh Khanna was a person.	0
+FEVER002563	0	Mirka Federer was born.	0
+FEVER002564	0	Chester Bennington's project on the side was named Dead by Sunrise.	0
+FEVER002565	0	Steven Price (composer) is European.	0
+FEVER002566	0	Destiny's point of view is first person.	0
+FEVER002567	0	Anne Bancroft won at least two things.	0
+FEVER002568	0	Tardigrades have been found only in deserts.	1
+FEVER002569	0	Bon Scott was in a band.	0
+FEVER002570	0	It's Always Sunny in Philadelphia premiered in 2005.	0
+FEVER002572	0	Jon Huntsman Jr. was the Canadian Ambassador to Japan.	1
+FEVER002574	0	George W. Bush was a politician.	0
+FEVER002575	0	Champion was based off of a work of fiction.	0
+FEVER002576	0	Walt Disney passed away in December of 1966.	0
+FEVER002577	0	Charles II of England died on 13 February 1685.	1
+FEVER002578	0	One character in Scooby-Doo is Fred Jones.	0
+FEVER002579	0	Avatar: The Last Airbender aired for three years in the mid-2000's.	0
+FEVER002581	0	The Murder of Roger Ackroyd is published in June 1930.	1
+FEVER002582	0	Pirates of the Caribbean: Dead Men Tell No Tales was delayed twice.	0
+FEVER002583	0	Papua New Guinea take up the eastern half of New Guinea in the Pacific Ocean.	0
+FEVER002584	0	Diane Ruggiero lived in a state in the Northeastern and mid-Atlantic regions of the United States.	0
+FEVER002586	0	Samuel L. Jackson has appeared in the Star Wars prequel trilogy.	0
+FEVER002587	0	Sage Stallone was an American.	0
+FEVER002588	0	Guinevere is found in medieval Welsh prose from the 12th century.	0
+FEVER002589	0	Cyclobenzaprine can be used to relieve some spasms.	0
+FEVER002590	0	The Beach Boys had under eighty songs chart the US.	1
+FEVER002591	0	Shueisha sells its products primarily in the capital of Japan.	0
+FEVER002592	0	Oh Yeon-seo is an actress.	0
+FEVER002593	0	Family Guy is incapable of being a television show.	1
+FEVER002594	0	British Columbia does not engage in tourism.	1
+FEVER002595	0	Linda Schuyler's place of birth was London, England.	0
+FEVER002597	0	Batman made an appearance in Detective Comics #27.	0
+FEVER002600	0	A free DVD copy of Take Me High was sent out with The Guardian.	1
+FEVER002601	0	William McKinley was a United States citizen.	0
+FEVER002602	0	Beijing is a city.	0
+FEVER002603	0	Maynard James Keenan owns an organic produce market.	0
+FEVER002604	0	Los Angeles, California was incorporated as a municipality on April 4, 1850.	0
+FEVER002605	0	Gil Sharone began working on an album in any month except November.	1
+FEVER002606	0	Glenn Close appeared in a few different types of productions.	0
+FEVER002607	0	Diana Ross had more hits than any female artists in the charts.	0
+FEVER002608	0	LL Cool J appeared in multiple movies.	0
+FEVER002610	0	Joseph Stalin was born before 1770.	1
+FEVER002612	0	James Mangold is the director of Logan.	0
+FEVER002614	0	Joffrey Baratheon is a written character.	0
+FEVER002615	0	Missing is a French film.	1
+FEVER002617	0	Ridley Scott is the director of The Martian.	0
+FEVER002620	0	Asset management is a common practice in the financial industry.	0
+FEVER002625	0	On average, Antarctica has the highest average elevation of all the continents.	0
+FEVER002626	0	Dracula was only a film.	1
+FEVER002627	0	Broadcast News is a film.	0
+FEVER002630	0	Leonardo DiCaprio is a director.	1
+FEVER002631	0	Bowie's music draws from industrial and jungle styles.	0
+FEVER002632	0	Philip V of Spain was the king of a sovereign state located in Europe.	0
+FEVER002633	0	Courtney Love has acted.	0
+FEVER002634	0	Rihanna is one of the best-selling artists of the 21st century.	0
+FEVER002635	0	Edward VIII was a monarch.	0
+FEVER002636	0	Brad Pitt produced at least two Best Picture Oscar winners.	0
+FEVER002639	0	Indiana Jones has been played by River Phoenix.	0
+FEVER002642	0	Donald Trump died before the nominees of the 2016 election were chosen.	1
+FEVER002643	0	Portia de Rossi wasn't able to play Lindsay Fünke on Arrested Development.	1
+FEVER002644	0	Three Men and a Baby stars at least one American actor.	0
+FEVER002646	0	Cindy McCain is a woman.	0
+FEVER002647	0	Silk scarves were the major trade item on the Silk Road.	1
+FEVER002648	0	Santa Barbara is located outside of Southern California.	1
+FEVER002650	0	Caroline, Princess of Hanover is married to a fictional character.	1
+FEVER002651	0	Here Comes the Sun was recorded at Abbey Road Studios in the summer of 1969.	1
+FEVER002653	0	Charles, Prince of Wales has sought to raise world awareness of the dangers facing the natural environment, such as climate change.	0
+FEVER002654	0	Reds was co-written and directed by Warren Beatty.	0
+FEVER002655	0	Tall Story is an American film.	0
+FEVER002656	0	Solange Knowles's third studio album is A Seat at the Table.	0
+FEVER002658	0	London is the location of the City of London.	0
+FEVER002659	0	Planet of the Apes' avant-garde score was composed by Jerry Goldsmith.	0
+FEVER002660	0	On March 28, 1943, Richard Eyre was born.	0
+FEVER002662	0	Barbados is listed as a main tourist location.	0
+FEVER002663	0	Imagine Dragons is from the United States.	0
+FEVER002664	0	Charles I did not marry a Bourbon princess.	1
+FEVER002665	0	Richmond, Virginia is home to a court of appeals.	0
+FEVER002666	0	Louis Tomlinson was a founding member of a girl band.	1
+FEVER002667	0	LeBron James is in the NBA as a player.	0
+FEVER002668	0	Beverly Hills, 90210 was a non-political or social commentary show.	1
+FEVER002671	0	Titanic was released in 2000.	1
+FEVER002672	0	2001: A Space Odyssey was edited using the studio facilities of Shepperton Studios.	0
+FEVER002673	0	Batman: The Killing Joke was illustrated by Jack Kirby.	1
+FEVER002674	0	Whiplash features J. K. Simmons.	0
+FEVER002675	0	Sian Brooke has declined every offer to play Laura.	1
+FEVER002676	0	Carrie Fisher wrote a few semi-autobiographical novels.	0
+FEVER002678	0	Jack Nicholson has played someone.	0
+FEVER002679	0	Election (1999 film) is based on a book by Tom Perrotta.	0
+FEVER002682	0	19 Kids and Counting was cancelled in 2001.	1
+FEVER002683	0	The Meyerowitz stories failed to cast any actors.	1
+FEVER002684	0	Most Albanians are Buddhist.	1
+FEVER002685	0	Indianapolis hosted Super Bowl XLVI.	0
+FEVER002686	0	Lee Harvey Oswald assassinated someone.	0
+FEVER002688	0	Pixar started as part of an American film and television award show.	1
+FEVER002689	0	Little Boy was dropped by a plane piloted by a Colonel.	0
+FEVER002691	0	Mission: Impossible 6 is a movie.	0
+FEVER002692	0	Blue Velvet is a movie.	0
+FEVER002693	0	The Flash is an American television series.	0
+FEVER002694	0	Iceland was settled.	0
+FEVER002696	0	Radioactive was only nominated for Record of the Month.	1
+FEVER002697	0	Count Basie formed at least one orchestra.	0
+FEVER002698	0	"Constantine has plot elements taken from the ""Dangerous Habits"" story arc."	0
+FEVER002699	0	San Francisco wasn't founded in 1776.	1
+FEVER002700	0	A Monster Calls was released in May of 2016.	1
+FEVER002703	0	Tyler, The Creator is a recording artist.	0
+FEVER002704	0	Philip Seymour Hoffman was an actor in Magnolia.	0
+FEVER002706	0	The Narrows is an independent film.	0
+FEVER002709	0	Snoop Dogg was born in October 1971.	0
+FEVER002712	0	Stephen Hawking is not paralysed	1
+FEVER002713	0	Paris is featured in several Greek myths.	0
+FEVER002714	0	Meryl Streep is an award losing actress.	1
+FEVER002715	0	United States Congress has 435 Representatives.	0
+FEVER002716	0	Ballet Shoes is an award-winning children's novel.	0
+FEVER002717	0	Colombia is a place.	0
+FEVER002720	0	April was the month when the Fate of the Furious was theatrically released in the United States.	0
+FEVER002721	0	True Detective's second season was not set in the United States.	1
+FEVER002722	0	Chris Evans (presenter) hosted a programme.	0
+FEVER002723	0	The Voice was renewed for a fourteenth season in 2017.	0
+FEVER002726	0	The Narrows stars Kevin Zegers.	0
+FEVER002727	0	7 Things is by Jamie Lynn Spears.	1
+FEVER002730	0	Theodore Roosevelt lived an athletic lifestyle.	0
+FEVER002731	0	Lana Del Rey released the album Born to Die on April 18, 2012.	1
+FEVER002732	0	Try is on an artist's album.	0
+FEVER002733	0	Tirumala Venkateswara Temple in Tirupati hosts 18.25 million visitors per year.	0
+FEVER002734	0	In Dubious Battle was incapable of starring Josh Hutcherson.	1
+FEVER002736	0	Jamaicans for Justice was founded in 1999.	0
+FEVER002737	0	Just Dance finally reached the summit of the chart in January 2009.	0
+FEVER002738	0	Serena Williams is a tennis player.	0
+FEVER002740	0	Bon Scott was in Fraternity.	0
+FEVER002741	0	American Idiot is a Green Day album.	0
+FEVER002742	0	Venus has an atmosphere consisting of carbon dioxide.	0
+FEVER002745	0	Leslie Uggams was in a superhero movie.	0
+FEVER002747	0	Doug Jones did not star in a science fiction horror film.	1
+FEVER002749	0	Little Mix is a girl group.	0
+FEVER002751	0	Cancer can be prevented by maintaining a healthy weight.	0
+FEVER002753	0	Two Tony Awards were won by Anne Bancroft.	0
+FEVER002754	0	In 1984 Olivia Wilde was born.	0
+FEVER002755	0	Donald Trump won the primaries.	0
+FEVER002756	0	Prince released multiple albums.	0
+FEVER002757	0	Views is an album.	0
+FEVER002758	0	Richard Gere starred in an American film from 1982.	0
+FEVER002759	0	Harry Potter is a series of photographs.	1
+FEVER002760	0	Christopher Nolan did not work on The Dark Knight Trilogy.	1
+FEVER002761	0	Lily James is a person.	0
+FEVER002762	0	Romelu Lukaku played for the Anderlecht team in 2009.	0
+FEVER002764	0	David Schwimmer was cast as the title character in the 2005 drama Duane Hopwood.	0
+FEVER002765	0	Michael Douglas has worked with Sharon Stone.	0
+FEVER002767	0	Iron Man 3 is number seven of the films in the Marvel Cinematic Universe.	0
+FEVER002770	0	Gone Girl was not written by Gillian Flynn.	1
+FEVER002771	0	Beverly Hills, 90210 addressed numerous topical issues such as date rape, gay rights, animal rights, alcoholism, drug abuse, domestic violence, sex, antisemitism, racism, teenage suicide, teenage pregnancy, and AIDS.	0
+FEVER002772	0	Frank Sinatra was a singer and was successful.	0
+FEVER002773	0	Newspapers include information.	0
+FEVER002774	0	Pregnancy symptoms include various ailments.	0
+FEVER002775	0	Jean-Claude Van Damme isn't a screenwriter.	1
+FEVER002776	0	Gilmore Girls has had four people executive produce the show.	0
+FEVER002778	0	Transformers: Dark of the Moon is a motion picture.	0
+FEVER002779	0	Reddit did a funding round that was headed up by Sam Altman.	0
+FEVER002780	0	Arrested Development filmed scenes in California.	0
+FEVER002782	0	"Pierce Brosnan had a cameo in ""Mamma Mia!""."	0
+FEVER002783	0	Deadpool only appears in DC Comics.	1
+FEVER002784	0	Jennifer Jason Leigh had a role in a film.	0
+FEVER002785	0	Vitamin B12 is an organic compound and vital nutrient.	0
+FEVER002786	0	Linux is software that does not cost money and is available for unrestricted modification.	0
+FEVER002787	0	Sophie Turner is from Australia.	1
+FEVER002789	0	Writing is Nat Faxon's profession.	0
+FEVER002790	0	Glee has never been released on DVD.	1
+FEVER002791	0	Sue Sylvester was in an American musical comedy-drama TV series.	0
+FEVER002792	0	George Gershwin composed Summertime (George Gershwin song) for an opera.	0
+FEVER002793	0	The 84th Academy Awards winners included Rango.	0
+FEVER002794	0	Tropic Thunder was produced by DreamWorks Pictures.	0
+FEVER002795	0	Linda McCartney was an artist.	0
+FEVER002797	0	In America, the Jim Crow laws were in effect.	0
+FEVER002798	0	Prison Break was aired for five episodes.	1
+FEVER002799	0	The Great Gatsby was written by Orrin Hatch.	1
+FEVER002801	0	Giancarlo Stanton is in Major League Baseball.	0
+FEVER002802	0	Tim Rice worked on Aladdin with anyone except Alan Menken.	1
+FEVER002803	0	The Walt Disney Company is headquartered in Burbank, California.	0
+FEVER002804	0	Harry Potter is a navy captain.	1
+FEVER002805	0	Martin Freeman is known for portraying a television character.	0
+FEVER002806	0	Ozzy Osbourne was not inducted into the UK Music Hall of Fame.	1
+FEVER002808	0	There were at least four studio albums Justin Bieber released.	0
+FEVER002809	0	Thirteen was directed by someone.	0
+FEVER002810	0	The largest island in Hawaii is the Island of Hawai'i.	0
+FEVER002812	0	Imagine Dragons is from Denmark.	1
+FEVER002814	0	Kristen Bell is a Canadian.	1
+FEVER002815	0	Howard Hughes only acquired one airline.	1
+FEVER002816	0	Journey is a rock band.	0
+FEVER002817	0	There is an actor named Philip Seymour Hoffman.	0
+FEVER002819	0	The Comedian stars Robert De Niro.	0
+FEVER002821	0	Melbourne is in Australia, a country in the Pacific.	0
+FEVER002823	0	Leicester City F.C. won a championship.	0
+FEVER002826	0	Legion is an American supernatural film.	0
+FEVER002827	0	Power sports equipment is something that Yamaha Corporation produces.	0
+FEVER002829	0	Dirty Diana is a song by Michael Joseph Jackson.	0
+FEVER002830	0	Iraq can be found in West Asia.	0
+FEVER002831	0	Patton Oswalt is a comedian.	0
+FEVER002833	0	The Chelsea F.C. won various cup competitions between 1965 and 1971.	0
+FEVER002835	0	The Singing Detective has episodes.	0
+FEVER002836	0	Donnie Wahlberg is the executive producer of Boston's Finest.	0
+FEVER002837	0	John Adams was not a leader for the American independence movement.	0
+FEVER002838	0	Wolverine was a character in Logan.	0
+FEVER002840	0	Kobe Bryant was given the regular season's MVP Award in 2008.	0
+FEVER002841	0	Jodie Foster is a director.	0
+FEVER002842	0	In Her Shoes was based on Jennifer Weiner's novel.	0
+FEVER002844	0	Tanzania shares a border to the east with the third largest of the world's oceanic divisions.	0
+FEVER002845	0	Radiohead pioneered alternative release platforms.	0
+FEVER002847	0	Forbes rated Dr. Dre as the second-richest figure in American hip-hop one year.	0
+FEVER002849	0	David LeRoy Anderson was unable to do the makeup for the film The Nutty Professor.	0
+FEVER002850	0	Jared Leto is an American actor, singer, and director born in 1971.	0
+FEVER002851	0	George H. W. Bush served as the 39th president of the United States.	1
+FEVER002852	0	Gift of the Night Fury stars the voice of an American writer.	0
+FEVER002853	0	Joy is a film that is categorized as drama.	0
+FEVER002857	0	The Challenge had originally been called Road Rules: All Stars.	0
+FEVER002858	0	Inhumans have a television series based on them.	0
+FEVER002859	0	"Fergie does not have a fragrance called ""Outspoken""."	0
+FEVER002860	0	The Strain is a name.	0
+FEVER002861	0	The Matrix Revolutions is a American-Australian film.	0
+FEVER002863	0	Tom Brady played football.	0
+FEVER002864	0	James Garner did not act in multiple films.	1
+FEVER002865	0	Bosnia and Herzegovina is in Europe.	0
+FEVER002867	0	Paul Simon has an honorary degree from Berklee College of Music.	0
+FEVER002868	0	Spike Jonze only worked in the medical field.	1
+FEVER002872	0	Ancient Egypt began under the first Pharaoh, Narmer.	0
+FEVER002873	0	Blue Velvet was destroyed by David Lynch.	1
+FEVER002874	0	Sweden maintains a Nordic social welfare system.	0
+FEVER002877	0	Christine Campbell is the main character of The New Adventures of Old Christine.	0
+FEVER002878	0	The fictional lives of physicians who have completed residency are focused on in Grey's Anatomy.	0
+FEVER002879	0	The Wolf of Wall Street starred an actor.	0
+FEVER002880	0	Drop Dead Gorgeous features various contestants dying in suspicious ways.	0
+FEVER002882	0	Dopamine is in an organ.	0
+FEVER002883	0	Helen Keller graduated from college on June 8, 2015.	1
+FEVER002884	0	A Boeing B-29 Superfortress dropped Little Boy.	0
+FEVER002885	0	Shakira is South American.	0
+FEVER002886	0	The Ku Klux Klan was a nonviolent group.	1
+FEVER002888	0	Tom Morello was raised in Illinois.	0
+FEVER002889	0	Lockheed Martin F-22 Raptor is considered critical by the USAF.	0
+FEVER002890	0	Steve Buscemi stars in Miller's Crossing.	0
+FEVER002891	0	Frank is a studio album.	0
+FEVER002892	0	Chris O'Dowd appeared in Girls.	0
+FEVER002893	0	The French Language is widely spoken outside of France.	0
+FEVER002894	0	Jenni Rivera won at least one award in the 21st century.	0
+FEVER002896	0	Sense and Sensibility was published in 1811.	0
+FEVER002897	0	Dubai is located on the southeast coast of the Persian Gulf.	0
+FEVER002898	0	Taylor Swift released at least one album.	0
+FEVER002899	0	Sunrise created a media franchise that features giant robots and it is Japanese.	0
+FEVER002901	0	Heinrich Himmler served his country.	0
+FEVER002902	0	Adrienne Bailon is an American singer-songwriter.	0
+FEVER002903	0	WALL-E grossed $0 worldwide.	1
+FEVER002904	0	One-Punch Man tells the narrative of a superhero.	0
+FEVER002905	0	Bangladesh has been affected by political coups.	0
+FEVER002909	0	Doctor Who is not continued by a movie.	1
+FEVER002912	0	The film series Resident Evil follows Alice as the protagonist of the series.	0
+FEVER002916	0	Norway has existed continuously for many years.	0
+FEVER002918	0	Abraham Lincoln was a Republican candidate for the United States Senate in 1858.	0
+FEVER002919	0	Planet of the Apes was unable to shoot scenes in the United States.	1
+FEVER002920	0	Live Your Life is by Miley Cyrus.	1
+FEVER002922	0	Carol Leifer is an American actor.	0
+FEVER002923	0	Motorola does not have business and government customers.	0
+FEVER002924	0	Michelle Pfeiffer was a candidate for Best Supporting Actress.	0
+FEVER002925	0	Cannibalism was sparse in the past among humans.	1
+FEVER002926	0	The 2017 American action-adventure horror film The Mummy is unrelated to the earlier film of that name.	1
+FEVER002928	0	Dwight D. Eisenhower was a U.S. President.	0
+FEVER002929	0	Donald Glover was nominated for awards.	0
+FEVER002931	0	Randall Flagg has been featured in a novel.	0
+FEVER002932	0	Ryan Seacrest was born on December 24, 1974.	0
+FEVER002933	0	Aishwarya Rai has one daughter.	0
+FEVER002934	0	Ajay Devgan is a person.	0
+FEVER002935	0	The Fall (Gorillaz album) is a music album.	0
+FEVER002937	0	Muhammad is significant to Islam.	0
+FEVER002938	0	Lonesome Dove is rewritten from a western fictional piece.	0
+FEVER002939	0	Alexander Hamilton attended a college that is now called Harvard University.	1
+FEVER002941	0	Coke Boys Records was later known as Cocaine City Records.	0
+FEVER002942	0	Sarcoidosis was not first described in 1877.	1
+FEVER002943	0	David Bowie was from London.	0
+FEVER002944	0	Sophie Turner was born on the 2nd.	1
+FEVER002945	0	The Museum of Science and Industry was in Glocester.	1
+FEVER002946	0	The second and third installments of two series featured the performance of Karl Urban.	0
+FEVER002947	0	Bernard Madoff was sentenced in June of 2009.	0
+FEVER002949	0	Leukemia is a group of cancers beginning in bone marrow and producing abnormal white blood cells.	0
+FEVER002950	0	Soundgarden was a Seattle contemporary of the grunge band Nirvana.	0
+FEVER002952	0	Ramayanam is a film released in 1996.	0
+FEVER002953	0	The French Revolution happened after the American Revolutionary War.	0
+FEVER002954	0	Jon Pertwee was in a series and he acted.	0
+FEVER002955	0	Plantation era ended before the late 18th century.	1
+FEVER002956	0	Drax the Destroyer is fictional.	0
+FEVER002957	0	Christina Applegate turned down every film role she received.	1
+FEVER002958	0	David Arquette's becoming a WCW World Heavyweight Champion has been cited as pivotal to the demise of WCW.	0
+FEVER002960	0	Kristen Bell's first major role was as Veronica Mars in 2009.	1
+FEVER002963	0	Danny DeVito received no nominations from the Academy Awards.	1
+FEVER002964	0	Welcome Back (film) is the first film in a series.	1
+FEVER002966	0	Shawn Michaels was the first professional wrestler to become the WWF Grand Slam Champion.	0
+FEVER002968	0	Canada was never colonized.	1
+FEVER002969	0	The Sopranos is a show.	0
+FEVER002971	0	Spider-Man was nominated for an Academy Award for Best Original Song.	1
+FEVER002973	0	Philadelphia is in the United States.	0
+FEVER002974	0	"Maggie Gyllenhaal performed in ""Crazy Heart"" in 2009."	0
+FEVER002975	0	Billy Bob Thornton oversaw the direction of All the Pretty Horses.	0
+FEVER002976	0	John Hartford can play an instrument.	0
+FEVER002977	0	The Crazies was a film written by Scott Kosar.	0
+FEVER002978	0	Jeff Goldblum has been given nominations for an Oscar.	0
+FEVER002980	0	There is a music group called Boyz II Men.	0
+FEVER002981	0	Henry V is an American film.	0
+FEVER002982	0	Warren G. Harding was born in 1923.	1
+FEVER002983	0	Elisabeth Sladen starred in radio roles.	0
+FEVER002984	0	Glenn Close made her stage debut in The Color Purple.	1
+FEVER002985	0	Charles Dance played Alastair Denniston.	0
+FEVER002987	0	Paranormal pertains to extraterrestrial life.	0
+FEVER002988	0	Jamie Lannister becomes a lazy point of view character in A Storm of Swords.	1
+FEVER002989	0	The Twilight Saga's second installment is New Moon.	0
+FEVER002990	0	U2 released the album How to Dismantle an Atomic Bomb in 2000.	1
+FEVER002992	0	Rob Lowe was born on January 20, 1964.	1
+FEVER002994	0	Tom Brady was drafted by the Patriots.	0
+FEVER002995	0	A loss of supply cannot involve constitutional instruction.	1
+FEVER002996	0	Shania Twain has sold over 85 million coathangers.	1
+FEVER002997	0	One game sequel is Super Metroid.	0
+FEVER002998	0	The basic text of Vedanta is the Prasthanatrayi.	0
+FEVER003000	0	Velaiilla Pattadhari 2 is a comedy-drama television series.	1
+FEVER003003	0	Dhoom 3 was barely directed by Vijay Krishna Acharya.	0
+FEVER003004	0	Dangerous Beauty was directed by a president of something.	0
+FEVER003005	0	Sachin Tendulkar was included in an all-time Test World XI in 2013.	0
+FEVER003006	0	Saif Ali Khan had a role in two films which include Dil Chahta Hai and Kal Ho Naa Ho.	0
+FEVER003007	0	Vito Corleone is a fictional mountain.	1
+FEVER003009	0	Jaime Lannister is not a knight.	0
+FEVER003010	0	The capital and largest city of Western Australia is Perth.	0
+FEVER003011	0	James Mangold co-wrote a film.	0
+FEVER003013	0	Jean-Claude Van Damme is a Belgian martial artist.	0
+FEVER003014	0	The OA did not premiere on December 16, 2016.	1
+FEVER003015	0	Maria I of Portugal did not live to see the deposition of the Portuguese monarchy.	0
+FEVER003017	0	Future and a Canadian singer have collaborated.	0
+FEVER003019	0	Nick Jonas is a recording artist.	0
+FEVER003023	0	Seth Rogen was cast.	0
+FEVER003024	0	Elementary is a series.	0
+FEVER003025	0	IBM invented the hard disk drive.	0
+FEVER003027	0	Cape Fear stars Nick Nolte and it is directed by Martin Scorsese.	0
+FEVER003028	0	George H. W. Bush was an American politician born in 1924.	0
+FEVER003029	0	The Entire History of You was written by Harry S. Truman.	1
+FEVER003030	0	Lonesome Dove is a work.	0
+FEVER003032	0	Beautiful is directed by someone.	0
+FEVER003033	0	Odin is often accompanied by a wolf name Freki.	0
+FEVER003034	0	Lust for Life is about the Dutch painter Vincent Van Gogh.	0
+FEVER003035	0	Alison Brie is American.	0
+FEVER003036	0	Morrissey was born into a family.	0
+FEVER003037	0	Lana Del Rey is a singer-songwriter.	0
+FEVER003038	0	Pacific Rim started production July 12, 2013.	1
+FEVER003041	0	Social justice is invoked today in philosophical debates about differences among human beings around the world.	0
+FEVER003042	0	Patrick Dempsey was in the movie Enchanted in 2007.	0
+FEVER003045	0	Overwatch premiered in 2014.	0
+FEVER003047	0	Avengers: Age of Ultron was released in the Americas.	0
+FEVER003048	0	Jennifer Aniston is a producer.	0
+FEVER003050	0	Iceland is a country.	0
+FEVER003051	0	UFC 216 will be held in May.	1
+FEVER003052	0	Jimmy Carter led a boycott of the Olympics.	0
+FEVER003053	0	Leonardo da Vinci made discoveries.	0
+FEVER003054	0	Michelle Williams has stayed away from an acting entirely.	1
+FEVER003055	0	People can get a doctorate from Boston University.	0
+FEVER003056	0	Italy is in Asia.	1
+FEVER003057	0	Missing stars a woman.	0
+FEVER003058	0	Robin was murdered by the Joker in a 1989 book.	0
+FEVER003059	0	Ranbir Kapoor has a career in films.	0
+FEVER003060	0	South America contains a country.	0
+FEVER003061	0	David Schwimmer played a lawyer in American Crime Story.	0
+FEVER003063	0	Marion Cotillard achieved worldwide recognition for her role in La Vie en Rose (2007).	0
+FEVER003064	0	Avatar was directed by James Cameron.	0
+FEVER003065	0	Neil Patrick Harris played the title character on House.	1
+FEVER003067	0	The Berlin Wall was a dividing structure made of concrete.	0
+FEVER003069	0	Warren Buffett developed an interest in investing.	0
+FEVER003071	0	Serena Williams has won four Olympic gold medals for women's tennis.	0
+FEVER003072	0	The Proposal stars Jim Gaffigan.	1
+FEVER003073	0	John Lennon was in a band that formed in Liverpool in 1960 called The Beatles.	0
+FEVER003074	0	Led Zeppelin was inducted into the Rock and Roll Hall of Fame in the second half of the 20th century.	0
+FEVER003076	0	Conquest of the Planet of the Apes was written.	0
+FEVER003077	0	Whitey Bulger was never formally charged.	0
+FEVER003080	0	Rebecca Hall was passed over for a role in The Awakening.	1
+FEVER003081	0	Stephen Hawking is a lifetime member of the Pontifical Academy of Sciences among other honors.	0
+FEVER003082	0	Romelu Lukaku joined a soccer team.	0
+FEVER003083	0	Shonen Jump uses abbreviation.	0
+FEVER003084	0	Halle Berry has 0 children.	1
+FEVER003087	0	Haim Saban is an Israeli-American musician.	0
+FEVER003089	0	The 19th G7 summit included France, Germany, Italy, Japan, the United Kingdom, the United States, Canada, and the European Comission.	0
+FEVER003090	0	Minnesota has a high standard of living.	0
+FEVER003091	0	Baahubali 2: The Conclusion is a 2017 Indian film.	0
+FEVER003092	0	Norway has had over sixty kings and earls.	0
+FEVER003093	0	Ward Moore was born in 1904.	1
+FEVER003094	0	The New York Times is Canadian.	1
+FEVER003095	0	Resident Evil is a company built around survival horror video games.	0
+FEVER003097	0	Vacation stars Ed Helms, Chevy Chase, and Leslie Mann.	0
+FEVER003099	0	Emily Browning starred in The Echo of Thunder.	0
+FEVER003100	0	Three Men and a Baby stars American actor Tom Selleck.	0
+FEVER003103	0	There is a American film called Maleficent with Ella Purnell in it.	0
+FEVER003105	0	Ethan Hawke co-starred with an actress.	0
+FEVER003106	0	Colombia's armed conflict has decreased from 2005 onward.	0
+FEVER003107	0	Sam Walton founded store chains.	0
+FEVER003108	0	Stranger than Fiction is a comedy mask.	1
+FEVER003109	0	Moana is a movie that used computer-animation.	0
+FEVER003110	0	Denis Leary is a producer and singer.	0
+FEVER003111	0	The Smurfs (film) release date was changed.	0
+FEVER003112	0	Amaze Entertainment was a company.	0
+FEVER003113	0	Bradley Cooper was given birth to in 1975.	0
+FEVER003114	0	Henrietta Maria of France died on September 27.	1
+FEVER003116	0	Orson Welles was not a Shakespearean stage actor.	1
+FEVER003117	0	Trevor Noah created The Daily Show.	1
+FEVER003118	0	Heidi Klum is a person.	0
+FEVER003119	0	The American Broadcasting Company is only called by its full name.	1
+FEVER003120	0	Steven Gerrard has been captain of the England national football team since 2012.	1
+FEVER003122	0	James Wilson is a real person yet to be made into a fictional character.	1
+FEVER003124	0	Diego Costa is a soccer player	0
+FEVER003125	0	K2 is called the Savage Mountain because it is hard to climb.	0
+FEVER003126	0	Jean Reno turned down the role he was offered in Ronin.	1
+FEVER003127	0	Streptococcus belongs to an order.	0
+FEVER003128	0	Melanie Griffith is a person.	0
+FEVER003129	0	Kitti's hog-nosed bat has a scientific name.	0
+FEVER003130	0	Paul Newman is incapable of road racing.	1
+FEVER003133	0	Fight Club is incapable of starring Helena Bonham Carter.	1
+FEVER003134	0	Ethan Hawke appeared in a trilogy.	0
+FEVER003135	0	The Kingdom of Georgia fell in the 13th century.	0
+FEVER003136	0	Olivia Wilde is a person.	0
+FEVER003137	0	Paul McCartney married three times.	0
+FEVER003138	0	Ellen Burstyn began her career in the late 1990s.	1
+FEVER003140	0	Sean Connery won anything except an Academy Award.	1
+FEVER003141	0	Lymelife was written by Derick and Steve Martini.	0
+FEVER003142	0	Dracula is a novel by a Scottish author.	1
+FEVER003143	0	Frank Zappa's debut album is not Freak Out!.	1
+FEVER003144	0	Tom Hiddleston has yet to appear in a Jim Jarmusch film.	1
+FEVER003146	0	The University of Oxford operates the largest university press in the world.	0
+FEVER003147	0	T-Pain is an American citizen.	0
+FEVER003148	0	Rob Lowe was in the cast of The West Wing.	0
+FEVER003149	0	George R. R. Martin writes exclusively non-fiction.	1
+FEVER003150	0	Nick Nolte starred in The Good Thief.	0
+FEVER003151	0	Calvin Harris is a singer and songwriter.	0
+FEVER003153	0	Chicago grew rapidly.	0
+FEVER003154	0	The Prestige was nominated for multiple Academy Awards.	0
+FEVER003156	0	Google Home's design received unanimous criticism.	1
+FEVER003159	0	Chris Hardwick wasn't involved in Singled Out.	1
+FEVER003160	0	The Houston Rockets have won zero Western Conference titles.	1
+FEVER003161	0	Collision Course is an EP by a single person.	1
+FEVER003162	0	Morgan Freeman is incapable of being part of The Lego Movie.	1
+FEVER003163	0	Kenny Rogers released the song, The Gambler.	0
+FEVER003164	0	Hilda Ellis Davidson wrote about Germanic paganism in France.	0
+FEVER003165	0	Loving was incapable of starring American actors.	1
+FEVER003166	0	The Great Waldo Pepper's cast included Robert Redford.	0
+FEVER003167	0	Centralia, Pennsylvania had a coal mine fire.	0
+FEVER003168	0	Amaze Entertainment developed games.	0
+FEVER003169	0	There is an opiate called heroin.	0
+FEVER003171	0	Ryan Gosling raises awareness about conflicts in multiple regions.	0
+FEVER003173	0	Corpse Bride had Helena Bonham Carter in it.	0
+FEVER003174	0	Sriti Jha wrote the book Pragya.	1
+FEVER003175	0	Zeus was the king of pants.	1
+FEVER003176	0	Hannah Simone was an animal.	1
+FEVER003177	0	The Foo Fighter's seventh studio album is called Wasting Light.	0
+FEVER003178	0	Bridge of Spies was only co-produced by Donald Trump.	1
+FEVER003179	0	La La Anthony was born on July 2nd, 1999.	1
+FEVER003181	0	James Marsden appeared in a work.	0
+FEVER003185	0	Snoop Dogg is from the West Coast.	0
+FEVER003186	0	Each jackfruit is made of more than a hundred flowers.	0
+FEVER003187	0	The Nile drains through Tanzania.	0
+FEVER003190	0	Randy Orton is a professional wrestler.	0
+FEVER003191	0	You Can Count on Me had Laura Linney in it.	0
+FEVER003192	0	Daniel Craig has been surpassed by Roger Moore in playing Bond.	0
+FEVER003193	0	Drama school offers Bachelor of Design.	0
+FEVER003194	0	Gregor Clegane has a nickname.	0
+FEVER003195	0	System of a Down toured as a band.	0
+FEVER003203	0	Blake Edwards started as an actor.	0
+FEVER003204	0	Honey to the B was the first album of an English actress.	0
+FEVER003205	0	For his role in the movie A Beautiful Mind Russell Crowe was given awards.	0
+FEVER003207	0	Archie Panjabi was nominated for an award bestowed by the members of the Hollywood Foreign Press Association.	0
+FEVER003208	0	Carrie Fisher talked about her experiences with drug addiction.	0
+FEVER003210	0	There are featured guest artists in The Fall (Gorillaz album).	0
+FEVER003211	0	Ready Player One was sold to a publisher.	0
+FEVER003212	0	Con Man (web series) is a web series.	0
+FEVER003213	0	Braveheart has never won an Academy Award.	1
+FEVER003214	0	Mr. Sunshine finished on April 6.	0
+FEVER003216	0	Jared Kushner refuses to be a developer of real estate.	1
+FEVER003217	0	Jerry Goldsmith collaborated with Robert Wise, Howard Hawks, Otto Preminger, Joe Dante, Richard Donner, Roman Polanski, Ridley Scott, Michael Winner, Steven Spielberg, Paul Verhoeven, and Franklin J. Schaffner.	0
+FEVER003218	0	James A. Woods starred in a comedy film that won Best Director for The Comedy Festival.	0
+FEVER003220	0	Connaught Tunnel is in British Columbia.	0
+FEVER003221	0	Lymelife is a comedy-drama podcast.	1
+FEVER003223	0	Usain Bolt has won the Olympic 100 m title.	0
+FEVER003224	0	Hate group only practices peace.	1
+FEVER003225	0	Impeachment is only a formal phrasing of charges.	0
+FEVER003226	0	One of Spider-Man 3's producers was an Israeli-American businessman.	0
+FEVER003227	0	The only album Britney Spears released in 2001 was titled Jeff.	1
+FEVER003228	0	Steve McQueen was in a movie.	0
+FEVER003232	0	The United States is partially in the Northern Hemisphere.	0
+FEVER003233	0	British Airways (BA) is the largest airline in the United Kingdom based on number of planes.	0
+FEVER003234	0	Abraham Lincoln was assassinated.	0
+FEVER003236	0	Google Home is a smart speaker by Google.	0
+FEVER003237	0	Kirk Douglas acted in Lonely Are the Brave.	0
+FEVER003238	0	Mrigayaa has yet to win at least one award for acting.	1
+FEVER003239	0	David Thewlis was born on March 20th, 1963.	0
+FEVER003240	0	The Shining does not star Jack Nicholson.	1
+FEVER003241	0	A listed highest-paid player was listed as David Beckham.	0
+FEVER003242	0	The Santos FC is a club.	0
+FEVER003243	0	Lee Majors is an actor in movies.	0
+FEVER003244	0	Will Ferrell penned Talladega Nights with Adam McKay.	0
+FEVER003245	0	Elvis was co-produced by a man.	0
+FEVER003246	0	Jeff Ament is a member of a band.	0
+FEVER003247	0	The number of new cases of shingles per year ranges from 3.9–11.8 per 1,000 among those older than 65 years of age.	1
+FEVER003249	0	Iron Fist is based on the DC Comics character.	1
+FEVER003250	0	Thomas DeSimone was Irish.	1
+FEVER003251	0	Audrey Hepburn starred in a movie.	0
+FEVER003252	0	Hunter S. Thompson traveled to South America.	0
+FEVER003253	0	Ray Milland acted in the film The Big Clock.	0
+FEVER003254	0	Trumbo starred Bryan Cranston.	0
+FEVER003255	0	Didier Drogba is ranked fourth all-time top scorer.	0
+FEVER003257	0	Nerrukku Ner was written and directed by Vasanth.	0
+FEVER003258	0	Tardigrades have eight legs.	0
+FEVER003259	0	Hayden Panettiere starred as Sheryl Yoast in the motion picture Remember the Titans.	0
+FEVER003261	0	Yeh Dillagi was Akshay Kumar and Saif Ali Khan's first film acting together.	0
+FEVER003262	0	Beastie Boys released their first EP in 1982.	0
+FEVER003263	0	Rob Lowe was in the cast of Brothers and Sisters.	0
+FEVER003264	0	Will Ferrell is considered part of a group with Jack Black.	0
+FEVER003265	0	Glenn Close won a Tony Award.	0
+FEVER003266	0	The Long Run was co-written by Don Henley and Glenn Frey.	0
+FEVER003267	0	Kaakha Kaakha was released in 2003.	0
+FEVER003268	0	Jackie Chan directs films.	0
+FEVER003269	0	The Wolf of Wall Street (2013 film) was not released in 2013.	1
+FEVER003270	0	Eddie Vedder was the tympanist of Pearl Jam.	1
+FEVER003271	0	The United States's population is 100% of the world total.	1
+FEVER003272	0	In 2003, 2004, 2006, and 2016, Gianluigi Buffon was voted into the UEFA Team of the Year.	0
+FEVER003273	0	Radiohead pioneered derivative release platforms.	1
+FEVER003274	0	TD Garden hosted three games of the 2008 NFL Playoffs.	0
+FEVER003277	0	The Sopranos premiered on the big screen.	1
+FEVER003278	0	Harry Potter was written by a British author.	0
+FEVER003279	0	Pixar was not funded by an American industrial designer.	1
+FEVER003281	0	Las Vegas is a city in Nevada.	0
+FEVER003283	0	Gayathri Raguram started out in a film.	0
+FEVER003284	0	Tropic Thunder was produced by Red Hour Films.	0
+FEVER003287	0	Sofia Coppola only works in television.	1
+FEVER003289	0	Bentley markets SUVs.	0
+FEVER003290	0	New England is the site of the Salem witch trials.	0
+FEVER003291	0	Cry Freedom was shot on location in Zimbabwe and Kenya.	0
+FEVER003294	0	Jerry Goldsmith collaborated with Steven Spielberg.	0
+FEVER003295	0	Two people contributed to writing Legion.	0
+FEVER003297	0	Assassin's Creed is not a video game series.	1
+FEVER003298	0	Lily Collins portrayed a character.	0
+FEVER003299	0	Dumb and Dumber spawned a Hanna-Barbara-produced animated series.	0
+FEVER003300	0	Beverly Hills, 90210 addressed numerous topical issues.	0
+FEVER003301	0	Carole King is an American.	0
+FEVER003302	0	Movies are a popular culture category.	0
+FEVER003305	0	Heather Watson was awarded her first WTA singles title on October 14, 1912.	1
+FEVER003306	0	The Hermetic Order of the Golden Dawn was devoted to the study of paranormal activities.	0
+FEVER003307	0	Maggie Smith was nominated for Othelllo (1965).	0
+FEVER003310	0	Antonio Vivaldi was 100% Swedish.	1
+FEVER003311	0	House of 1000 Corpses is incapable of being released.	1
+FEVER003314	0	Werner Herzog is a German producer.	0
+FEVER003315	0	The Himalayas has some of its mountains in Bhutan.	0
+FEVER003317	0	The Voice is a singing competition.	0
+FEVER003318	0	Anne Hathaway won an award.	0
+FEVER003319	0	Bob Dylan has been nominated for an award.	0
+FEVER003320	0	Nina Simone was born under a different name.	0
+FEVER003321	0	Emmanuel Adebayor plays for a Turkish club.	0
+FEVER003322	0	Lonesome Dove (miniseries) had seven wins at the 1980 Emmy Awards.	1
+FEVER003323	0	Lonesome Dove won a Golden Globe for Best Director.	1
+FEVER003324	0	Wolverine is exclusively a film character.	1
+FEVER003325	0	The Long Run was a song recorded by the Eagles.	0
+FEVER003326	0	Kuala Lumpur is in Malaysia.	0
+FEVER003328	0	Florida is between the Gulf of Mexico, the Atlantic Ocean, and the Straits of Florida.	0
+FEVER003329	0	Mike Tyson gave up professional boxing in 2006.	0
+FEVER003330	0	Jeff Bezos is the fifth-richest person in the world.	1
+FEVER003331	0	Kajal Aggarwal starred in a 2010 thriller.	0
+FEVER003333	0	Philadelphia is the birthplace of a branch of the United States Military.	0
+FEVER003338	0	Rogue is a character.	0
+FEVER003340	0	Gorillaz's fifth studio album was released in 2016.	1
+FEVER003343	0	Ben Affleck has only ever appeared on the network CBS.	1
+FEVER003345	0	"Eat Pray Love is based on the memoir ""Eat, Pray, Love"" by Elizabeth Gilbert."	0
+FEVER003347	0	Hot was by an English television personality.	0
+FEVER003348	0	Jean-Claude Van Damme was born in the 1960's.	0
+FEVER003351	0	Dragon is related to a Latin word.	0
+FEVER003352	0	Moana is a musical.	0
+FEVER003354	0	Dr. Dre's income in 2014 has only been estimated at below $1 million.	1
+FEVER003355	0	The film Dunkirk features Harry Styles.	0
+FEVER003356	0	Thirteen Reasons Why is reviewed by RazorBill.	1
+FEVER003359	0	Lindsay Lohan began her career as a child fashion model.	0
+FEVER003360	0	Ethan Hawke acted in a romance trilogy.	0
+FEVER003361	0	Deadpool 2 featured Ryan Reynolds, Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, Leslie Uggams, Brianna Hildebrand, and Stefan Kapičić.	0
+FEVER003364	0	Peter Capaldi received four British Academy Television Award nominations.	0
+FEVER003365	0	Laurence Fishburne portrayed a character.	0
+FEVER003366	0	David Thewlis is not an English director.	1
+FEVER003368	0	Queen Latifah has appeared in the film Taxi.	0
+FEVER003369	0	Sharon Tate was a person.	0
+FEVER003370	0	Robin was murdered by the Joker.	0
+FEVER003371	0	Never Go Back's author is Lee Child.	0
+FEVER003373	0	Donnie Wahlberg is an American actor.	0
+FEVER003374	0	San Francisco was founded in California.	0
+FEVER003375	0	The plays of William Shakespeare have been translated into every major living language.	0
+FEVER003376	0	Neil Young holds no rank in the Order of Canada.	1
+FEVER003377	0	Singapore has a low level of press freedom.	0
+FEVER003378	0	Katie Holmes' birthday is December 18, 1978.	0
+FEVER003379	0	Morgan Freeman is incapable of being part of Deep Impact.	1
+FEVER003382	0	Game of thrones won Outstanding Drama Series in 2015 and 2016.	0
+FEVER003383	0	Song Sung Blue was recorded by a dog.	1
+FEVER003384	0	The Big Trail was released in 1930.	0
+FEVER003385	0	Glee was airing in 2011.	0
+FEVER003386	0	Machete appears in the four Avengers films.	1
+FEVER003387	0	Baahubali: The Beginning is a historical documentary film.	1
+FEVER003389	0	Davis Guggenheim is a producer.	0
+FEVER003390	0	The Place Beyond the Pines is an American crime drama film.	0
+FEVER003391	0	The Chelsea F.C. is a baseball team.	1
+FEVER003392	0	Randy Orton wrestled WWE world champions.	0
+FEVER003394	0	Led Zeppelin released their first album in 1669.	1
+FEVER003395	0	Paul Newman died in 2008.	0
+FEVER003397	0	Peter Davison has never starred in a situational comedy.	1
+FEVER003398	0	Sammy Cahn died November 15, 1993.	1
+FEVER003399	0	Michael Gambon is an award-winning actor.	0
+FEVER003400	0	Alex Rodriguez played baseball.	0
+FEVER003401	0	George Clooney works in the film industry as an actor and director.	0
+FEVER003402	0	Elizabeth Taylor starred in films.	0
+FEVER003403	0	Adam Sandler founded a production company known for its comedy films.	0
+FEVER003407	0	Funny or Die produces a show.	0
+FEVER003408	0	Albania has health care.	0
+FEVER003410	0	The estimated GDP of Lahore is $58.14 Billion.	0
+FEVER003411	0	The animated film The Incredibles was nominated for five Academy Awards but lost in each category.	1
+FEVER003412	0	Marlon Brando had a role in The Missouri Breaks.	0
+FEVER003413	0	John Nash designed Buckingham Palace for England.	0
+FEVER003414	0	Frank Sinatra received critical acclaim for his performance in The Manchurian Candidate.	0
+FEVER003415	0	At least one type of film is a division of Davis Entertainment.	0
+FEVER003416	0	American Gods (TV series) has one showrunner, whose name is Greg Berlanti.	1
+FEVER003417	0	Hansel and Gretel is also known as Little Brother and Little Sister.	0
+FEVER003418	0	Pablo Fenjves ghostwrote for a comedian.	0
+FEVER003419	0	Josh Duhamel has a middle name.	0
+FEVER003422	0	VHS received development in the 70s.	0
+FEVER003423	0	Grace VanderWaal is an American singer-songwriter from New York.	0
+FEVER003425	0	The National Council for Peace and Order was formed in May.	0
+FEVER003426	0	Hong Kong is a part of the WTO.	0
+FEVER003428	0	Dallol, Ethiopia has been described as a ghost town.	0
+FEVER003429	0	Elton John was inducted into a Hall of Fame.	0
+FEVER003430	0	Helen Hunt produced and James L. Brooks directed Then She Found Me.	1
+FEVER003431	0	The Flash's third season came out in 2016.	0
+FEVER003433	0	Floyd Mayweather Jr. is an American promoter.	0
+FEVER003434	0	Inhumans are the basis of a recorded work.	0
+FEVER003435	0	Olivia Wilde is a German.	1
+FEVER003437	0	Gendry first appeared in 1996's A Game of Thrones.	0
+FEVER003439	0	Robert Duvall has been nominated for awards.	0
+FEVER003440	0	The United States was included in the 19th G7 summit.	0
+FEVER003442	0	The Hateful Eight is a Tarantino movie.	0
+FEVER003443	0	Claudia Leitte is Brazilian.	0
+FEVER003444	0	David Carradine was nominated for a Golden Globe Award in the category of Best Supporting Actor.	0
+FEVER003446	0	Charles, Prince of Wales was the first grandchild of Queen Elizabeth.	0
+FEVER003447	0	Basketball is a musical.	1
+FEVER003448	0	South Park episodes have had some level of writing and production.	0
+FEVER003449	0	Michael Jackson had albums that became world-wide best-sellers.	0
+FEVER003450	0	Heartbreak Ridge was released in 1986.	0
+FEVER003451	0	The Golden Girls stars Rue McClanahan as Blanche Devereaux.	0
+FEVER003453	0	Keisuke Honda is known for his accuracy.	0
+FEVER003454	0	Quentin Tarantino was the lead actor in My Best Friend's Birthday.	1
+FEVER003455	0	The Hangover Part III includes actors.	0
+FEVER003457	0	Stone Temple Pilots had an original member that was born on August 23, 1966.	1
+FEVER003458	0	Lymph nodes are major sites of B lymphocytes.	0
+FEVER003462	0	Supernatural (U.S. TV series) became part of The CW's schedule.	0
+FEVER003465	0	Legion is played by Dan Stevens.	0
+FEVER003466	0	The Fate of the Furious premiered in a capital of a place.	0
+FEVER003468	0	Jules Dumont d'Urville died on May 8, 1842.	0
+FEVER003469	0	Shakira has an eighth album.	0
+FEVER003470	0	The Berlin Wall symbolized the border between Western Europe and the Eastern Bloc after World War II.	0
+FEVER003473	0	Tiger Woods is a professional athlete.	0
+FEVER003475	0	Gimli is the only character from The Lord of the Rings.	1
+FEVER003476	0	The Matrix Revolutions was written by Quentin Tarantino.	1
+FEVER003477	0	Alex Sharp was in a Broadway show.	0
+FEVER003478	0	Winnie Harlow was a contestant on the 21st cycle of America's Next Top Model.	0
+FEVER003479	0	Tom Cruise stars in the 1990 film Rain Man.	1
+FEVER003483	0	John Malkovich starred in Ripley's Game.	0
+FEVER003484	0	Davis Entertainment's divisions only produce television projects.	1
+FEVER003486	0	Prometheus is a motion picture.	0
+FEVER003487	0	Abraham Lincoln concentrated on certain dimensions of a conflict.	0
+FEVER003488	0	Cheaper by the dozen is a title.	0
+FEVER003489	0	Emma Thompson was never married to Kenneth Branagh.	1
+FEVER003490	0	Father of the Bride is a 1991 American comedy film.	0
+FEVER003493	0	Her was released in May of 2013.	1
+FEVER003494	0	Slang is a popular culture category.	0
+FEVER003495	0	The rival party of the Democratic Party is the Republican Party.	0
+FEVER003496	0	Cristiano Ronaldo has scored more goals for Portugal than any other player.	0
+FEVER003497	0	South America was colonized by various European powers.	0
+FEVER003498	0	Gregory Peck appeared in Spellbound.	0
+FEVER003499	0	American Horror Story's first season did not take place in California.	1
+FEVER003500	0	Clubber Lang was in Rocky I.	1
+FEVER003501	0	Franklin D. Roosevelt died in 1882.	1
+FEVER003502	0	The United States Naval Academy is in the Wyoming state capital.	1
+FEVER003503	0	Andy Samberg voice acted in Hotel Transylvania 2.	0
+FEVER003504	0	Matt Damon acted in Behind the Candelabra.	0
+FEVER003505	0	Hopman Cup has been attended by his first wife Lucy.	1
+FEVER003506	0	Boomerang (1992 film) was released on July 1st, 1992.	0
+FEVER003507	0	Usher released an album in 1997.	0
+FEVER003508	0	The World Senior Chess Championship is a chess competition.	0
+FEVER003509	0	Hungary is bordered by Romania.	0
+FEVER003510	0	Nigeria has approximately 184 thousand inhabitants.	1
+FEVER003511	0	Aneurin Barnard's birth date is a date other than May 8th.	1
+FEVER003512	0	Crystal Palace F.C. is a science club.	1
+FEVER003514	0	Montreal is legally French-speaking.	0
+FEVER003515	0	Kobe Bryant has never played in the NBA.	1
+FEVER003516	0	Bravo's The 100 Funniest Movies list ranks Sister Act among them.	0
+FEVER003517	0	Ron Perlman is an American actor.	0
+FEVER003519	0	"Amitabh Bachchan was never referred to as ""Big B""."	1
+FEVER003520	0	Dean Martin was not an Italian-American singer.	0
+FEVER003521	0	Seattle's first major industry was logging.	0
+FEVER003523	0	War Dogs stars an actor.	0
+FEVER003524	0	Cougar Town premiered in 2009.	0
+FEVER003525	0	Genghis Khan's children had sons.	0
+FEVER003526	0	Tanzania is a highly multilingual island.	1
+FEVER003529	0	Time Lords traditionally believe in neutrality.	0
+FEVER003532	0	Some filming for Arrested Development occurred in Culver City.	0
+FEVER003533	0	Jesus was a leader of a religion.	0
+FEVER003534	0	Frank Ocean released albums.	0
+FEVER003535	0	Anaheim, California is the 10th most populous city in Virginia.	1
+FEVER003537	0	Bruce Lee was in The Big Boss, Fist of Fury, Golden Harvest, Way of the Dragon, Enter the Dragon, and The Game of Death.	0
+FEVER003538	0	Neil Patrick Harris quit stage acting in 2005.	1
+FEVER003539	0	Glenn Close was in neither plays nor musicals.	1
+FEVER003540	0	J.Lo (album) includes the 2001 song Play.	0
+FEVER003541	0	David Carradine's career spanned 40 years.	1
+FEVER003543	0	Elisabeth Sladen semi-retired to bring up a family.	0
+FEVER003544	0	Bonnie Hunt was in Grand.	0
+FEVER003546	0	The United Kingdom is a developed nation.	0
+FEVER003547	0	Gunday is a film.	0
+FEVER003549	0	Patton Oswalt voice acted.	0
+FEVER003550	0	Jackie Chan has an acting career.	0
+FEVER003551	0	Plato innovated stuff.	0
+FEVER003552	0	Oakland, California is a city.	0
+FEVER003553	0	Labor Pains was released on Blu-Ray.	0
+FEVER003554	0	Elementary has the actor Jon Michael Hill.	0
+FEVER003555	0	Guardians of the Galaxy is a superhero film.	0
+FEVER003556	0	Life After Death is by The Notorious B.I.G.	0
+FEVER003557	0	John Malkovich was the main character in The Killing Fields.	0
+FEVER003558	0	The USS Constitution was a naval submarine.	1
+FEVER003559	0	John F. Kennedy was not the president of the United States of America.	1
+FEVER003561	0	Frank Sinatra acted in The Man with the Golden Arm.	0
+FEVER003562	0	Lana Del Rey released a short film Tropico.	0
+FEVER003564	0	The most dominant ice hockey teams are from five continents.	0
+FEVER003565	0	Bridget Moynahan pursued a career in modeling.	0
+FEVER003568	0	Miranda Kerr represented a department store chain.	0
+FEVER003570	0	The protector of young girls was called Artemis.	0
+FEVER003571	0	Patrick Wilson was born in the 1970's.	0
+FEVER003572	0	John Kiffmeyer is an artist.	0
+FEVER003574	0	Loki is the father of Farbauti and Laufey.	1
+FEVER003576	0	Selena Gomez was in Wizards of Waverly Place.	0
+FEVER003577	0	The Long Run is an artist.	1
+FEVER003578	0	Usher was raised in Tennessee.	0
+FEVER003579	0	Anne Hathaway is a singer.	0
+FEVER003580	0	The Kathiawar peninsula is where Gujarat is located.	0
+FEVER003581	0	To Kill a Mockingbird completely avoids the theme of the destruction of innocence.	1
+FEVER003582	0	Ethan Hawke is an acrobat.	1
+FEVER003583	0	Steve McQueen worked in the film industry.	0
+FEVER003584	0	Scarlett Johansson has yet to release the album Break Up.	1
+FEVER003585	0	Memorial Day is observed in May.	0
+FEVER003586	0	Planet of the Apes' filming took place in 1967.	0
+FEVER003589	0	Bruce Willis is a director.	1
+FEVER003590	0	The historical play Richard III is the longest play in the First Folio of Shakespeare's plays.	0
+FEVER003591	0	24 is a 2010 film.	1
+FEVER003592	0	Suicide Kings is an American 1997 film.	0
+FEVER003593	0	Get Out stars an actor.	0
+FEVER003594	0	Daniel Craig starred in a science fiction film in his teens.	1
+FEVER003595	0	Aspen, Colorado is where John Denver has lived most of his life.	0
+FEVER003597	0	Muhammad was persecuted by some Meccan groups.	0
+FEVER003599	0	Cary Grant has only ever been featured in the film Bridge to Terabithia.	1
+FEVER003600	0	Telangana is a southern Indian state.	0
+FEVER003601	0	Lonesome Dove is the first installment in the Lonesome Dove series.	0
+FEVER003602	0	The Crazies (2010 film) was reviewed by people.	0
+FEVER003603	0	Joan of Arc was declared a national symbol in the United States.	1
+FEVER003604	0	Anderson Silva is a martial artist.	0
+FEVER003605	0	Sonny with a Chance was on Disney Channel.	0
+FEVER003606	0	Major League Soccer is a sports league.	0
+FEVER003609	0	2001: A Space Odyssey was edited using the studio facilities of the MGM-British Studios.	0
+FEVER003610	0	Al Gore is a former United States President.	1
+FEVER003611	0	The Academy Honorary Award is given by the president.	1
+FEVER003613	0	Egypt is a city.	1
+FEVER003614	0	Monica Seles was a citizen of multiple countries.	0
+FEVER003615	0	Jimmy Carter was not a Democratic Presidential Candidate.	1
+FEVER003616	0	Ken Russell directed a film that was adapted from a novel by Paddy Chayefsky.	0
+FEVER003617	0	Love Actually is a 2003 romantic film.	0
+FEVER003618	0	Samuel Witwer has yet to act.	1
+FEVER003620	0	Top Dawg Entertainment is the label to which Kendrick Lamar initially signed.	0
+FEVER003621	0	Ron Cobb is a film designer.	0
+FEVER003622	0	Andre Agassi is a tennis player.	0
+FEVER003623	0	There are Western Romance Languages.	0
+FEVER003624	0	J.Lo (album) was recorded by American singer Jennifer Lopez.	0
+FEVER003625	0	Angela Lansbury was part-owner of Corymore Productions.	0
+FEVER003626	0	Andrew Jackson was the first President of the United States.	1
+FEVER003628	0	Snoop Dogg coaches a youth football league.	0
+FEVER003629	0	U2 did not have a reputation as a politically and socially conscious group.	1
+FEVER003630	0	On November 30, 1993, Schindler's List premiered.	0
+FEVER003631	0	Grace and Frankie is a show Jane Fonda was in.	0
+FEVER003633	0	Room 93 is a comic book.	1
+FEVER003634	0	Apocalypse Now was released in 1979.	0
+FEVER003636	0	Harry Potter is based on J.K. Rowling novels.	0
+FEVER003637	0	Christina Aguilera is a performer of music.	0
+FEVER003638	0	Reba McEntire is exclusively a doctor.	1
+FEVER003639	0	BYD Auto is only a consulting firm from Japan.	1
+FEVER003640	0	North Korea is bordered by the Republic of Yugoslavia.	1
+FEVER003641	0	Harold Ramis was a director.	0
+FEVER003642	0	Taipei is the center of Taiwan.	0
+FEVER003644	0	Eric Trump is the child of a man born in June.	0
+FEVER003645	0	Hamlet (1990 film) was directed by Tim Burton.	1
+FEVER003646	0	Helen Keller had membership with the Socialist Party of America.	0
+FEVER003647	0	24 aired 192 episodes over 8 seasons.	0
+FEVER003649	0	A block is also called something else.	0
+FEVER003650	0	Daddy Yankee's given name is Ramón.	0
+FEVER003651	0	Romelu Lukaku's position is striker.	0
+FEVER003652	0	Romy and Michele's High School Reunion had Lisa Kudrow in it.	0
+FEVER003654	0	Al Capone died.	0
+FEVER003655	0	Kit Harington, Sophie Turner, and Maisie Williams were all part of the cast during the first season of Game of Thrones.	0
+FEVER003656	0	Jared Kushner is a developer of real estate.	0
+FEVER003657	0	The New York Times has been continuously published since 1851.	0
+FEVER003658	0	Billie Jean King is a former World No. 1 professional tennis player.	0
+FEVER003659	0	Richard Harris was a singer.	0
+FEVER003662	0	Billy Bob Thornton appeared in a film based on a novel.	0
+FEVER003667	0	Adderall's active ingredient is pear.	1
+FEVER003668	0	Game of Thrones (season 1) featured stage actor Iain Glen.	0
+FEVER003669	0	Top of the Lake stars Elisabeth Moss as Detective Robin Griffin.	0
+FEVER003670	0	Elise Neal has yet to be in The Hughleys.	1
+FEVER003671	0	Anna Kendrick made her film debut in a comedy.	0
+FEVER003672	0	Josh Homme is a singer.	0
+FEVER003673	0	Zeus has siblings.	0
+FEVER003674	0	Gene Hackman appeared in a 2004 film.	0
+FEVER003676	0	Jimmy Wales was born in 1966.	0
+FEVER003678	0	Venus is the fourth planet from the Sun.	1
+FEVER003679	0	Macbeth is not a play.	1
+FEVER003681	0	Dangerously in Love sold 317,000 digital copies in its first week.	0
+FEVER003682	0	Arsenic and Old Lace was completed in the 1930s.	1
+FEVER003684	0	Tom Cruise was in a film categorized as romance.	0
+FEVER003685	0	Gimli is from the fantasy setting Middle-earth.	0
+FEVER003687	0	Oliver Reed was an actor in a movie in 1975.	0
+FEVER003689	0	Geraldine Chaplin was a person with a professional vocation.	0
+FEVER003692	0	Allen Iverson was 6 inches tall.	1
+FEVER003693	0	Tall Story was directed by Joshua Logan in 1959.	1
+FEVER003694	0	June is the month when the principal photography of Vantage Point (film) began.	0
+FEVER003696	0	Ayn Rand opposed control of economic policy.	0
+FEVER003698	0	Tidewater region is in two southern states.	0
+FEVER003699	0	July 21 was the premiere date of Rescue Me.	0
+FEVER003702	0	The Twelfth Doctor is from a long-running television show.	0
+FEVER003703	0	The Mughal Empire had territory nowhere.	1
+FEVER003704	0	Las Vegas is a city with the highest population in Nevada.	0
+FEVER003705	0	The Magna Carta was typically renewed by each politician.	1
+FEVER003706	0	Peyton Manning is the male offspring of a quarterback who played in the NFL.	0
+FEVER003707	0	Apple buys personal computers.	1
+FEVER003710	0	2001: A Space Odyssey was financed by Lord Voldemort.	1
+FEVER003711	0	Boston has nearly 2,000 startups.	0
+FEVER003712	0	John Cena is a person.	0
+FEVER003713	0	Michelle Rodriguez worked in Call of Duty.	0
+FEVER003714	0	Split (2016 American film) stars an American actress.	0
+FEVER003715	0	Vladimir Putin achieved success with 64% of the vote.	0
+FEVER003720	0	The Illuminati have been included in written works.	0
+FEVER003721	0	Above the Law was released before 1990.	0
+FEVER003722	0	James A. Woods starred in a film that won an award at The Comedy Festival.	0
+FEVER003724	0	James Arness died in 2010.	1
+FEVER003725	0	Black Sabbath are often cited as pioneers of a genre of pop music that developed in the late 1960s and early 1970s.	0
+FEVER003727	0	Daddy Yankee has only English heritage and only ever lived in England.	1
+FEVER003729	0	Andorra borders only land.	0
+FEVER003730	0	Winston is John Lennon's middle name.	0
+FEVER003731	0	Natalie Wood's birthday is July 20, 1938.	0
+FEVER003732	0	Greyson Chance is Canadian.	1
+FEVER003734	0	Daft Punk received positive reviews for their album.	0
+FEVER003736	0	Season three of Game of Thrones is not based on a novel.	0
+FEVER003738	0	Seth Rogen was hired to be a staff member.	0
+FEVER003740	0	A loss of supply can require a prime minister to seek a parliamentary dissolution by either constitutional convention or explicit constitutional instruction.	0
+FEVER003741	0	Kris Wu is a Canadian thespian.	0
+FEVER003742	0	Lily Collins was named One to Watch.	0
+FEVER003743	0	The United Kingdom is a member of no organizations.	1
+FEVER003744	0	Christina Applegate spent her entire career as a computer scientist.	1
+FEVER003745	0	There is a 1973 American film called Paper Moon (film).	0
+FEVER003746	0	Zinedine Zidane was a footballer for Real Madrid.	0
+FEVER003748	0	One example of a staple food are breadfruit.	0
+FEVER003749	0	Glen Campbell has won awards.	0
+FEVER003750	0	Telangana contains a city.	0
+FEVER003752	0	Spider-Man 3 included at least three characters.	0
+FEVER003753	0	Xbox One contains support for 4K video playback and upscaling.	0
+FEVER003755	0	Justin Timberlake voiced Branch in a DreamWorks Animation film.	0
+FEVER003756	0	Tony Blair was elected in the nineteen nineties.	0
+FEVER003758	0	"Mariah Carey is referred to as the ""bird supreme"" by the Guinness World Records."	0
+FEVER003759	0	Snoop Dogg was involved with an American record label	0
+FEVER003760	0	David Tennant received a National Television Award.	0
+FEVER003761	0	Kevin Kline stars in As You Like It.	0
+FEVER003762	0	Zhou Enlai was insignificant in consolidating the Communist Party's control.	1
+FEVER003763	0	The Togo national football team attack involved Emmanuel Adebayor.	0
+FEVER003765	0	Joe Manganiello has worked with Arnold Schwarzenegger.	0
+FEVER003768	0	Me Before You has scenes set at Pembroke Castle in Wales and Chenies Manor House in England.	0
+FEVER003770	0	Annie Parisse was selected for the nominated Daytime Emmy Award.	0
+FEVER003773	0	Lightning rods can be made from copper.	0
+FEVER003774	0	Jessica Chastain was in a movie.	0
+FEVER003775	0	Iceland has a diverse economy.	0
+FEVER003776	0	Nepal does not have an ancient confederation called Nepal Mandala.	1
+FEVER003778	0	In 1937, Saddam Hussein was born.	0
+FEVER003779	0	Narendra Modi has not been held legally accountable.	0
+FEVER003780	0	Emily Blunt is an entertainer.	0
+FEVER003781	0	Dominick Dunne was involved in the television series The Boys in the Band.	1
+FEVER003782	0	The Right Stuff was adapted from Tom Wolfe's book.	0
+FEVER003784	0	Dhoom 3 was spearheaded by an Indian writer.	0
+FEVER003785	0	The Philippines is an emerging market with a transitioning economy.	0
+FEVER003786	0	San Junipero is in the science fiction genre.	0
+FEVER003787	0	Shantel VanSanten has been featured in a publication.	0
+FEVER003788	0	Telangana has a capital.	0
+FEVER003790	0	There is a popular culture category for politics.	0
+FEVER003791	0	Velaiilla Pattadhari 2 is Indian royalty.	1
+FEVER003792	0	Arcade Fire's third studio album was a commercial success.	0
+FEVER003793	0	Goliyon Ki Raasleela Ram-Leela is a crime drama film from 2013.	0
+FEVER003794	0	Jimmy Wales is an American Internet entrepreneur.	0
+FEVER003795	0	Bharat Arun was born in Vijayawada, Andhra Pradesh.	0
+FEVER003796	0	Brentwood, Los Angeles contains no schools.	1
+FEVER003797	0	Tom Morello worked creatively with Audioslave.	0
+FEVER003798	0	Marcus Rashford was named on October.	0
+FEVER003799	0	Mukesh Ambani is a person.	0
+FEVER003800	0	Muhammad spent his whole life in Mecca.	1
+FEVER003801	0	Jesse Eisenberg was employed with Justin Bartha.	0
+FEVER003805	0	Worcester, Massachusetts is west of Boston by 40 mi.	0
+FEVER003806	0	The G20 economies account for 80 % of world trade.	0
+FEVER003807	0	Gwen Stefani has received critical acclaim.	0
+FEVER003808	0	Mark Zuckerberg has some involvement with Facebook.	0
+FEVER003810	0	Directing is a profession of Alfred Hitchcock's.	0
+FEVER003811	0	Frank Sinatra was a singer.	0
+FEVER003813	0	The Incredibles was Brad Bird's second animated film.	0
+FEVER003814	0	Jennifer Grey was in Dirty Dancing.	0
+FEVER003815	0	The Wolf of Wall Street became Scorsese's highest-grossing movie.	0
+FEVER003817	0	Chris Noth was nominated for Best Supporting Actor for Sex and the City in 1999.	0
+FEVER003818	0	Richard III is a play in the First Folio of Shakespeare's plays.	0
+FEVER003819	0	Farrah Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 series The Burning Bed.	1
+FEVER003821	0	The French Open is also called Roland-Garros, the name of a stadium.	0
+FEVER003822	0	Dolly Parton didn't star in Rhinestone.	1
+FEVER003823	0	Xi Jinping was the Vice Chairman of the Central Military Commission from 2010 to 2012.	0
+FEVER003826	0	Game of Thrones (season 3) had 0 episodes.	1
+FEVER003833	0	Joseph Barbera was exclusively Italian.	1
+FEVER003835	0	Gerd von Rundstedt died February 3, 1951.	1
+FEVER003836	0	Jennifer Garner has three kids.	0
+FEVER003837	0	The Boys from Brazil stars Gregory Peck.	0
+FEVER003838	0	David Thewlis was passed over for the role of King Duncan.	1
+FEVER003839	0	The director and star of The Woman in Red is the same person.	0
+FEVER003841	0	My Own Private Idaho premiered at a film festival in November of 1991.	1
+FEVER003842	0	Leonardo da Vinci epitomized the Impressionist humanist ideal.	1
+FEVER003843	0	Roger Moore died in May.	0
+FEVER003844	0	Travis Barker refused to ever join an American rock band.	1
+FEVER003845	0	Taylor Swift was unsuccessful in Australia.	1
+FEVER003846	0	Seattle is in the same region as a tech company's HQ.	0
+FEVER003847	0	American Gods is a syndicated television series.	1
+FEVER003849	0	The Boeing 707 is a large-sized jet airliner.	1
+FEVER003850	0	The English Civil War was between two sides.	0
+FEVER003851	0	Enemy (2013 film) stars Sarah Gadon.	0
+FEVER003852	0	The Entire History of You was written by someone.	0
+FEVER003854	0	The Promise is not set in the Ottoman Empire.	1
+FEVER003856	0	Yangon is in a place also recognized as Burma.	0
+FEVER003858	0	The Royal Pavilion was designed by John Nash.	0
+FEVER003859	0	Mark Cuban is a person who is a philanthropist.	0
+FEVER003860	0	Colm Feore was a cast member in The Chronicles of Riddick.	0
+FEVER003861	0	Connaught Tunnel replaced a historical landmark.	0
+FEVER003862	0	FC Barcelona has won European titles in soccer in international club football.	0
+FEVER003863	0	Cory Monteith played Finn Hudson in Glee.	0
+FEVER003864	0	Margaret Atwood published books of poetry.	0
+FEVER003865	0	Jane Eyre is an adaptation of a novel with the same name.	0
+FEVER003867	0	Canada lacks a constitution.	1
+FEVER003868	0	Matthew Modine played the character Sullivan Groff.	0
+FEVER003869	0	Christopher Lee portrayed Francisco Scaramanga in Star Trek.	1
+FEVER003870	0	Silicon Valley is a county.	1
+FEVER003871	0	Solange Knowles has collaborated with three members of Destiny's Child.	0
+FEVER003872	0	Los Angeles is incorporated as a municipality.	0
+FEVER003874	0	Tubelight is produced by a man.	0
+FEVER003877	0	The Italian language is spoken in a sovereign country in Southeastern Europe.	0
+FEVER003878	0	The Proposal stars Craig T. Nelson as an actor.	0
+FEVER003879	0	Ben Whishaw was in Hamlet, Nathan Barley, Criminal Justice, The Hour, London Spy, Perfume: The Story of a Murderer, I'm Not There, Bright Star, Brideshead Revisited, Cloud Atlas, The Lobster, Suffragette and The Danish Girl.	0
+FEVER003883	0	Robert Downey Jr. was in the film Sherlock Holmes: A Game of Shadows.	0
+FEVER003884	0	Christie Brinkley has been named one of the most attractive women ever by Playboy.	0
+FEVER003885	0	Adventure Time did not win six Primetime Emmy Awards.	1
+FEVER003886	0	Caroline Blakiston stars in a Star Wars movie.	0
+FEVER003888	0	NSAI is an abbreviation of the Nashville Songwriters Association International.	0
+FEVER003889	0	Sharon Tate died on July 9, 1969.	1
+FEVER003890	0	Tate Ellington has yet to appear on television.	1
+FEVER003891	0	Malaysia consists of thirteen states.	0
+FEVER003892	0	Paul Walker was born on September 12th.	0
+FEVER003894	0	The Unabomber is a moniker of Ted Kaczynski.	0
+FEVER003895	0	The Weeknd has an album named Kiss Land.	0
+FEVER003896	0	Portugal shares a border.	0
+FEVER003897	0	Abraham Lincoln was once rivals with Stephen A. Douglas.	0
+FEVER003898	0	Yelp existed in 2005.	0
+FEVER003899	0	Asia is landlocked.	1
+FEVER003901	0	Dragon is a word.	0
+FEVER003902	0	Wes Ramsey is a cast member of The Playboy Club.	0
+FEVER003903	0	Steppe is incapable of being part of the terrain of Kazakhstan.	1
+FEVER003906	0	Olivia Wilde is a director.	0
+FEVER003907	0	Jon Snow is a major fictional person in the book A Dance with Dragons.	0
+FEVER003908	0	Emily Ratajkowski was in The Spoils of Bablyon.	1
+FEVER003910	0	William Jennings Bryan served at least one term as a member of the United States House of Representatives.	0
+FEVER003911	0	July 2007 saw the release of Harry Potter and the Deathly Hallows.	0
+FEVER003914	0	Seinfeld's quotes have not become catchphrases in popular culture.	1
+FEVER003916	0	Las Vegas is renowned around the world.	0
+FEVER003918	0	Lisbon's status as a capital has been officially confirmed.	1
+FEVER003919	0	Seth Rogen is a car.	1
+FEVER003920	0	Paul Wesley appeared in Guiding Light.	0
+FEVER003922	0	The Homesman was directed by Hailee Steinfeld.	1
+FEVER003923	0	Bradford's location is West Yorkshire.	0
+FEVER003924	0	Hulk's worldwide gross was over $245 million.	0
+FEVER003925	0	Justin Timberlake is from the United States and is someone who produces music.	0
+FEVER003926	0	Buddy Holly was a member of The Beatles.	1
+FEVER003927	0	From the Earth to the Moon was created in 1998.	0
+FEVER003928	0	Venus Williams has a sister that plays professional tennis.	0
+FEVER003929	0	Felicity Jones appeared in a 2007 movie.	0
+FEVER003930	0	Thenmerku Paruvakaatru is a Pakistani film.	1
+FEVER003931	0	Pirates of the Caribbean (film series) had a successful film.	0
+FEVER003933	0	Judd Apatow has been nominated for an award.	0
+FEVER003935	0	The Shape of Water (film) is an upcoming American film.	0
+FEVER003936	0	Wuthering Heights featured Laurence Olivier.	0
+FEVER003937	0	Leonardo da Vinci was not an engineer.	1
+FEVER003938	0	One America News Network is the property of Herring Networks, Inc.	0
+FEVER003939	0	50 Cent was ranked as an artist by Billboard.	0
+FEVER003940	0	Jean-Claude Van Damme was born on October 30, 1960.	1
+FEVER003942	0	Selena Gomez's album is called Revival.	0
+FEVER003945	0	Adam West was born in September 1928.	0
+FEVER003947	0	The United States holds a portion of the world's wealth.	0
+FEVER003948	0	Sean Combs was born in New York.	0
+FEVER003951	0	Muhammad Ali was born in 1960.	1
+FEVER003953	0	Willow Smith is a German.	1
+FEVER003954	0	Ray Milland acted in the 1942 film The Major and the Minor.	0
+FEVER003955	0	Schindler's List received an award.	0
+FEVER003957	0	Josh Duhamel is in the film industry as multiple roles.	0
+FEVER003959	0	Odin was known in Old Saxon as Wōdan.	0
+FEVER003963	0	Iran is a sovereign state that still has a large influence.	0
+FEVER003964	0	Valkyrie is set during a war.	0
+FEVER003965	0	There are efforts to prevent dementia.	0
+FEVER003966	0	Inhumans's main character is Black Bolt.	0
+FEVER003967	0	Kirk Douglas has only ever been a plumber his whole life.	1
+FEVER003969	0	Here Comes the Sun was recorded in London in EMI Studios.	0
+FEVER003972	0	Catherine Tregenna worked in the science fiction genre.	0
+FEVER003973	0	Jack Nicholson received the Kennedy Center Honor.	0
+FEVER003974	0	The Proposal stars Craig T. Nelson.	0
+FEVER003975	0	Maya Rudolph appeared in a film.	0
+FEVER003976	0	Just Dance endured just about five months on the Billboard Hot 100.	0
+FEVER003977	0	Despicable Me is not computer-animated.	0
+FEVER003978	0	Seal has sold less than 20 million records worldwide.	1
+FEVER003980	0	Break on Me was released only through Hit Red.	1
+FEVER003982	0	Mike Love created a solo album.	0
+FEVER003983	0	My Own Private Idaho premiered at a film festival in 1991.	0
+FEVER003985	0	Rob Lowe acted in television roles.	0
+FEVER003988	0	Evan Peters is involved with Elvis & Nixon	0
+FEVER003991	0	California has a desert.	0
+FEVER003992	0	There are nine games in the Assassin's Creed series.	0
+FEVER003993	0	Eliza Dushka is an actress.	0
+FEVER003994	0	Death in Paradise has received cast substitutions.	0
+FEVER003996	0	Michael Caine starred in a movie.	0
+FEVER003997	0	Rockefeller University is in New York State.	0
+FEVER003998	0	Jane Lynch is an American comedian.	0
+FEVER003999	0	George Washington lived.	0
+FEVER004000	0	Marilyn Monroe acts professionally.	0
+FEVER004001	0	"Cyndi Lauper released the song ""Girls Just Want to Have Fun"" in 1987."	1
+FEVER004002	0	Deadpool 2 featured Brianna Hildebrand.	0
+FEVER004003	0	Zach Galifianakis was featured in Puss in Boots.	0
+FEVER004004	0	Warren Buffett is an American business magnate.	0
+FEVER004005	0	Muhammad was born in the Arabian city of Mecca in 570CE.	0
+FEVER004006	0	In August 1980, Hannah Simone was born.	0
+FEVER004007	0	Katie Stevens is an American citizen.	0
+FEVER004008	0	Billy Wilder is a director.	0
+FEVER004009	0	Paris Hilton's debut single was a number 15 hit in Scotland.	1
+FEVER004010	0	Arnold Schwarzenegger has zero involvement with film.	1
+FEVER004012	0	Easy A had Lisa Kudrow in it.	0
+FEVER004013	0	Stephon Marbury is a sports player.	0
+FEVER004014	0	Anton Yelchin did not relocate to the United States.	1
+FEVER004015	0	Ron Perlman has a full name.	0
+FEVER004016	0	Ruth Negga is a film actress.	0
+FEVER004020	0	Alexander Hamilton avoided a college that is now called Columbia University.	1
+FEVER004021	0	Cristiano Ronaldo was unathletic.	1
+FEVER004022	0	Bentley only markets planes.	1
+FEVER004026	0	In 1941, the comic book character Green Arrow first appeared.	0
+FEVER004027	0	Venice is located in a tundra.	1
+FEVER004028	0	Bangalore was captured by Europeans.	0
+FEVER004029	0	Johnny Mnemonic is a TV series.	1
+FEVER004030	0	Red Hot Chili Peppers have nothing to do with Los Angeles.	1
+FEVER004031	0	Transformers coordinated releases with comic books, toys, and books.	0
+FEVER004032	0	Tipper Gore was born in August 1948.	0
+FEVER004034	0	The Academy Honorary Award is given by an organization.	0
+FEVER004037	0	The British Academy of Film and Television Arts is an award that Walter Matthau won.	0
+FEVER004038	0	Philadelphia is the center of economic activity for Pennsylvania.	0
+FEVER004041	0	Briana Banks was born in New York on May 21, 1978.	0
+FEVER004043	0	In Her Shoes was released in 2015.	1
+FEVER004047	0	Star Trek had spin-off television series.	0
+FEVER004048	0	Islam is the second-largest religion in the world.	0
+FEVER004051	0	Lyme disease is contagious.	1
+FEVER004052	0	The World Science Festival is New York headquartered.	0
+FEVER004053	0	Red is an action comedy film.	0
+FEVER004054	0	The Beatles started in the 1900's.	1
+FEVER004055	0	Henry V is a television film.	0
+FEVER004056	0	The Flash is an American superhero.	0
+FEVER004058	0	David Schwimmer graduated from Northwestern University.	0
+FEVER004059	0	The Bruins have played games at TD Garden since 1970.	1
+FEVER004060	0	Thomas Haden Church is a director.	0
+FEVER004061	0	Paul Thomas Anderson directed The Master which received polarized reviews.	1
+FEVER004064	0	Bob Arum is the founder of a company based in technology.	1
+FEVER004068	0	The Bourne Supremacy was unable to cast Julia Stiles.	1
+FEVER004070	0	Ryan O'Neal was born on April 20, 1941.	0
+FEVER004071	0	The Crazies was written by a cobra.	1
+FEVER004072	0	RuPaul is not an actor.	1
+FEVER004073	0	Azerbaijan is a place.	0
+FEVER004074	0	The capital of England is the birthplace of Daniel Day-Lewis.	0
+FEVER004076	0	Kung Fu Panda 3 had the involvement from an American actress.	0
+FEVER004077	0	In 2016, A Monster Calls was released.	0
+FEVER004078	0	WeChat is a social media app including chat and payment services.	0
+FEVER004080	0	Hawaii is one of the most densely populated states.	0
+FEVER004081	0	24 is a film.	0
+FEVER004082	0	Vikram appeared in a movie.	0
+FEVER004085	0	A Game of Thrones is incapable of being a novel.	1
+FEVER004086	0	Michael Winterbottom has worked with Paul Popplewell.	0
+FEVER004087	0	Jason Sudeikis is an American and an actor by profession.	0
+FEVER004088	0	Lymelife was directed by Derick Martini.	0
+FEVER004089	0	John Heard did something with Nicolas Cage.	0
+FEVER004091	0	Jim Carrey died 5 years before 2013.	1
+FEVER004092	0	Art Carney was out of Sunburn.	1
+FEVER004093	0	Marilyn Manson plays music.	0
+FEVER004094	0	Robert Chase worked under a fictional character.	0
+FEVER004095	0	Psychological findings link to research and perspectives from natural sciences.	0
+FEVER004097	0	Kiefer Sutherland is a producer.	0
+FEVER004098	0	An animated television series was called The Ren & Stimpy Show.	0
+FEVER004100	0	Stagira is an American city.	1
+FEVER004101	0	Denis Leary has only been a plumber his whole life.	1
+FEVER004102	0	George W. Bush's paternal grandfather was a United States Senator from Connecticut.	0
+FEVER004104	0	Albus Dumbledore works at a school.	0
+FEVER004105	0	Arrested Development follows the Bush family.	1
+FEVER004107	0	Eddie Vedder is a musician.	0
+FEVER004109	0	Broad Green Pictures is a company.	0
+FEVER004110	0	Cristiano Ronaldo was named the best Portuguese athlete of all time.	0
+FEVER004111	0	Black Panther did not come before Luke Cage.	1
+FEVER004112	0	Heather Watson is not from the United Kingdom.	1
+FEVER004113	0	Specific art forms were banned in Nazi Germany.	0
+FEVER004114	0	Junun is a 2012 documentary.	1
+FEVER004115	0	Based on passengers carried, British Airways (BA) is the second largest in the UK coming in behind EasyJet.	0
+FEVER004117	0	Patrick Bateman is a character in fiction.	0
+FEVER004118	0	The Jackson family included La Toya Jackson.	0
+FEVER004120	0	Hannibal had enemies.	0
+FEVER004121	0	John Connally served under President John F. Kennedy as Secretary of the Navy.	0
+FEVER004122	0	Oliver Reed is English.	0
+FEVER004124	0	Saw VI is a 2009 film from America.	0
+FEVER004125	0	Ulysses S. Grant fought the Civil War.	0
+FEVER004126	0	John Bradley-West played the character Samwell Tarly in Game of Thrones.	0

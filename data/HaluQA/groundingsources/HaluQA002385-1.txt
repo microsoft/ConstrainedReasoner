@@ -1,0 +1,1 @@
+OPUS is a rechargeable, contactless stored-value smart card using the Calypso Standard and is used by major public transit operators in Greater Montreal and Quebec City, Quebec, Canada. Contactless payments are made in close physical proximity, unlike mobile payments which use broad-area cellular or WiFi networks and do not involve close physical proximity.

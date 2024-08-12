@@ -1,0 +1,1 @@
+ The game is based on "The Landlord's Game" in the movement of pieces around the board, the use of cards, properties that can be purchased, and houses that can be erected on them. It is a negotiation game in which a group of players compete and cooperate to put together profitable business deals.

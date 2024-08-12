@@ -1,0 +1,1 @@
+ It has automatic and garbage collected memory management and provides soft real-time features and is developed at ETH Zurich.ETH Zurich (Swiss Federal Institute of Technology in Zurich; German: "Eidgenössische Technische Hochschule Zürich" ) is a science, technology, engineering and mathematics university in the city of Zürich, Switzerland.

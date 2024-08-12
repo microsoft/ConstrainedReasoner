@@ -1,0 +1,1 @@
+TVPlayer is a live TV streaming service for users to watch free-to-air channels through their smart devices (Apple TV 4th Generation Only, Amazon Fire TV) desktops, smartphones and tablets. The device also allows users to play video games with the included remote, via a mobile app, or with an optional game controller.
