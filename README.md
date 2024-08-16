@@ -3,7 +3,8 @@
 > This repo contains all the codes and data used in our paper.
 
 ## Introduction
-[slm_llm_hd_new.drawio.pdf](https://github.com/user-attachments/files/16640335/slm_llm_hd_new.drawio.pdf)
+
+![slm_llm_hd_new drawio](https://github.com/user-attachments/assets/0d019a45-6a81-42ab-b352-df60c47b8aec)
 
 Large language models (LLMs) are highly capable but face latency challenges in real-time applications, such as conducting online hallucination detection. To overcome this issue, we propose a novel framework that leverages a small language model  (SLM)  classifier for initial detection, followed by a LLM as constrained reasoner to generate detailed explanations for detected hallucinated content. This study optimizes the real-time interpretable hallucination detection by introducing effective prompting techniques that align LLM-generated explanations with SLM decisions. Empirical experiment results demonstrate its effectiveness, thereby enhancing the overall  user experience.
 
