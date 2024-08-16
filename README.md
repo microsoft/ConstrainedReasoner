@@ -16,11 +16,11 @@ Large language models (LLMs) are highly capable but face latency challenges in r
 Please use the following command install all the required python packages:
 
 ```
-pip install -r ./CoNLI/CoNLI/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### GPT Resource Requirements:
-We leverage [Azure OpenAI Service](https://azure.microsoft.com/en-in/products/ai-services/openai-service/) to conduct the experiment. We `GPT-4 turbo` as our model deployment, set `temperature=0` and `top_p=0.6`. To Avoid sharing key in the repository, we read the key securally from [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/?ef_id=_k_CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE_k_&OCID=AIDcmm5edswduu_SEM__k_CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE), please make sure to assign yourself a role assignment of `Key Vault Secrets User` in IAM, and save your key into the Key Vault Secrets with a `SECRET_NAME`. Then the user should specify the resource details in [aoai_config.json](configs/aoai_config.json) :  
+We leverage [Azure OpenAI Service](https://azure.microsoft.com/en-in/products/ai-services/openai-service/) to conduct the experiment. We use `GPT-4 turbo` as our model deployment, set `temperature=0` and `top_p=0.6`. To Avoid sharing key in the repository, we read the key securally from [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/?ef_id=_k_CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE_k_&OCID=AIDcmm5edswduu_SEM__k_CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjw8fu1BhBsEiwAwDrsjBxgU5RzyeDoQQ0Vn6S6vs-3NJCbkwX7BfsoRT-tZrpAyXipuEXU7hoCsXIQAvD_BwE), please make sure to assign yourself a role assignment of `Key Vault Secrets User` in IAM, and save your key into the Key Vault Secrets with a `SECRET_NAME`. Then the user should specify the resource details in [aoai_config.json](configs/aoai_config.json) :  
 - resource url as "OPENAI_API_BASE"
 - the key vault url as "OPENAI_API_KEY_VAULT". It will work after user login in with az login. 
 - key vault secret_name as: "OPENAI_API_KEY_SECRET"
