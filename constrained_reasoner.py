@@ -37,27 +37,6 @@ from evaluate import load
 class ReasonResult:
     sentence_id: str # sentence id in the transcript
     reason: str # why the sentence is hallucination or not
-class evaluate_nlg():
-    def __init__(self):
-        self.meteor = evaluate.load('meteor')
-        self.bertscore = load("bertscore")
-        self.bleu = evaluate.load("bleu")
-
-    def evaluate(self, predictions, references):
-        '''
-        predictions: a list of predictions to score. Each prediction should be a string with tokens separated by spaces.    
-        references: a list of references (in the case of one reference per prediction), or a list of lists of references (in the case of multiple references per prediction. Each reference should be a string with tokens separated by spaces.
-        METEOR, an automatic metric for machine translation evaluation that is based on a generalized concept of unigram matching between the machine-produced translation and human-produced reference translations. Unigrams can be matched based on their surface forms, stemmed forms, and meanings;
-        '''
-        results = dict()
-        results.update(self.meteor.compute(predictions=predictions, references=references))# returns like {'meteor': 0.6368421052631579}
-        berts = self.bertscore.compute(predictions=predictions, references=references, lang="en")
-        bleus = self.bleu.compute(predictions=predictions, references=references)
-        results['BLEU'] = bleus['bleu']
-        results['BERT_precision_avg'] = sum(berts['precision'])/len(berts['precision'])
-        results['BERT_recall_avg'] = sum(berts['recall'])/len(berts['recall'])
-        results['BERT_f1_avg'] = sum(berts['f1'])/len(berts['f1'])
-        return results
 
 @dataclass
 class HRResult:
