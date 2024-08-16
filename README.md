@@ -1,6 +1,6 @@
 # SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection
 
-> This repo contains all the codes and data used in our paper.
+> This repo contains all the codes and data used in our paper. [TO DO: add paper link]
 
 ## Introduction
 
@@ -43,3 +43,6 @@ Large language models (LLMs) are highly capable but face latency challenges in r
   - Algorithm results are saved as TSV files in the `results` folder. Column "GPTreason" is the generated reasons. 
   - Human reviewers judge the real intention of the generated reasons in the `GPTJudgement` column. "1" means the output really explains hallucination, while "0" means the constrained reasoner disagrees with the upstream decision and gives reasons why the text is a non-hallucination.
   - Final labeled files are located in the `results/labelled` folder.
+
+## Citation
+[TO Do]
