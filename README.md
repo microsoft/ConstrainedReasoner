@@ -14,17 +14,26 @@ GPT-4 turbo is called from Azure OpenAI Service (AOAI), so there are implementat
  with the key of the resource saved in a key vault. So the user should specify the resource details in aoai_config.json:  resource url as "OPENAI_API_BASE",  the key vault url as "OPENAI_API_KEY_VAULT". It will work after user login in with az login. For audiance calling GPT via other methods, please revise the code, mostly aoaiutil.py.
 
 ## main script
-1. Run Constrained Reasoner: You can run the bash file reason_analysis.sh and specify the path for grounding sources, the hypthesis file, a data name to track, testmode ( if 0 to run all data,  n>0 to sample n hypothses to run). In this way, it will ran all the 3 approaches, and save the reasults in the results folder.
-
-2. Human review the output reasons and judge whether each reason is explaning hallucination or not.
-
+1. Run Constrained Reasoner:
+Execute the reason_analysis.sh bash script.
+Specify the paths for grounding sources, the hypothesis file, a data name for tracking, and the test mode (set to 0 to run all data, or n > 0 to sample n hypotheses).
+This will run all three approaches and save the results in the results folder.
+2. Human Review:
+Review the output reasons and determine whether each reason explains hallucination or not.
 3. Run Analysis:
+[ToDo: Ray]
 
 ## data
-Orignal data are in data folder. Under each data set, there is a folder groundingsources folder and a hypothesis file. groundingsources folder contains all the grounding source files, and the file name is EncounterID.txt. The hypothesis file has columns: EncounterID, which is to match the grounding source files in the folder; SentenceID, which is the index of hypothesis; Sentence are the hypotheses to be judged. Column "IsHallucination" is the ground-truth of whether the hypothesis is hallucinated. Value 1 is hallucination. 
-file name folder name.
-The result from the algorithm and then added human label in result/labelled. Column "IsHallucination" is the ground-truth of whether the hypothesis is hallucinated. Value 1 is hallucination.
- Column "GPTJudgement"  We asking annotators to careful read148
-tk and mark sk whether the reason is explaining149
-the hypothesis is hallucination. GPTreason, GPTReasonCategoryLast,GPTReasonCategoryAll,
-GPTUnknown
+1. Original Data:
+Located in the data folder.
+Each dataset contains a groundingsources folder and a hypothesis file.
+The groundingsources folder includes all grounding source files, named as EncounterID.txt.
+The hypothesis file contains the following columns:
+EncounterID: Matches the grounding source files in the folder.
+SentenceID: Index of the hypothesis.
+Sentence: The hypotheses to be judged.
+IsHallucination: Ground-truth indicating whether the hypothesis is hallucinated (1 for hallucination).
+2. Results:
+Algorithm results are saved as TSV files in the results folder.
+Human reviewers judge whether the generated reasons explain hallucination or non-hallucination in the GPTJudgement column.
+Final labeled files are located in the results/labelled folder.
