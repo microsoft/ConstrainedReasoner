@@ -1,6 +1,6 @@
 # SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection
 
-> This repo contains all the codes and data used in our paper.
+> This repo contains all the codes and data used in our paper. [TO DO: add paper link]
 
 ## Introduction
 
@@ -9,6 +9,8 @@
 Large language models (LLMs) are highly capable but face latency challenges in real-time applications, such as conducting online hallucination detection. To overcome this issue, we propose a novel framework that leverages a small language model  (SLM)  classifier for initial detection, followed by a LLM as constrained reasoner to generate detailed explanations for detected hallucinated content. This study optimizes the real-time interpretable hallucination detection by introducing effective prompting techniques that align LLM-generated explanations with SLM decisions. Empirical experiment results demonstrate its effectiveness, thereby enhancing the overall  user experience.
 
 ## Requirements
+1. update requirement.txt if needed - [ToDo: Ray]
+
 
 ### Environment Requirements
 Please use the following command install all the required python packages:
@@ -25,18 +27,36 @@ We leverage [Azure OpenAI Service](https://azure.microsoft.com/en-in/products/ai
  
 For audiance calling GPT via other methods, please revise the code, mostly [aoaiutil.py](modules/aoaiutil.py).
 
-## main script
-1. Run Constrained Reasoner: You can run the bash file reason_analysis.sh and specify the path for grounding sources, the hypthesis file, a data name to track, testmode ( if 0 to run all data,  n>0 to sample n hypothses to run). In this way, it will ran all the 3 approaches, and save the reasults in the results folder.
 
-2. Human review the output reasons and judge whether each reason is explaning hallucination or not.
+## Main Script
 
-3. Run Analysis:
+1. **Run Constrained Reasoner**:
+   - Execute the `reason_analysis.sh` bash script.
+   - Specify the paths for grounding sources, the hypothesis file, a data name for tracking, and the test mode (set to `0` to run all data, or `n > 0` to sample `n` hypotheses).
+   - This will run all three approaches and save the results in the `results` folder.
 
-## data
-Orignal data are in data folder. Under each data set, there is a folder groundingsources folder and a hypothesis file. groundingsources folder contains all the grounding source files, and the file name is EncounterID.txt. The hypothesis file has columns: EncounterID, which is to match the grounding source files in the folder; SentenceID, which is the index of hypothesis; Sentence are the hypotheses to be judged. Column "IsHallucination" is the ground-truth of whether the hypothesis is hallucinated. Value 1 is hallucination. 
-file name folder name.
-The result from the algorithm and then added human label in result/labelled. Column "IsHallucination" is the ground-truth of whether the hypothesis is hallucinated. Value 1 is hallucination.
- Column "GPTJudgement"  We asking annotators to careful read148
-tk and mark sk whether the reason is explaining149
-the hypothesis is hallucination. GPTreason, GPTReasonCategoryLast,GPTReasonCategoryAll,
-GPTUnknown
+2. **Human Review**:
+   - Review the output reasons and determine whether each reason explains hallucination or not.
+
+3. **Run Analysis**:
+   - [ToDo: Ray]
+
+## Data
+
+- **Original Data**:
+  - Located in the `data` folder.
+  - Each dataset contains a `groundingsources` folder and a hypothesis file.
+  - The `groundingsources` folder includes all grounding source files, named as `EncounterID.txt`.
+  - The hypothesis file contains the following columns:
+    - `EncounterID`: It is used to match the grounding source files in the folder to the corresponding hypotheses in the hypothesis file.
+    - `SentenceID`: Index of the hypotheses within the same encounter.
+    - `Sentence`: The hypotheses to be judged.
+    - `IsHallucination`: Ground-truth indicating whether the hypothesis is hallucinated (`1` for hallucination).
+
+- **Results**:
+  - Algorithm results are saved as TSV files in the `results` folder. Column "GPTreason" is the generated reasons. 
+  - Human reviewers judge the real intention of the generated reasons in the `GPTJudgement` column. "1" means the output really explains hallucination, while "0" means the constrained reasoner disagrees with the upstream decision and gives reasons why the text is a non-hallucination.
+  - Final labeled files are located in the `results/labelled` folder.
+
+## Citation
+[TO Do]
