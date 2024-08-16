@@ -1,30 +1,11 @@
 {   "gpt-4-turbo": {
     "DEFAULT_ENGINE": "gpt-4-t",
-    "OPENAI_API_BASE": "https://roaroai-frc.openai.azure.com/",
+    "OPENAI_API_BASE": "",
     "OPENAI_API_VERSION": "2023-03-15-preview",
     "API_TYPE": "azure",
     "USE_CHAT_COMPLETIONS": true,
-    "OPENAI_API_KEY_VAULT": "https://rai-cairo-dev-kv.vault.azure.net/",
-    "OPENAI_API_KEY_SECRET": "roaroai-frc-api-key",
+    "OPENAI_API_KEY_VAULT": "",
+    "OPENAI_API_KEY_SECRET": "",
     "MAX_CONTEXT_LENGTH": 32768
-},
-"gpt-4-32k": {
-    "DEFAULT_ENGINE": "gpt-4-32k",
-    "OPENAI_API_BASE": "https://roaroai-frc.openai.azure.com/",
-    "OPENAI_API_VERSION": "2023-03-15-preview",
-    "API_TYPE": "azure",
-    "USE_CHAT_COMPLETIONS": true,
-    "OPENAI_API_KEY_VAULT": "https://rai-cairo-dev-kv.vault.azure.net/",
-    "OPENAI_API_KEY_SECRET": "roaroai-frc-api-key",
-    "MAX_CONTEXT_LENGTH": 32768
-},
-"gpt-4": {
-    "DESCRIPTION": "The cogsvc-dax3 endpoint is not officially supported.  It is here in lieu of gpt-4-32k when folks need relief during periods of high load.",
-    "DEFAULT_ENGINE": "gpt-4",
-    "OPENAI_API_BASE": "https://cogsvc-dax3.openai.azure.com/",
-    "OPENAI_API_VERSION": "2023-03-15-preview",
-    "API_TYPE": "azure",
-    "USE_CHAT_COMPLETIONS": true,
-    "MAX_CONTEXT_LENGTH": 8192
 }
 }
