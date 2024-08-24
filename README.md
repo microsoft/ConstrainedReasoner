@@ -8,9 +8,6 @@
 
 Large language models (LLMs) are highly capable but face latency challenges in real-time applications, such as conducting online hallucination detection. To overcome this issue, we propose a novel framework that leverages a small language model  (SLM)  classifier for initial detection, followed by a LLM as constrained reasoner to generate detailed explanations for detected hallucinated content. This study optimizes the real-time interpretable hallucination detection by introducing effective prompting techniques that align LLM-generated explanations with SLM decisions. Empirical experiment results demonstrate its effectiveness, thereby enhancing the overall  user experience.
 
-## Requirements
-1. update requirement.txt if needed - [ToDo: Ray]
-
 
 ### Environment Requirements
 Please use the following command install all the required python packages:
@@ -39,7 +36,7 @@ For audiance calling GPT via other methods, please revise the code, mostly [aoai
    - Review the output reasons and determine whether each reason explains hallucination or not.
 
 3. **Run Analysis**:
-   - [ToDo: Ray]
+   - To reproduce the results in the paper, follow the `analyze_reasoning_results.ipynb` notebook.
 
 ## Data
 
