@@ -1,6 +1,6 @@
 # SLM Meets LLM: Balancing Latency, Interpretability and Consistency in Hallucination Detection
 
-> This repo contains all the codes and data used in our paper. [TO DO: add paper link]
+> This repo contains all the codes and data used in our paper  https://arxiv.org/abs//2408.12748
 
 ## Introduction
 
